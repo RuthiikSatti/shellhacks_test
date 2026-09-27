@@ -1,0 +1,24 @@
+# Secrets: never commit either env file, or private keys.
+.env
+backend/.env
+backend/keys/
+*.p8
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vercel/
+.Claude.md
+.massiveapi.md
+
+# Knowledge graph: raw filings are re-downloadable.
+data/raw/
+
+# Story Mode: raw fetched data is re-fetchable and bulky; the built stories are neither.
+# plans.md requires the demo to run without live API calls, so the precomputed
+# stories are committed and everything else is ignored.
+backend/data/cache/*
+!backend/data/cache/story_*.json
+!backend/data/cache/feed_events.json
+!backend/data/cache/conc_v*_*.json

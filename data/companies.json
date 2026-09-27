@@ -1,0 +1,171 @@
+{
+  "_about": "The supported company universe. The single list read by the knowledge graph (kg/companies.py) and the backend (backend/app/universe.py). To add a company, add an entry here, then run the kg pipeline and Story Mode for it.",
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "cik": 320193,
+      "form": "10-K",
+      "sector": "Technology Hardware",
+      "hq_country": "United States",
+      "aliases": [
+        "Apple",
+        "Apple Inc"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "cik": 1045810,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "NVIDIA",
+        "Nvidia",
+        "NVIDIA Corp"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "cik": 2488,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "AMD",
+        "Advanced Micro Devices"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "cik": 1046179,
+      "form": "20-F",
+      "sector": "Semiconductors",
+      "hq_country": "Taiwan",
+      "aliases": [
+        "TSMC",
+        "Taiwan Semiconductor Manufacturing Company",
+        "Taiwan Semiconductor Manufacturing Co",
+        "Taiwan Semiconductor"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "cik": 789019,
+      "form": "10-K",
+      "sector": "Software",
+      "hq_country": "United States",
+      "aliases": [
+        "Microsoft",
+        "Microsoft Corp"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "cik": 50863,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "Intel",
+        "Intel Corp"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "cik": 723125,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "Micron",
+        "Micron Technology"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "cik": 1730168,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "Broadcom",
+        "Broadcom Corporation",
+        "Broadcom Corp"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "cik": 804328,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "Qualcomm",
+        "Qualcomm Technologies",
+        "QTI"
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML Holding N.V.",
+      "cik": 937966,
+      "form": "20-F",
+      "sector": "Semiconductor Equipment",
+      "hq_country": "Netherlands",
+      "aliases": [
+        "ASML",
+        "ASML Holding",
+        "ASML Netherlands"
+      ]
+    },
+    {
+      "ticker": "CRUS",
+      "name": "Cirrus Logic, Inc.",
+      "cik": 772406,
+      "form": "10-K",
+      "sector": "Semiconductors",
+      "hq_country": "United States",
+      "aliases": [
+        "Cirrus Logic",
+        "Cirrus"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "cik": 1018724,
+      "form": "10-K",
+      "sector": "Internet & Cloud",
+      "hq_country": "United States",
+      "aliases": [
+        "Amazon",
+        "Amazon.com",
+        "Amazon Web Services",
+        "AWS"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "cik": 1652044,
+      "form": "10-K",
+      "sector": "Internet & Cloud",
+      "hq_country": "United States",
+      "aliases": [
+        "Alphabet",
+        "Google",
+        "Google LLC",
+        "Google Cloud"
+      ]
+    }
+  ]
+}

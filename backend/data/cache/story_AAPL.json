@@ -1,0 +1,3262 @@
+{
+  "symbol": "AAPL",
+  "company_name": "Apple Inc.",
+  "generated_at": "2026-09-26T12:46:34.078058+00:00",
+  "bars": [
+    {
+      "date": "2026-03-20",
+      "open": 247.98,
+      "high": 249.2,
+      "low": 246.0,
+      "close": 247.99,
+      "volume": 88331100,
+      "pct_change": 0.0,
+      "prev_close": 247.98
+    },
+    {
+      "date": "2026-03-23",
+      "open": 253.97,
+      "high": 254.6,
+      "low": 250.28,
+      "close": 251.49,
+      "volume": 40546100,
+      "pct_change": 1.411,
+      "prev_close": 247.99
+    },
+    {
+      "date": "2026-03-24",
+      "open": 250.35,
+      "high": 254.83,
+      "low": 249.55,
+      "close": 251.64,
+      "volume": 45152300,
+      "pct_change": 0.06,
+      "prev_close": 251.49
+    },
+    {
+      "date": "2026-03-25",
+      "open": 254.1,
+      "high": 255.0,
+      "low": 251.6,
+      "close": 252.62,
+      "volume": 28476700,
+      "pct_change": 0.389,
+      "prev_close": 251.64
+    },
+    {
+      "date": "2026-03-26",
+      "open": 252.12,
+      "high": 257.0,
+      "low": 250.77,
+      "close": 252.89,
+      "volume": 41796700,
+      "pct_change": 0.107,
+      "prev_close": 252.62
+    },
+    {
+      "date": "2026-03-27",
+      "open": 253.9,
+      "high": 255.49,
+      "low": 248.07,
+      "close": 248.8,
+      "volume": 47900000,
+      "pct_change": -1.617,
+      "prev_close": 252.89
+    },
+    {
+      "date": "2026-03-30",
+      "open": 250.07,
+      "high": 250.87,
+      "low": 245.51,
+      "close": 246.63,
+      "volume": 39446200,
+      "pct_change": -0.872,
+      "prev_close": 248.8
+    },
+    {
+      "date": "2026-03-31",
+      "open": 247.91,
+      "high": 255.48,
+      "low": 247.1,
+      "close": 253.79,
+      "volume": 49598100,
+      "pct_change": 2.903,
+      "prev_close": 246.63
+    },
+    {
+      "date": "2026-04-01",
+      "open": 254.08,
+      "high": 256.18,
+      "low": 253.33,
+      "close": 255.63,
+      "volume": 40059400,
+      "pct_change": 0.725,
+      "prev_close": 253.79
+    },
+    {
+      "date": "2026-04-02",
+      "open": 254.2,
+      "high": 256.13,
+      "low": 250.65,
+      "close": 255.92,
+      "volume": 31289400,
+      "pct_change": 0.113,
+      "prev_close": 255.63
+    },
+    {
+      "date": "2026-04-06",
+      "open": 256.51,
+      "high": 262.16,
+      "low": 256.46,
+      "close": 258.86,
+      "volume": 29329900,
+      "pct_change": 1.149,
+      "prev_close": 255.92
+    },
+    {
+      "date": "2026-04-07",
+      "open": 256.16,
+      "high": 256.2,
+      "low": 245.7,
+      "close": 253.5,
+      "volume": 62148000,
+      "pct_change": -2.071,
+      "prev_close": 258.86
+    },
+    {
+      "date": "2026-04-08",
+      "open": 258.45,
+      "high": 259.75,
+      "low": 256.53,
+      "close": 258.9,
+      "volume": 41032800,
+      "pct_change": 2.13,
+      "prev_close": 253.5
+    },
+    {
+      "date": "2026-04-09",
+      "open": 259.0,
+      "high": 261.12,
+      "low": 256.07,
+      "close": 260.49,
+      "volume": 28121600,
+      "pct_change": 0.614,
+      "prev_close": 258.9
+    },
+    {
+      "date": "2026-04-10",
+      "open": 259.98,
+      "high": 262.19,
+      "low": 259.02,
+      "close": 260.48,
+      "volume": 31291500,
+      "pct_change": -0.004,
+      "prev_close": 260.49
+    },
+    {
+      "date": "2026-04-13",
+      "open": 259.73,
+      "high": 260.18,
+      "low": 256.66,
+      "close": 259.2,
+      "volume": 36234700,
+      "pct_change": -0.491,
+      "prev_close": 260.48
+    },
+    {
+      "date": "2026-04-14",
+      "open": 259.25,
+      "high": 261.93,
+      "low": 257.19,
+      "close": 258.83,
+      "volume": 48370700,
+      "pct_change": -0.143,
+      "prev_close": 259.2
+    },
+    {
+      "date": "2026-04-15",
+      "open": 258.16,
+      "high": 266.56,
+      "low": 257.81,
+      "close": 266.43,
+      "volume": 49913500,
+      "pct_change": 2.936,
+      "prev_close": 258.83
+    },
+    {
+      "date": "2026-04-16",
+      "open": 266.8,
+      "high": 267.16,
+      "low": 261.27,
+      "close": 263.4,
+      "volume": 43323100,
+      "pct_change": -1.137,
+      "prev_close": 266.43
+    },
+    {
+      "date": "2026-04-17",
+      "open": 266.96,
+      "high": 272.3,
+      "low": 266.72,
+      "close": 270.23,
+      "volume": 61436200,
+      "pct_change": 2.593,
+      "prev_close": 263.4
+    },
+    {
+      "date": "2026-04-20",
+      "open": 270.33,
+      "high": 274.28,
+      "low": 270.29,
+      "close": 273.05,
+      "volume": 36590200,
+      "pct_change": 1.044,
+      "prev_close": 270.23
+    },
+    {
+      "date": "2026-04-21",
+      "open": 271.5,
+      "high": 272.8,
+      "low": 265.4,
+      "close": 266.17,
+      "volume": 50209800,
+      "pct_change": -2.52,
+      "prev_close": 273.05
+    },
+    {
+      "date": "2026-04-22",
+      "open": 267.82,
+      "high": 273.74,
+      "low": 266.87,
+      "close": 273.17,
+      "volume": 43249200,
+      "pct_change": 2.63,
+      "prev_close": 266.17
+    },
+    {
+      "date": "2026-04-23",
+      "open": 275.05,
+      "high": 275.77,
+      "low": 271.65,
+      "close": 273.43,
+      "volume": 33399600,
+      "pct_change": 0.095,
+      "prev_close": 273.17
+    },
+    {
+      "date": "2026-04-24",
+      "open": 272.76,
+      "high": 273.06,
+      "low": 269.65,
+      "close": 271.06,
+      "volume": 38157100,
+      "pct_change": -0.867,
+      "prev_close": 273.43
+    },
+    {
+      "date": "2026-04-27",
+      "open": 266.09,
+      "high": 268.36,
+      "low": 265.07,
+      "close": 267.61,
+      "volume": 41466800,
+      "pct_change": -1.273,
+      "prev_close": 271.06
+    },
+    {
+      "date": "2026-04-28",
+      "open": 272.34,
+      "high": 273.23,
+      "low": 268.66,
+      "close": 270.71,
+      "volume": 40018900,
+      "pct_change": 1.158,
+      "prev_close": 267.61
+    },
+    {
+      "date": "2026-04-29",
+      "open": 267.55,
+      "high": 271.04,
+      "low": 267.04,
+      "close": 270.17,
+      "volume": 30047900,
+      "pct_change": -0.199,
+      "prev_close": 270.71
+    },
+    {
+      "date": "2026-04-30",
+      "open": 270.5,
+      "high": 276.0,
+      "low": 268.14,
+      "close": 271.35,
+      "volume": 91848200,
+      "pct_change": 0.437,
+      "prev_close": 270.17
+    },
+    {
+      "date": "2026-05-01",
+      "open": 278.86,
+      "high": 287.22,
+      "low": 278.37,
+      "close": 280.14,
+      "volume": 79915400,
+      "pct_change": 3.239,
+      "prev_close": 271.35
+    },
+    {
+      "date": "2026-05-04",
+      "open": 279.66,
+      "high": 280.63,
+      "low": 274.86,
+      "close": 276.83,
+      "volume": 46668400,
+      "pct_change": -1.182,
+      "prev_close": 280.14
+    },
+    {
+      "date": "2026-05-05",
+      "open": 276.93,
+      "high": 284.57,
+      "low": 276.5,
+      "close": 284.18,
+      "volume": 49311700,
+      "pct_change": 2.655,
+      "prev_close": 276.83
+    },
+    {
+      "date": "2026-05-06",
+      "open": 281.92,
+      "high": 288.03,
+      "low": 281.07,
+      "close": 287.51,
+      "volume": 58336100,
+      "pct_change": 1.172,
+      "prev_close": 284.18
+    },
+    {
+      "date": "2026-05-07",
+      "open": 289.27,
+      "high": 292.13,
+      "low": 285.78,
+      "close": 287.44,
+      "volume": 45224300,
+      "pct_change": -0.024,
+      "prev_close": 287.51
+    },
+    {
+      "date": "2026-05-08",
+      "open": 290.01,
+      "high": 294.76,
+      "low": 290.0,
+      "close": 293.32,
+      "volume": 52692800,
+      "pct_change": 2.046,
+      "prev_close": 287.44
+    },
+    {
+      "date": "2026-05-11",
+      "open": 291.98,
+      "high": 293.88,
+      "low": 290.23,
+      "close": 292.68,
+      "volume": 42247300,
+      "pct_change": -0.218,
+      "prev_close": 293.32
+    },
+    {
+      "date": "2026-05-12",
+      "open": 292.56,
+      "high": 295.27,
+      "low": 292.56,
+      "close": 294.8,
+      "volume": 45748100,
+      "pct_change": 0.724,
+      "prev_close": 292.68
+    },
+    {
+      "date": "2026-05-13",
+      "open": 293.5,
+      "high": 300.92,
+      "low": 293.5,
+      "close": 298.87,
+      "volume": 52684300,
+      "pct_change": 1.381,
+      "prev_close": 294.8
+    },
+    {
+      "date": "2026-05-14",
+      "open": 299.82,
+      "high": 300.45,
+      "low": 295.38,
+      "close": 298.21,
+      "volume": 35324900,
+      "pct_change": -0.221,
+      "prev_close": 298.87
+    },
+    {
+      "date": "2026-05-15",
+      "open": 297.9,
+      "high": 303.2,
+      "low": 296.52,
+      "close": 300.23,
+      "volume": 54862800,
+      "pct_change": 0.677,
+      "prev_close": 298.21
+    },
+    {
+      "date": "2026-05-18",
+      "open": 300.24,
+      "high": 300.66,
+      "low": 294.91,
+      "close": 297.84,
+      "volume": 34483000,
+      "pct_change": -0.796,
+      "prev_close": 300.23
+    },
+    {
+      "date": "2026-05-19",
+      "open": 296.97,
+      "high": 300.51,
+      "low": 296.35,
+      "close": 298.97,
+      "volume": 42243600,
+      "pct_change": 0.379,
+      "prev_close": 297.84
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.08,
+      "close": 302.25,
+      "volume": 38229800,
+      "pct_change": 1.097,
+      "prev_close": 298.97
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.06,
+      "high": 305.54,
+      "low": 300.4,
+      "close": 304.99,
+      "volume": 42965100,
+      "pct_change": 0.907,
+      "prev_close": 302.25
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.12,
+      "high": 311.4,
+      "low": 305.84,
+      "close": 308.82,
+      "volume": 43670200,
+      "pct_change": 1.256,
+      "prev_close": 304.99
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.56,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 48000500,
+      "pct_change": -0.159,
+      "prev_close": 308.82
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.33,
+      "high": 313.26,
+      "low": 308.3,
+      "close": 310.85,
+      "volume": 50430900,
+      "pct_change": 0.817,
+      "prev_close": 308.33
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.68,
+      "high": 312.8,
+      "low": 309.57,
+      "close": 312.51,
+      "volume": 48220400,
+      "pct_change": 0.534,
+      "prev_close": 310.85
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.78,
+      "high": 315.0,
+      "low": 309.53,
+      "close": 312.06,
+      "volume": 70026800,
+      "pct_change": -0.144,
+      "prev_close": 312.51
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.63,
+      "high": 310.94,
+      "low": 305.02,
+      "close": 306.31,
+      "volume": 48849900,
+      "pct_change": -1.843,
+      "prev_close": 312.06
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.46,
+      "high": 315.45,
+      "low": 306.69,
+      "close": 315.2,
+      "volume": 44534700,
+      "pct_change": 2.902,
+      "prev_close": 306.31
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.18,
+      "high": 316.94,
+      "low": 308.85,
+      "close": 310.26,
+      "volume": 50836700,
+      "pct_change": -1.567,
+      "prev_close": 315.2
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.23,
+      "high": 313.54,
+      "low": 309.65,
+      "close": 311.23,
+      "volume": 44869100,
+      "pct_change": 0.313,
+      "prev_close": 310.26
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.86,
+      "high": 315.17,
+      "low": 307.15,
+      "close": 307.34,
+      "volume": 65310500,
+      "pct_change": -1.25,
+      "prev_close": 311.23
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.74,
+      "high": 317.4,
+      "low": 301.17,
+      "close": 301.54,
+      "volume": 77949100,
+      "pct_change": -1.887,
+      "prev_close": 307.34
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.28,
+      "high": 300.75,
+      "low": 287.78,
+      "close": 290.55,
+      "volume": 70108800,
+      "pct_change": -3.645,
+      "prev_close": 301.54
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.74,
+      "high": 294.75,
+      "low": 287.38,
+      "close": 291.58,
+      "volume": 52793300,
+      "pct_change": 0.355,
+      "prev_close": 290.55
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.72,
+      "high": 297.0,
+      "low": 289.59,
+      "close": 295.63,
+      "volume": 42572500,
+      "pct_change": 1.389,
+      "prev_close": 291.58
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.03,
+      "high": 297.14,
+      "low": 289.62,
+      "close": 291.13,
+      "volume": 38742100,
+      "pct_change": -1.522,
+      "prev_close": 295.63
+    },
+    {
+      "date": "2026-06-15",
+      "open": 294.12,
+      "high": 297.78,
+      "low": 291.7,
+      "close": 296.42,
+      "volume": 45732600,
+      "pct_change": 1.817,
+      "prev_close": 291.13
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.25,
+      "high": 300.48,
+      "low": 293.97,
+      "close": 299.24,
+      "volume": 39874400,
+      "pct_change": 0.951,
+      "prev_close": 296.42
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.85,
+      "high": 302.07,
+      "low": 294.36,
+      "close": 295.95,
+      "volume": 42745100,
+      "pct_change": -1.099,
+      "prev_close": 299.24
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.11,
+      "high": 300.57,
+      "low": 295.62,
+      "close": 298.01,
+      "volume": 85962200,
+      "pct_change": 0.696,
+      "prev_close": 295.95
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.31,
+      "high": 302.42,
+      "low": 296.76,
+      "close": 297.01,
+      "volume": 44879900,
+      "pct_change": -0.336,
+      "prev_close": 298.01
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.54,
+      "high": 301.64,
+      "low": 294.18,
+      "close": 294.3,
+      "volume": 52010900,
+      "pct_change": -0.912,
+      "prev_close": 297.01
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.36,
+      "high": 299.7,
+      "low": 292.94,
+      "close": 293.08,
+      "volume": 53081900,
+      "pct_change": -0.415,
+      "prev_close": 294.3
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.4,
+      "high": 288.8,
+      "low": 273.75,
+      "close": 275.15,
+      "volume": 107013700,
+      "pct_change": -6.118,
+      "prev_close": 293.08
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.0,
+      "high": 285.95,
+      "low": 274.21,
+      "close": 283.78,
+      "volume": 261775500,
+      "pct_change": 3.136,
+      "prev_close": 275.15
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.73,
+      "high": 288.37,
+      "low": 279.85,
+      "close": 281.74,
+      "volume": 66427000,
+      "pct_change": -0.719,
+      "prev_close": 283.78
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.17,
+      "high": 289.94,
+      "low": 280.7,
+      "close": 289.36,
+      "volume": 65100200,
+      "pct_change": 2.705,
+      "prev_close": 281.74
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.59,
+      "low": 289.2,
+      "close": 294.38,
+      "volume": 50164200,
+      "pct_change": 1.735,
+      "prev_close": 289.36
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.12,
+      "high": 309.42,
+      "low": 293.68,
+      "close": 308.63,
+      "volume": 75352800,
+      "pct_change": 4.841,
+      "prev_close": 294.38
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.36,
+      "high": 314.2,
+      "low": 307.0,
+      "close": 312.66,
+      "volume": 53590000,
+      "pct_change": 1.306,
+      "prev_close": 308.63
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.48,
+      "low": 310.15,
+      "close": 310.66,
+      "volume": 42490000,
+      "pct_change": -0.64,
+      "prev_close": 312.66
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.82,
+      "low": 307.05,
+      "close": 313.39,
+      "volume": 41323500,
+      "pct_change": 0.879,
+      "prev_close": 310.66
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.51,
+      "high": 316.53,
+      "low": 308.16,
+      "close": 316.22,
+      "volume": 48124500,
+      "pct_change": 0.903,
+      "prev_close": 313.39
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 34132300,
+      "pct_change": -0.285,
+      "prev_close": 316.22
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.02,
+      "high": 323.45,
+      "low": 315.78,
+      "close": 317.31,
+      "volume": 43257800,
+      "pct_change": 0.631,
+      "prev_close": 315.32
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.19,
+      "low": 311.91,
+      "close": 314.86,
+      "volume": 36336800,
+      "pct_change": -0.772,
+      "prev_close": 317.31
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.62,
+      "high": 328.73,
+      "low": 317.32,
+      "close": 327.5,
+      "volume": 60957600,
+      "pct_change": 4.014,
+      "prev_close": 314.86
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.01,
+      "high": 334.68,
+      "low": 326.79,
+      "close": 333.26,
+      "volume": 62970600,
+      "pct_change": 1.759,
+      "prev_close": 327.5
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.99,
+      "low": 329.0,
+      "close": 333.74,
+      "volume": 63407100,
+      "pct_change": 0.144,
+      "prev_close": 333.26
+    },
+    {
+      "date": "2026-07-20",
+      "open": 333.51,
+      "high": 333.71,
+      "low": 323.68,
+      "close": 326.59,
+      "volume": 53468000,
+      "pct_change": -2.142,
+      "prev_close": 333.74
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.13,
+      "high": 329.6,
+      "low": 322.22,
+      "close": 327.74,
+      "volume": 41338900,
+      "pct_change": 0.352,
+      "prev_close": 326.59
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.87,
+      "high": 329.0,
+      "low": 323.34,
+      "close": 325.89,
+      "volume": 38755900,
+      "pct_change": -0.564,
+      "prev_close": 327.74
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.73,
+      "high": 323.3,
+      "low": 319.35,
+      "close": 321.66,
+      "volume": 40840800,
+      "pct_change": -1.298,
+      "prev_close": 325.89
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.79,
+      "high": 334.37,
+      "low": 321.62,
+      "close": 333.02,
+      "volume": 47489400,
+      "pct_change": 3.532,
+      "prev_close": 321.66
+    },
+    {
+      "date": "2026-07-27",
+      "open": 334.54,
+      "high": 339.57,
+      "low": 334.02,
+      "close": 336.91,
+      "volume": 49604300,
+      "pct_change": 1.168,
+      "prev_close": 333.02
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.03,
+      "high": 342.89,
+      "low": 335.6,
+      "close": 340.08,
+      "volume": 51859000,
+      "pct_change": 0.941,
+      "prev_close": 336.91
+    },
+    {
+      "date": "2026-07-29",
+      "open": 339.73,
+      "high": 344.57,
+      "low": 337.35,
+      "close": 338.19,
+      "volume": 56090800,
+      "pct_change": -0.556,
+      "prev_close": 340.08
+    },
+    {
+      "date": "2026-07-30",
+      "open": 333.1,
+      "high": 334.75,
+      "low": 329.59,
+      "close": 333.43,
+      "volume": 74817800,
+      "pct_change": -1.407,
+      "prev_close": 338.19
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.81,
+      "high": 310.69,
+      "low": 300.0,
+      "close": 308.91,
+      "volume": 132489100,
+      "pct_change": -7.354,
+      "prev_close": 333.43
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.58,
+      "high": 311.8,
+      "low": 302.56,
+      "close": 303.42,
+      "volume": 75052000,
+      "pct_change": -1.777,
+      "prev_close": 308.91
+    },
+    {
+      "date": "2026-08-04",
+      "open": 302.73,
+      "high": 310.42,
+      "low": 301.32,
+      "close": 309.38,
+      "volume": 68001000,
+      "pct_change": 1.964,
+      "prev_close": 303.42
+    },
+    {
+      "date": "2026-08-05",
+      "open": 309.36,
+      "high": 311.71,
+      "low": 305.67,
+      "close": 311.0,
+      "volume": 49438800,
+      "pct_change": 0.524,
+      "prev_close": 309.38
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.34,
+      "high": 316.29,
+      "low": 309.23,
+      "close": 312.41,
+      "volume": 46139900,
+      "pct_change": 0.453,
+      "prev_close": 311.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.45,
+      "high": 314.81,
+      "low": 310.74,
+      "close": 313.33,
+      "volume": 34437200,
+      "pct_change": 0.294,
+      "prev_close": 312.41
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.83,
+      "high": 308.26,
+      "low": 304.61,
+      "close": 308.26,
+      "volume": 44812500,
+      "pct_change": -1.618,
+      "prev_close": 313.33
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.75,
+      "high": 309.97,
+      "low": 302.79,
+      "close": 304.91,
+      "volume": 37476700,
+      "pct_change": -1.087,
+      "prev_close": 308.26
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.1,
+      "high": 305.66,
+      "low": 300.57,
+      "close": 302.25,
+      "volume": 41657800,
+      "pct_change": -0.872,
+      "prev_close": 304.91
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.21,
+      "high": 306.0,
+      "low": 302.05,
+      "close": 305.26,
+      "volume": 40349300,
+      "pct_change": 0.996,
+      "prev_close": 302.25
+    },
+    {
+      "date": "2026-08-14",
+      "open": 306.0,
+      "high": 307.49,
+      "low": 304.3,
+      "close": 305.93,
+      "volume": 28229400,
+      "pct_change": 0.219,
+      "prev_close": 305.26
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.66,
+      "low": 302.94,
+      "close": 305.59,
+      "volume": 38169300,
+      "pct_change": -0.111,
+      "prev_close": 305.93
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.58,
+      "high": 311.49,
+      "low": 305.74,
+      "close": 310.03,
+      "volume": 53424500,
+      "pct_change": 1.453,
+      "prev_close": 305.59
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.14,
+      "high": 319.28,
+      "low": 309.6,
+      "close": 316.83,
+      "volume": 50505600,
+      "pct_change": 2.193,
+      "prev_close": 310.03
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.46,
+      "high": 320.28,
+      "low": 310.65,
+      "close": 311.3,
+      "volume": 40959200,
+      "pct_change": -1.745,
+      "prev_close": 316.83
+    },
+    {
+      "date": "2026-08-21",
+      "open": 312.05,
+      "high": 312.38,
+      "low": 307.01,
+      "close": 309.35,
+      "volume": 46876800,
+      "pct_change": -0.626,
+      "prev_close": 311.3
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.36,
+      "low": 309.97,
+      "close": 310.34,
+      "volume": 34673600,
+      "pct_change": 0.32,
+      "prev_close": 309.35
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.79,
+      "high": 313.59,
+      "low": 308.21,
+      "close": 309.9,
+      "volume": 25869800,
+      "pct_change": -0.142,
+      "prev_close": 310.34
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.3,
+      "high": 315.43,
+      "low": 308.8,
+      "close": 313.45,
+      "volume": 34024500,
+      "pct_change": 1.146,
+      "prev_close": 309.9
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.55,
+      "high": 315.4,
+      "low": 309.4,
+      "close": 314.58,
+      "volume": 32419200,
+      "pct_change": 0.361,
+      "prev_close": 313.45
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.85,
+      "high": 322.37,
+      "low": 315.45,
+      "close": 319.7,
+      "volume": 38649400,
+      "pct_change": 1.628,
+      "prev_close": 314.58
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.6,
+      "high": 321.24,
+      "low": 312.8,
+      "close": 316.85,
+      "volume": 41242700,
+      "pct_change": -0.891,
+      "prev_close": 319.7
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.98,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.13,
+      "volume": 53167400,
+      "pct_change": 2.613,
+      "prev_close": 316.85
+    },
+    {
+      "date": "2026-09-02",
+      "open": 326.87,
+      "high": 328.4,
+      "low": 323.53,
+      "close": 324.96,
+      "volume": 33776400,
+      "pct_change": -0.052,
+      "prev_close": 325.13
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.87,
+      "high": 330.81,
+      "low": 324.11,
+      "close": 328.21,
+      "volume": 37225800,
+      "pct_change": 1.0,
+      "prev_close": 324.96
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.31,
+      "high": 328.93,
+      "low": 317.86,
+      "close": 319.97,
+      "volume": 39606900,
+      "pct_change": -2.511,
+      "prev_close": 328.21
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.1,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.22,
+      "volume": 35477100,
+      "pct_change": -1.172,
+      "prev_close": 319.97
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.49,
+      "high": 319.15,
+      "low": 309.9,
+      "close": 315.34,
+      "volume": 65640000,
+      "pct_change": -0.278,
+      "prev_close": 316.22
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.67,
+      "high": 326.74,
+      "low": 316.51,
+      "close": 326.57,
+      "volume": 70011900,
+      "pct_change": 3.561,
+      "prev_close": 315.34
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.22,
+      "low": 326.3,
+      "close": 332.27,
+      "volume": 50716900,
+      "pct_change": 1.745,
+      "prev_close": 326.57
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.79,
+      "high": 335.5,
+      "low": 331.34,
+      "close": 333.08,
+      "volume": 39269100,
+      "pct_change": 0.244,
+      "prev_close": 332.27
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.14,
+      "high": 331.78,
+      "low": 328.35,
+      "close": 331.34,
+      "volume": 31748200,
+      "pct_change": -0.522,
+      "prev_close": 333.08
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.53,
+      "high": 335.48,
+      "low": 330.7,
+      "close": 332.41,
+      "volume": 35981000,
+      "pct_change": 0.323,
+      "prev_close": 331.34
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.77,
+      "high": 338.34,
+      "low": 330.18,
+      "close": 337.0,
+      "volume": 36700200,
+      "pct_change": 1.381,
+      "prev_close": 332.41
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.91,
+      "high": 338.49,
+      "low": 332.53,
+      "close": 336.13,
+      "volume": 86588200,
+      "pct_change": -0.258,
+      "prev_close": 337.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.28,
+      "high": 339.64,
+      "low": 333.05,
+      "close": 338.98,
+      "volume": 34999200,
+      "pct_change": 0.848,
+      "prev_close": 336.13
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.14,
+      "high": 345.34,
+      "low": 338.75,
+      "close": 339.75,
+      "volume": 40711800,
+      "pct_change": 0.227,
+      "prev_close": 338.98
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.08,
+      "high": 341.8,
+      "low": 335.5,
+      "close": 337.02,
+      "volume": 31658800,
+      "pct_change": -0.804,
+      "prev_close": 339.75
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.91,
+      "low": 334.3,
+      "close": 335.92,
+      "volume": 24733100,
+      "pct_change": -0.326,
+      "prev_close": 337.02
+    },
+    {
+      "date": "2026-09-25",
+      "open": 336.04,
+      "high": 341.67,
+      "low": 334.53,
+      "close": 341.07,
+      "volume": 29950100,
+      "pct_change": 1.533,
+      "prev_close": 335.92
+    }
+  ],
+  "beats": [
+    {
+      "date": "2026-05-01",
+      "pct_change": 3.239,
+      "close": 280.14,
+      "direction": "up",
+      "headline": "Apple jumps on record earnings and $100B buyback",
+      "explanation": "Apple gained 3.24% to close at $280.14 on 1.9 times its average volume following record quarterly results, upbeat guidance, and a $100 billion share buyback announcement. The move was primarily company-specific, with connected peers like customer Alphabet up just 0.23% and supplier TSMC up 0.41%, even as competitor Intel advanced 5.44%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260501_price",
+        "ev_AAPL_20260501_news1",
+        "ev_AAPL_20260501_news3",
+        "ev_AAPL_20260501_peer_GOOGL",
+        "ev_AAPL_20260501_peer_TSM",
+        "ev_AAPL_20260501_peer_INTC"
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "pct_change": -3.645,
+      "close": 290.55,
+      "direction": "down",
+      "headline": "Apple falls as WWDC and Siri AI disappoint",
+      "explanation": "Apple dropped 3.65% to $290.55 after unveiling its WWDC updates, with investors questioning device upgrade cycles and noting the AI announcements fell short of high expectations. Competitors Intel and Microsoft also dropped 2.13% and 2.02% respectively, while supplier Qualcomm dropped 5.67%, reflecting broader sector softness alongside Apple's event reaction.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260609_price",
+        "ev_AAPL_20260609_news3",
+        "ev_AAPL_20260609_news7",
+        "ev_AAPL_20260609_peer_INTC",
+        "ev_AAPL_20260609_peer_MSFT",
+        "ev_AAPL_20260609_peer_QCOM"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "pct_change": -6.118,
+      "close": 275.15,
+      "direction": "down",
+      "headline": "Apple sinks 6.12% after mid-cycle product price hikes",
+      "explanation": "Shares fell 6.12% to $275.15 on 2.6 times average volume after Apple raised prices across Macs, iPads, and accessories to offset surging AI-driven memory chip costs. The steep drop was distinct from peers like supplier Qualcomm, which gained 3.79%, and competitor Intel, which rose 0.93%, as the market reacted to margin pressures and demand concerns.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260625_price",
+        "ev_AAPL_20260625_news1",
+        "ev_AAPL_20260625_news2",
+        "ev_AAPL_20260625_news3",
+        "ev_AAPL_20260625_peer_QCOM",
+        "ev_AAPL_20260625_peer_INTC"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "pct_change": 3.136,
+      "close": 283.78,
+      "direction": "up",
+      "headline": "Apple rebounds 3.14% on technical bounce",
+      "explanation": "Apple rebounded 3.14% to $283.78 on massive volume of 6.3 times normal, regaining ground from technical support near the $275 level following the prior session's price-hike sell-off. The rebound occurred despite negative headline news of its Vision Pro hardware lead defecting to OpenAI, and diverged from suppliers Cirrus Logic and Qualcomm, which slid 4.86% and 7.57% respectively.",
+      "confidence": "medium",
+      "citation_ids": [
+        "ev_AAPL_20260626_price",
+        "ev_AAPL_20260626_news2",
+        "ev_AAPL_20260626_news3",
+        "ev_AAPL_20260626_peer_CRUS",
+        "ev_AAPL_20260626_peer_QCOM"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "pct_change": 4.841,
+      "close": 308.63,
+      "direction": "up",
+      "headline": "Apple climbs 4.84% on foldable iPhone targets",
+      "explanation": "Shares rose 4.84% to $308.63 following reports that Apple expanded production plans for its upcoming foldable iPhone to roughly 10 million units and prepared an aggressive five-model lineup. The advance was company-specific, as suppliers Cirrus Logic, Qualcomm, and TSMC fell between 0.12% and 3.12%, while competitor Intel dropped 5.25%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260702_price",
+        "ev_AAPL_20260702_news0",
+        "ev_AAPL_20260702_news4",
+        "ev_AAPL_20260702_peer_CRUS",
+        "ev_AAPL_20260702_peer_INTC",
+        "ev_AAPL_20260702_peer_QCOM",
+        "ev_AAPL_20260702_peer_TSM"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "pct_change": 4.014,
+      "close": 327.5,
+      "direction": "up",
+      "headline": "Apple hits record high on China AI regulatory approval",
+      "explanation": "Apple surged 4.01% to a new all-time high of $327.50 after Chinese regulators approved Apple Intelligence in the country via integration with Alibaba's Qwen model. While competitor Microsoft and customer Alphabet also posted gains of 2.78% and 3.17%, Apple outperformed its suppliers TSMC and Qualcomm, which were slightly negative.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260715_price",
+        "ev_AAPL_20260715_news0",
+        "ev_AAPL_20260715_news4",
+        "ev_AAPL_20260715_peer_GOOGL",
+        "ev_AAPL_20260715_peer_MSFT",
+        "ev_AAPL_20260715_peer_TSM",
+        "ev_AAPL_20260715_peer_QCOM"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "pct_change": 3.532,
+      "close": 333.02,
+      "direction": "up",
+      "headline": "Apple gains 3.53% on capital-light AI strategy",
+      "explanation": "Apple rose 3.53% to $333.02 as market sentiment favored its anti-capex AI approach heading into earnings, treating the stock as a hedge against heavy infrastructure spending by tech peers. The gain was distinct to Apple, with competitor Intel dropping 7.89% and suppliers TSMC and Qualcomm retreating 2.93% and 2.42%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260724_price",
+        "ev_AAPL_20260724_news4",
+        "ev_AAPL_20260724_news7",
+        "ev_AAPL_20260724_peer_INTC",
+        "ev_AAPL_20260724_peer_TSM",
+        "ev_AAPL_20260724_peer_QCOM"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "pct_change": -7.354,
+      "close": 308.91,
+      "direction": "down",
+      "headline": "Apple drops 7.35% on weak guidance from chip shortages",
+      "explanation": "Apple slid 7.35% to $308.91 on 3.2 times average volume after its fiscal third-quarter report included weaker-than-expected sales guidance caused by AI-driven component shortages. The plunge was sharply company-specific, occurring while customer Alphabet and competitor Microsoft rose 6.73% and 3.02% respectively on strong cloud results.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260731_price",
+        "ev_AAPL_20260731_news3",
+        "ev_AAPL_20260731_news4",
+        "ev_AAPL_20260731_news7",
+        "ev_AAPL_20260731_peer_GOOGL",
+        "ev_AAPL_20260731_peer_MSFT"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "pct_change": 3.561,
+      "close": 326.57,
+      "direction": "up",
+      "headline": "Apple rises 3.56% following iPhone Duo launch",
+      "explanation": "Apple shares climbed 3.56% to $326.57 as analysts projected strong demand for the newly announced $1,999 foldable iPhone Duo against rival Samsung. The move was accompanied by supplier Cirrus Logic jumping 5.20%, while competitor Intel fell 5.57% and supplier TSMC shed 1.68%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AAPL_20260910_price",
+        "ev_AAPL_20260910_news1",
+        "ev_AAPL_20260910_news3",
+        "ev_AAPL_20260910_peer_CRUS",
+        "ev_AAPL_20260910_peer_INTC",
+        "ev_AAPL_20260910_peer_TSM"
+      ]
+    }
+  ],
+  "evidence": {
+    "ev_AAPL_20260501_price": {
+      "id": "ev_AAPL_20260501_price",
+      "kind": "price",
+      "title": "AAPL rose 3.24% on 2026-05-01",
+      "detail": "Closed at $280.14 from $271.35. Volume was 1.9x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "pct_change": 3.239,
+        "close": 280.14,
+        "prev_close": 271.35,
+        "volume": 79915400,
+        "volume_vs_30d_avg": 1.93,
+        "move_excluding_sector_pct": 2.07
+      }
+    },
+    "ev_AAPL_20260501_peer_CRUS": {
+      "id": "ev_AAPL_20260501_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved +0.71% the same day",
+      "detail": "AAPL moved +3.24% while CRUS moved +0.71%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "peer_pct_change": 0.71,
+        "subject_pct_change": 3.239,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260501_peer_GOOGL": {
+      "id": "ev_AAPL_20260501_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved +0.23% the same day",
+      "detail": "AAPL moved +3.24% while GOOGL moved +0.23%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "peer_pct_change": 0.23,
+        "subject_pct_change": 3.239,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260501_peer_INTC": {
+      "id": "ev_AAPL_20260501_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +5.44% the same day",
+      "detail": "AAPL moved +3.24% while INTC moved +5.44%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "peer_pct_change": 5.44,
+        "subject_pct_change": 3.239,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260501_peer_MSFT": {
+      "id": "ev_AAPL_20260501_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +1.63% the same day",
+      "detail": "AAPL moved +3.24% while MSFT moved +1.63%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "peer_pct_change": 1.63,
+        "subject_pct_change": 3.239,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260501_peer_QCOM": {
+      "id": "ev_AAPL_20260501_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -1.43% the same day",
+      "detail": "AAPL moved +3.24% while QCOM moved -1.43%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "peer_pct_change": -1.43,
+        "subject_pct_change": 3.239,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260501_peer_TSM": {
+      "id": "ev_AAPL_20260501_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +0.41% the same day",
+      "detail": "AAPL moved +3.24% while TSM moved +0.41%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-05-01",
+      "numbers": {
+        "peer_pct_change": 0.41,
+        "subject_pct_change": 3.239,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260501_filing_000032019326000013": {
+      "id": "ev_AAPL_20260501_filing_000032019326000013",
+      "kind": "filing",
+      "title": "10-Q filed 2026-05-01",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/aapl-20260328.htm",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_filing_000032019326000011": {
+      "id": "ev_AAPL_20260501_filing_000032019326000011",
+      "kind": "filing",
+      "title": "8-K filed 2026-04-30",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000011/aapl-20260430.htm",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news0": {
+      "id": "ev_AAPL_20260501_news0",
+      "kind": "news",
+      "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
+      "detail": "Reported by Yahoo. At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ea6583cbcf8380c6cd9733e956faaffc053bf001cd1d9dcc70554eec51386719",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news1": {
+      "id": "ev_AAPL_20260501_news1",
+      "kind": "news",
+      "title": "Stock Market Today, May 1: Apple Jumps After Record Quarter and $100 Billion Share Buyback",
+      "detail": "Reported by Yahoo. Record quarterly profits, upbeat guidance, and an enormous buyback are reshaping the risk\u2013reward profile for investors, today, May 1, 2026.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5f42ee6fcd537eb648e34d62c1eb8f939379e36f81f10410d6b8ccfb5e47c359",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news2": {
+      "id": "ev_AAPL_20260501_news2",
+      "kind": "news",
+      "title": "Dow Jones Futures: Stock Market Hits Highs After Bullish Pause; Apple, Broadcom In Buy Zones",
+      "detail": "Reported by Yahoo. The stock market rebounded late last week after a short pause. The S&P 500 and Nasdaq are at highs while Apple and Broadcom are in buy zones.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=080e6e53474c3897c8498173cea024db874e717fa70f9a57030caf345fcae93d",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news3": {
+      "id": "ev_AAPL_20260501_news3",
+      "kind": "news",
+      "title": "Why Apple Stock is Jumping on Friday",
+      "detail": "Reported by Yahoo. Apple Stock Rises After Earnings Beat. Strong iPhone Demand Is Driving Growth.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=065fcacb55224c3cba781a507acfeb27a882448f0bef1d374dd8d426e762a8a6",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news4": {
+      "id": "ev_AAPL_20260501_news4",
+      "kind": "news",
+      "title": "Apple Stock Surged After Earnings. 3 Concerns Lurking Beneath the Surface.",
+      "detail": "Reported by Yahoo. \u201cWe believe memory costs will drive an increasing impact on our business,\u201d CEO Tim Cook said Thursday night.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d9c907e48d74b63dc8f9fcafb30a4ed28fde8caef86323748985abd61d4938a2",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news5": {
+      "id": "ev_AAPL_20260501_news5",
+      "kind": "news",
+      "title": "Apple Warns the Memory Shortage Is Getting Worse. Experts Say It Could Drive Up Prices",
+      "detail": "Reported by Yahoo. Apple CEO Tim Cook on Thursday warned headwinds from an AI-driven memory supply crunch are only getting stronger.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a3a39c01dff50d6d95bba4f4d3e5b6f583e946d1b18ad89d7e78689368d979b7",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news6": {
+      "id": "ev_AAPL_20260501_news6",
+      "kind": "news",
+      "title": "3 Takeaways From Apple Earnings. The Stock Is Surging.",
+      "detail": "Reported by Yahoo. \u201cWe believe memory costs will drive an increasing impact on our business,\u201d CEO Tim Cook said Thursday night.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=dc2ebbe581413f4b3e71ce72ec6cc9b2cfc76f6d084c55076bedc8199a301ad0",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260501_news7": {
+      "id": "ev_AAPL_20260501_news7",
+      "kind": "news",
+      "title": "Equity Markets Mostly Rise Intraday as Apple Helps Lift Tech",
+      "detail": "Reported by Yahoo. US benchmark equity indexes were mostly higher intraday as a post-earnings rally in Apple (AAPL) sha",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ab744fc327255ad19bfaa8b40196b6b88cd1b81432ed62fdaae12995f18181b5",
+      "occurred_on": "2026-05-01",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_price": {
+      "id": "ev_AAPL_20260609_price",
+      "kind": "price",
+      "title": "AAPL fell 3.65% on 2026-06-09",
+      "detail": "Closed at $290.55 from $301.54. Volume was 1.7x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "pct_change": -3.645,
+        "close": 290.55,
+        "prev_close": 301.54,
+        "volume": 70108800,
+        "volume_vs_30d_avg": 1.69,
+        "move_excluding_sector_pct": 1.93
+      }
+    },
+    "ev_AAPL_20260609_peer_CRUS": {
+      "id": "ev_AAPL_20260609_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved -0.96% the same day",
+      "detail": "AAPL moved -3.65% while CRUS moved -0.96%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "peer_pct_change": -0.96,
+        "subject_pct_change": -3.645,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260609_peer_GOOGL": {
+      "id": "ev_AAPL_20260609_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved +0.26% the same day",
+      "detail": "AAPL moved -3.65% while GOOGL moved +0.26%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "peer_pct_change": 0.26,
+        "subject_pct_change": -3.645,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260609_peer_INTC": {
+      "id": "ev_AAPL_20260609_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -2.13% the same day",
+      "detail": "AAPL moved -3.65% while INTC moved -2.13%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "peer_pct_change": -2.13,
+        "subject_pct_change": -3.645,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260609_peer_MSFT": {
+      "id": "ev_AAPL_20260609_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved -2.02% the same day",
+      "detail": "AAPL moved -3.65% while MSFT moved -2.02%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "peer_pct_change": -2.02,
+        "subject_pct_change": -3.645,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260609_peer_QCOM": {
+      "id": "ev_AAPL_20260609_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -5.67% the same day",
+      "detail": "AAPL moved -3.65% while QCOM moved -5.67%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "peer_pct_change": -5.67,
+        "subject_pct_change": -3.645,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260609_peer_TSM": {
+      "id": "ev_AAPL_20260609_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +0.26% the same day",
+      "detail": "AAPL moved -3.65% while TSM moved +0.26%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-06-09",
+      "numbers": {
+        "peer_pct_change": 0.26,
+        "subject_pct_change": -3.645,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260609_news0": {
+      "id": "ev_AAPL_20260609_news0",
+      "kind": "news",
+      "title": "Apple Will Run Advanced AI Model on Nvidia GPUs via Google Cloud, Ditching Private Infrastructure",
+      "detail": "Reported by Yahoo. Apple (NASDAQ:AAPL), the most vertically integrated company in tech, is turning to Nvidia and Google Cloud to power its most advanced AI workloads. According to CNBC\u2019s MacKenzie Sigalos, Apple software chief Craig Federighi confirmed that the company\u2019s new frontier language model, FM Cloud Pro, will run on Nvidia GPUs hosted in Google Cloud for agentic ... Apple Will Run Advanced AI Model on Nvidia GPUs via Google Cloud, Ditching Private Infrastructure",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=cc12af87a5b85d6fe4ec0d2e74fad694d929a4b2b57912d81dd677ea4064aef0",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news1": {
+      "id": "ev_AAPL_20260609_news1",
+      "kind": "news",
+      "title": "Apple Just Joined the AI Revolution. Investors Could Be in for a Windfall, According to Several Wall Street Analysts.",
+      "detail": "Reported by Yahoo. Many believed the AI boom had passed Apple by. The company was just biding its time.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5ffc12bdd254d6f66026b62b6bcf9511f64c7faf5cb82a729cbeecfc9cde222f",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news2": {
+      "id": "ev_AAPL_20260609_news2",
+      "kind": "news",
+      "title": "S&P 500, Nasdaq End Lower As Investors Take Breather From AI And Chips \u2014 AAPL, ASTS, APLD, RIVN, ZVRA In Focus",
+      "detail": "Reported by Yahoo. President Donald Trump claims a deal with Iran is just \u201ctwo or three days\u201d away.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=34a7d68cf886e3ee6dc68de76f007d35624f2425aacbabea652c73d586e84ecb",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news3": {
+      "id": "ev_AAPL_20260609_news3",
+      "kind": "news",
+      "title": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
+      "detail": "Reported by Yahoo. Apple still needs to show that Siri AI can become a reason to buy a new iPhone, with older-device limits and EU delays shaping the early rollout.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=86a5b5323f902cb27188c45f9d70d86898bada13092e4fbfce56406a6e08fffd",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news4": {
+      "id": "ev_AAPL_20260609_news4",
+      "kind": "news",
+      "title": "Apple Kicks Off WWDC. How to Play AAPL Stock Here.",
+      "detail": "Reported by Yahoo. Apple just headed into WWDC 2026 with record earnings, rising AI expectations, and growing pressure to deliver on Apple Intelligence.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1973ac2656a78a0f33c3b2359db5c30c1ecb75fa5d677f9e0e7f7787dcfb952c",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news5": {
+      "id": "ev_AAPL_20260609_news5",
+      "kind": "news",
+      "title": "Apple's iOS 27 Reveals New Clues About $2,000 Foldable iPhone",
+      "detail": "Reported by Yahoo. Software references and new features suggest Apple is preparing support for a foldable iPhone expected in September.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c4c61d1da8b861213aab3830975355daaebe6d4f3d5afb146445bbc47f574368",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news6": {
+      "id": "ev_AAPL_20260609_news6",
+      "kind": "news",
+      "title": "Morgan Stanley Revises Apple Stock Price Target on WWDC Catalyst",
+      "detail": "Reported by Yahoo. Morgan Stanley Raises Target as AI Push Gains Momentum",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a6716e51191f85906d86b16b52b16b71374467ba6ed76333d35b904bb8aa50eb",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260609_news7": {
+      "id": "ev_AAPL_20260609_news7",
+      "kind": "news",
+      "title": "Apple Left WWDC With More to Prove, Again. Where the Stock Goes From Here.",
+      "detail": "Reported by Yahoo. \u201cGiven the level of optimism into this event, we think the announcement came in a bit shy of expectations,\u201d writes TD Cowen analyst Krish Sankar.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=cdf34e510cca50ade4de84e5c021672ffab3e587da515b5504e7006f67fedbb6",
+      "occurred_on": "2026-06-09",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_price": {
+      "id": "ev_AAPL_20260625_price",
+      "kind": "price",
+      "title": "AAPL fell 6.12% on 2026-06-25",
+      "detail": "Closed at $275.15 from $293.08. Volume was 2.6x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "pct_change": -6.118,
+        "close": 275.15,
+        "prev_close": 293.08,
+        "volume": 107013700,
+        "volume_vs_30d_avg": 2.58,
+        "move_excluding_sector_pct": 5.64
+      }
+    },
+    "ev_AAPL_20260625_peer_CRUS": {
+      "id": "ev_AAPL_20260625_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved -2.34% the same day",
+      "detail": "AAPL moved -6.12% while CRUS moved -2.34%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "peer_pct_change": -2.34,
+        "subject_pct_change": -6.118,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260625_peer_GOOGL": {
+      "id": "ev_AAPL_20260625_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved -0.46% the same day",
+      "detail": "AAPL moved -6.12% while GOOGL moved -0.46%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "peer_pct_change": -0.46,
+        "subject_pct_change": -6.118,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260625_peer_INTC": {
+      "id": "ev_AAPL_20260625_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +0.93% the same day",
+      "detail": "AAPL moved -6.12% while INTC moved +0.93%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "peer_pct_change": 0.93,
+        "subject_pct_change": -6.118,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260625_peer_MSFT": {
+      "id": "ev_AAPL_20260625_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved -3.46% the same day",
+      "detail": "AAPL moved -6.12% while MSFT moved -3.46%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "peer_pct_change": -3.46,
+        "subject_pct_change": -6.118,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260625_peer_QCOM": {
+      "id": "ev_AAPL_20260625_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved +3.79% the same day",
+      "detail": "AAPL moved -6.12% while QCOM moved +3.79%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "peer_pct_change": 3.79,
+        "subject_pct_change": -6.118,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260625_peer_TSM": {
+      "id": "ev_AAPL_20260625_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -1.32% the same day",
+      "detail": "AAPL moved -6.12% while TSM moved -1.32%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-06-25",
+      "numbers": {
+        "peer_pct_change": -1.32,
+        "subject_pct_change": -6.118,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260625_news0": {
+      "id": "ev_AAPL_20260625_news0",
+      "kind": "news",
+      "title": "Review & Preview: Even Apple Has a Budget",
+      "detail": "Reported by Yahoo. A mixed session on Wall Street uncovers a deeper anxiety\u2014what happens if tech giants decide the AI boom is getting too expensive? Plus, a look at today\u2019s inflation data.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b660ad41527a960686e8d5f928a829092155bf74875a998f08e7bb49297f91a4",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news1": {
+      "id": "ev_AAPL_20260625_news1",
+      "kind": "news",
+      "title": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom",
+      "detail": "Reported by Yahoo. Company says it cannot shield customers from memory and storage chip costs \u2013 and iPhone hikes could be next",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ba1a53a179e6fe1453638c3f28899acc4ad9ede080da50d823b9b916e0f7e96b",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news2": {
+      "id": "ev_AAPL_20260625_news2",
+      "kind": "news",
+      "title": "Apple (AAPL) Stock Trades Down, Here Is Why",
+      "detail": "Reported by Yahoo. Shares of iPhone and iPad maker Apple (NASDAQ:AAPL) fell 5.2% in the afternoon session after it officially raised prices across Macs, iPads, home devices and the Vision Pro, a rare mid-cycle hike that the market read as confirmation that memory-cost inflation is squeezing its margins.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=e1b5e9e28554c4c6c84e15604bd7e3dc0b3685624c33561cac94ce60b692725a",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news3": {
+      "id": "ev_AAPL_20260625_news3",
+      "kind": "news",
+      "title": "Stock Market Today, June 25: Apple Drops After Raising Device Prices to Offset Higher Memory Costs",
+      "detail": "Reported by Yahoo. On June 25, 2026, Apple\u2019s price hikes across Macs and iPads put investor focus on margins and consumer demand.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5a6fc8b30df7a9885f548a8b0cf272bb75902ab6e74acc46abf7281e5d8ce55d",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news4": {
+      "id": "ev_AAPL_20260625_news4",
+      "kind": "news",
+      "title": "S&P 500 Ends Flat As Apple Weakness Offsets Micron Gains, Nasdaq 100 And Dow Post Modest Gains \u2014 MSFT, QCOM, SPCX, BMBL, SONO In Focus",
+      "detail": "Reported by Yahoo. icron stock soared 16% on strong Q3 earnings, while Apple slipped after increasing prices of Macs and iPads.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3a7b1279ff5920a78bf77a2a4506e50d4a179bd02b04a7c955961da69d80a73f",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news5": {
+      "id": "ev_AAPL_20260625_news5",
+      "kind": "news",
+      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
+      "detail": "Reported by Yahoo. The Nasdaq reversed lower again while the Dow came off record highs. Micron soared but Apple led other tech titans lower.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8f0ea89e5ffb21ff7580afbb7d42b5bc56647c16987198ac6197cc685eb50219",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news6": {
+      "id": "ev_AAPL_20260625_news6",
+      "kind": "news",
+      "title": "Apple (AAPL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "detail": "Reported by Yahoo. Apple (AAPL) reached $275.15 at the closing of the latest trading day, reflecting a -6.12% change compared to its last close.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=51445d2fcc9040f91c357218fad7330584569b061680003ba65d0b86ed2664d9",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260625_news7": {
+      "id": "ev_AAPL_20260625_news7",
+      "kind": "news",
+      "title": "Update: US Equity Indexes Mixed as Micron Rally Fails to Lift Tech, Apple Drops After Product Price-Hike Reports",
+      "detail": "Reported by Yahoo. (Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b4613df39675f9bbeeb17e358dfc2040220c0392f8f79ed649661aaa6ddb66af",
+      "occurred_on": "2026-06-25",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_price": {
+      "id": "ev_AAPL_20260626_price",
+      "kind": "price",
+      "title": "AAPL rose 3.14% on 2026-06-26",
+      "detail": "Closed at $283.78 from $275.15. Volume was 6.3x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "pct_change": 3.136,
+        "close": 283.78,
+        "prev_close": 275.15,
+        "volume": 261775500,
+        "volume_vs_30d_avg": 6.32,
+        "move_excluding_sector_pct": 5.23
+      }
+    },
+    "ev_AAPL_20260626_peer_CRUS": {
+      "id": "ev_AAPL_20260626_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved -4.86% the same day",
+      "detail": "AAPL moved +3.14% while CRUS moved -4.86%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "peer_pct_change": -4.86,
+        "subject_pct_change": 3.136,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260626_peer_GOOGL": {
+      "id": "ev_AAPL_20260626_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved -1.84% the same day",
+      "detail": "AAPL moved +3.14% while GOOGL moved -1.84%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "peer_pct_change": -1.84,
+        "subject_pct_change": 3.136,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260626_peer_INTC": {
+      "id": "ev_AAPL_20260626_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -3.42% the same day",
+      "detail": "AAPL moved +3.14% while INTC moved -3.42%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "peer_pct_change": -3.42,
+        "subject_pct_change": 3.136,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260626_peer_MSFT": {
+      "id": "ev_AAPL_20260626_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +5.71% the same day",
+      "detail": "AAPL moved +3.14% while MSFT moved +5.71%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "peer_pct_change": 5.71,
+        "subject_pct_change": 3.136,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260626_peer_QCOM": {
+      "id": "ev_AAPL_20260626_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -7.57% the same day",
+      "detail": "AAPL moved +3.14% while QCOM moved -7.57%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "peer_pct_change": -7.57,
+        "subject_pct_change": 3.136,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260626_peer_TSM": {
+      "id": "ev_AAPL_20260626_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -0.61% the same day",
+      "detail": "AAPL moved +3.14% while TSM moved -0.61%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-06-26",
+      "numbers": {
+        "peer_pct_change": -0.61,
+        "subject_pct_change": 3.136,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260626_news0": {
+      "id": "ev_AAPL_20260626_news0",
+      "kind": "news",
+      "title": "Apple Vision Pro Hardware Chief Reportedly Jumps To OpenAI As Sam Altman's AI Device Ambitions Gather Momentum",
+      "detail": "Reported by Benzinga. Paul Meade is leaving Apple to join OpenAI&#39;s hardware division, adding to the AI company&#39;s growing roster of former Apple executives.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=444e311f3d16ec8ec0e379c4ca262468333a94a673112e9fc64169f660765d31",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news1": {
+      "id": "ev_AAPL_20260626_news1",
+      "kind": "news",
+      "title": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays \u2014 ON, AAPL, SLS, INFQ, NKE in Focus",
+      "detail": "Reported by Yahoo. The Dow Jones ended its third consecutive week higher amid cooling oil prices and strength in pharma and materials stocks.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4feee06a415ef9bfb21c2f6485283f458e0db5b094997ad8b2624b604c8a72a6",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news2": {
+      "id": "ev_AAPL_20260626_news2",
+      "kind": "news",
+      "title": "Stock Of The Day: Is The Apple Sell-Off Over?",
+      "detail": "Reported by Yahoo. Apple Inc. (NASDAQ:AAPL) is trading higher on Friday. It has dropped about 12% since the beginning of June. But the sell-off may be over. The shares are oversold and at support \u2014 and these can be bullish dynamics. This is why Apple is the Stock of the Day. \u2022 What\u2019s driving AAPL shares up today? In February and again in April, Apple ran into resistance at the $275 level. People who sold there thought they made a smart decision when the price dropped afterward. But when the resistance broke, and t",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0eae4e947b04acdb8d9e6439e8be8e9b99defc02f10f4fa2144a98a3064965ab",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news3": {
+      "id": "ev_AAPL_20260626_news3",
+      "kind": "news",
+      "title": "Apple\u2019s Vision Pro hardware chief defects to OpenAI",
+      "detail": "Reported by Yahoo. Apple Inc. is losing a pillar of its spatial computing ambitions to OpenAI. Paul Meade, the Vice President overseeing the Vision Pro headset and Apple\u2019s upcoming smart glasses, is departing the tech giant. Meade will exit Apple by next week to spearhead OpenAI\u2019s burgeoning hardware division, according to a Bloomberg report. At OpenAI, he is tasked with bringing a new family of AI-native devices to life. Neither company has officially commented on the move. Meade isn\u2019t just a manager; he\u2019s an arc",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=84012dcc120dfaf041d6275df9339c61d7193c7c12c40abf25c18c6106865850",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news4": {
+      "id": "ev_AAPL_20260626_news4",
+      "kind": "news",
+      "title": "EXCLUSIVE: Ron Johnson Bares His Feelings on Apple Stores, Steve Jobs and JCPenney",
+      "detail": "Reported by Yahoo. Johnson's upcoming book, \"Shop Different,\" covers his challenges and successes at Target and Apple, and marks the first time he expounds on his truncated tenure at JCPenney.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0c1fdf215b38fd3a8023e5d1c598b5dd50f33f2ceca66c4a501226a0e871858f",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news5": {
+      "id": "ev_AAPL_20260626_news5",
+      "kind": "news",
+      "title": "Apple\u2019s Vision Pro and Smart Glasses Chief to Join OpenAI",
+      "detail": "Reported by Yahoo. (Bloomberg) -- Apple Inc.\u2019s top executive in charge of the Vision Pro headset and the company\u2019s smart glasses efforts is leaving for OpenAI, continuing a streak of high-profile defections to rivals in the artificial intelligence and hardware sectors.Most Read from BloombergLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll RevenueIndonesia Opens Door to Dirty Money to Fund Prabowo\u2019s PlansApple Shares Sink After Price Hikes Hit iPads and MacsOman Tells Allies Ships Going Through Hormu",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b518a901364f46e4437f7933ee3932ca8bac28f7d0b01a27cb46e98b0d1ee298",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news6": {
+      "id": "ev_AAPL_20260626_news6",
+      "kind": "news",
+      "title": "Apple hardware exec exits for OpenAI",
+      "detail": "Reported by CNBC. CNBC's MacKenzie Sigalos reports on the latest Apple hardware veteran to join OpenAI, as the ChatGPT maker builds out its AI device ambitions.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9d0bc68655cf14555d0a74e006c9ba2c484a704335edeed6bb02617167e18842",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260626_news7": {
+      "id": "ev_AAPL_20260626_news7",
+      "kind": "news",
+      "title": "Apple Suffers Worst Drop in Over a Year",
+      "detail": "Reported by Yahoo. Investors react to sweeping MacBook and iPad price hikes.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1c6b303ab709f725376a53a966a5f60b1038283111034c892f7d57ff93ca23cc",
+      "occurred_on": "2026-06-26",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_price": {
+      "id": "ev_AAPL_20260702_price",
+      "kind": "price",
+      "title": "AAPL rose 4.84% on 2026-07-02",
+      "detail": "Closed at $308.63 from $294.38. Volume was 1.8x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "pct_change": 4.841,
+        "close": 308.63,
+        "prev_close": 294.38,
+        "volume": 75352800,
+        "volume_vs_30d_avg": 1.82,
+        "move_excluding_sector_pct": 6.42
+      }
+    },
+    "ev_AAPL_20260702_peer_CRUS": {
+      "id": "ev_AAPL_20260702_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved -0.12% the same day",
+      "detail": "AAPL moved +4.84% while CRUS moved -0.12%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "peer_pct_change": -0.12,
+        "subject_pct_change": 4.841,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260702_peer_GOOGL": {
+      "id": "ev_AAPL_20260702_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved -0.36% the same day",
+      "detail": "AAPL moved +4.84% while GOOGL moved -0.36%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "peer_pct_change": -0.36,
+        "subject_pct_change": 4.841,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260702_peer_INTC": {
+      "id": "ev_AAPL_20260702_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -5.25% the same day",
+      "detail": "AAPL moved +4.84% while INTC moved -5.25%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "peer_pct_change": -5.25,
+        "subject_pct_change": 4.841,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260702_peer_MSFT": {
+      "id": "ev_AAPL_20260702_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +1.62% the same day",
+      "detail": "AAPL moved +4.84% while MSFT moved +1.62%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "peer_pct_change": 1.62,
+        "subject_pct_change": 4.841,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260702_peer_QCOM": {
+      "id": "ev_AAPL_20260702_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -3.12% the same day",
+      "detail": "AAPL moved +4.84% while QCOM moved -3.12%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "peer_pct_change": -3.12,
+        "subject_pct_change": 4.841,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260702_peer_TSM": {
+      "id": "ev_AAPL_20260702_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -2.27% the same day",
+      "detail": "AAPL moved +4.84% while TSM moved -2.27%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-07-02",
+      "numbers": {
+        "peer_pct_change": -2.27,
+        "subject_pct_change": 4.841,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260702_news0": {
+      "id": "ev_AAPL_20260702_news0",
+      "kind": "news",
+      "title": "Why Apple (AAPL) Stock Is Trading Up Today",
+      "detail": "Reported by Yahoo. Shares of iPhone and iPad maker Apple (NASDAQ:AAPL) jumped 4.1% in the morning session after reports it plans an aggressive launch of at least five new iPhone models and has increased production targets for its first foldable device.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=eb218eaff31fc1edafb4b762a078cba1636369de9f41174cd4432164af9d73e1",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news1": {
+      "id": "ev_AAPL_20260702_news1",
+      "kind": "news",
+      "title": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
+      "detail": "Reported by Yahoo. The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news2": {
+      "id": "ev_AAPL_20260702_news2",
+      "kind": "news",
+      "title": "Apple, Rivian, Tesla, CrowdStrike And SanDisk: Why These 5 Stocks Are On Investors' Radars Today",
+      "detail": "Reported by Benzinga. AAPL, RIVN, TSLA, CRWD, SNDK were among the trending stocks on Thursday, July 2, 2026.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=61ceea2b3ffb5f4b71a3ea873f1203c1b9b1043cb70e54c4e240f03381d84aa4",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news3": {
+      "id": "ev_AAPL_20260702_news3",
+      "kind": "news",
+      "title": "Apple's Foldable iPhone Push Gets Bigger",
+      "detail": "Reported by Yahoo. Suppliers reportedly preparing higher production volume.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=dd11190206e578b637c5fdea0eb41a7e725da5633623bf3dc11eae3dd6e9da0a",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news4": {
+      "id": "ev_AAPL_20260702_news4",
+      "kind": "news",
+      "title": "Apple Eyes Foldable iPhone Production Boost",
+      "detail": "Reported by Yahoo. The company raised foldable iPhone production plans to about 10 million units.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=322bc1989d41ff2e17acad42b984eb17c70e2250119774f909432e8bd3ba07bc",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news5": {
+      "id": "ev_AAPL_20260702_news5",
+      "kind": "news",
+      "title": "Apple's Foldable iPhone Saves the S&P 500 From a Chip-Fueled Rout",
+      "detail": "Reported by Yahoo. A weak jobs report met a strong Apple rally on Thursday. Here's why the major indexes couldn't agree on a direction.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c8ea87e15da556ccaf8a7612dc6db725bd94bebbb8ef0e24ef735bd2672f37d0",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news6": {
+      "id": "ev_AAPL_20260702_news6",
+      "kind": "news",
+      "title": "Will a Foldable iPhone Be the Catalyst to Drive Apple Shares to $400?",
+      "detail": "Reported by Yahoo. Our 24/7 Wall St. Price Target for Apple (NASDAQ:AAPL) is $336.98 over the next 12 months, pointing to 9.4% upside from the current $308.30. We rate shares a BUY with high (90%) confidence. A foldable iPhone is a real positive catalyst, and we treat $400 as a 2029 to 2030 story on realistic timing. 24/7 ... Will a Foldable iPhone Be the Catalyst to Drive Apple Shares to $400?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c027653da20a4bc206198076249fe5e1bb32098944acbde9e901327ef666acbb",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260702_news7": {
+      "id": "ev_AAPL_20260702_news7",
+      "kind": "news",
+      "title": "How Apple\u2019s AI-Driven Memory Costs and Pricing Shifts Will Impact Apple (AAPL) Investors",
+      "detail": "Reported by Yahoo. In recent weeks, Apple has raised prices across much of its Mac, iPad, and home-device lineup as soaring AI-driven memory chip costs squeeze hardware margins, while also exploring memory supply deals with Chinese chipmakers CXMT and YMTC that sit on a Pentagon blacklist. This combination of higher device pricing and politically sensitive supplier diversification highlights how Apple is balancing profitability, supply security, and reputational risk in the face of a prolonged global memory...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=e61aefd2610ed381e540f4822607c1ad83f3bf000e9ead86af327b61bfcc5de0",
+      "occurred_on": "2026-07-02",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_price": {
+      "id": "ev_AAPL_20260715_price",
+      "kind": "price",
+      "title": "AAPL rose 4.01% on 2026-07-15",
+      "detail": "Closed at $327.50 from $314.86. Volume was 1.5x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "pct_change": 4.014,
+        "close": 327.5,
+        "prev_close": 314.86,
+        "volume": 60957600,
+        "volume_vs_30d_avg": 1.47,
+        "move_excluding_sector_pct": 3.6
+      }
+    },
+    "ev_AAPL_20260715_peer_CRUS": {
+      "id": "ev_AAPL_20260715_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved +1.25% the same day",
+      "detail": "AAPL moved +4.01% while CRUS moved +1.25%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "peer_pct_change": 1.25,
+        "subject_pct_change": 4.014,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260715_peer_GOOGL": {
+      "id": "ev_AAPL_20260715_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved +3.17% the same day",
+      "detail": "AAPL moved +4.01% while GOOGL moved +3.17%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "peer_pct_change": 3.17,
+        "subject_pct_change": 4.014,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260715_peer_INTC": {
+      "id": "ev_AAPL_20260715_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -4.43% the same day",
+      "detail": "AAPL moved +4.01% while INTC moved -4.43%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "peer_pct_change": -4.43,
+        "subject_pct_change": 4.014,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260715_peer_MSFT": {
+      "id": "ev_AAPL_20260715_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +2.78% the same day",
+      "detail": "AAPL moved +4.01% while MSFT moved +2.78%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "peer_pct_change": 2.78,
+        "subject_pct_change": 4.014,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260715_peer_QCOM": {
+      "id": "ev_AAPL_20260715_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -0.07% the same day",
+      "detail": "AAPL moved +4.01% while QCOM moved -0.07%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "peer_pct_change": -0.07,
+        "subject_pct_change": 4.014,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260715_peer_TSM": {
+      "id": "ev_AAPL_20260715_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -0.22% the same day",
+      "detail": "AAPL moved +4.01% while TSM moved -0.22%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-07-15",
+      "numbers": {
+        "peer_pct_change": -0.22,
+        "subject_pct_change": 4.014,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260715_news0": {
+      "id": "ev_AAPL_20260715_news0",
+      "kind": "news",
+      "title": "Why Apple (AAPL) Stock Is Up Today",
+      "detail": "Reported by Yahoo. Shares of iPhone and iPad maker Apple (NASDAQ:AAPL) jumped 4.2% in the afternoon session after the company secured regulatory approval to launch Apple Intelligence in China by integrating Alibaba's Qwen AI model.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0be136a1a173532881eee524a6d79a3353c6da221ed8d635ef4539bded10f584",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news1": {
+      "id": "ev_AAPL_20260715_news1",
+      "kind": "news",
+      "title": "AST SpaceMobile, PayPal Holdings, Apple, Micron Technology and SanDisk: Why These 5 Stocks Are on Investors' Radars Today",
+      "detail": "Reported by Benzinga. Major U.S. indices closed higher on Wednesday, with the Dow Jones Industrial Average rising 0.29% to 52,658.64.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5338e66c577788d4ab505bd4b3828c47e3b5ba8da40c215eef0c47c7d2fb1984",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news2": {
+      "id": "ev_AAPL_20260715_news2",
+      "kind": "news",
+      "title": "S&P 500, Dow Edge Higher As Bank Earnings Offset Middle East Oil Concerns \u2014 AAPL, SKHY, ASML, PYPL In Focus",
+      "detail": "Reported by Yahoo. Cooler-than-expected producer prices contributed to hopes for easing inflation on Wednesday.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=502ff3ba7a1da5727ca18db679a449153c64145e7214677d098a0f43a18ec5af",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news3": {
+      "id": "ev_AAPL_20260715_news3",
+      "kind": "news",
+      "title": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
+      "detail": "Reported by Yahoo. Dell, Sandisk and Micron led an AI sell-off, masked by megacaps such as Apple. SpaceX undercut its IPO price. Taiwan Semi, GE Aerospace earnings are due.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f220e9facc2363eb8164f139ca63e5a11e986e0afc6208750c48026f358ffcc4",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news4": {
+      "id": "ev_AAPL_20260715_news4",
+      "kind": "news",
+      "title": "Apple Stock Closes at a New High. Earnings Could Change Everything.",
+      "detail": "Reported by Yahoo. Apple shares rose 4% to $327.50, a new all-time closing high.  The Cyberspace Administration of China on Wednesday included Apple\u2019s generative artificial intelligence on a list of newly approved providers.  Evercore ISI analyst Amit Daryanani wrote that the update clears the biggest regulatory hurdle for Apple Intelligence\u2014the company\u2019s AI software\u2014in the world\u2019s largest smartphone market.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c340b3ab5aa212d5fb2e793db14f4926a4ab7e924c5f5c9c31de05c1bf902472",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news5": {
+      "id": "ev_AAPL_20260715_news5",
+      "kind": "news",
+      "title": "Apple Could Buy an AI Chip Company. Its Hot Stock Just Set a Fresh Record High",
+      "detail": "Reported by Yahoo. Apple shares climbed to a fresh record Wednesday, in the wake of reports the iPhone maker is considering buying an AI chip company to fuel its AI ambitions.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=94a9caabb003c296e770608fc548a22dd676ea445a2097befe678334613ba20d",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news6": {
+      "id": "ev_AAPL_20260715_news6",
+      "kind": "news",
+      "title": "Hardware Bears Are Wrong and That\u2019s Why I Keep Buying Apple on Repeat",
+      "detail": "Reported by Yahoo. Every quarter the bears declare the iPhone cycle dead, and every quarter Apple proves them wrong. Here is why one investor keeps adding to the position anyway, and what the skeptics keep getting wrong about the business.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8ae37e30e46a99296cc6cb74538d8fc5d0d58ffe84f0df7c77a23e55defbc55f",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260715_news7": {
+      "id": "ev_AAPL_20260715_news7",
+      "kind": "news",
+      "title": "What rising memory chip prices could mean for Apple's iPhones",
+      "detail": "Reported by Yahoo. US stocks (^GSPC, ^DJI, ^IXIC) managed to close Wednesday's session higher despite a new sell-off appearing across the semiconductor industry. Baird tech strategist Ted Mortonson explains what rising memory chip costs could mean for tech consumers and companies like iPhone maker Apple (AAPL).",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a50ee7613e3f1b9681cc7f900881145fe87c5e45f773d7fc3229ff864250d97b",
+      "occurred_on": "2026-07-15",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_price": {
+      "id": "ev_AAPL_20260724_price",
+      "kind": "price",
+      "title": "AAPL rose 3.53% on 2026-07-24",
+      "detail": "Closed at $333.02 from $321.66. Volume was 1.1x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "pct_change": 3.532,
+        "close": 333.02,
+        "prev_close": 321.66,
+        "volume": 47489400,
+        "volume_vs_30d_avg": 1.15,
+        "move_excluding_sector_pct": 5.62
+      }
+    },
+    "ev_AAPL_20260724_peer_CRUS": {
+      "id": "ev_AAPL_20260724_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved +0.06% the same day",
+      "detail": "AAPL moved +3.53% while CRUS moved +0.06%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "peer_pct_change": 0.06,
+        "subject_pct_change": 3.532,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260724_peer_GOOGL": {
+      "id": "ev_AAPL_20260724_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved +0.65% the same day",
+      "detail": "AAPL moved +3.53% while GOOGL moved +0.65%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "peer_pct_change": 0.65,
+        "subject_pct_change": 3.532,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260724_peer_INTC": {
+      "id": "ev_AAPL_20260724_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -7.89% the same day",
+      "detail": "AAPL moved +3.53% while INTC moved -7.89%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "peer_pct_change": -7.89,
+        "subject_pct_change": 3.532,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260724_peer_MSFT": {
+      "id": "ev_AAPL_20260724_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +0.03% the same day",
+      "detail": "AAPL moved +3.53% while MSFT moved +0.03%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "peer_pct_change": 0.03,
+        "subject_pct_change": 3.532,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260724_peer_QCOM": {
+      "id": "ev_AAPL_20260724_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -2.42% the same day",
+      "detail": "AAPL moved +3.53% while QCOM moved -2.42%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "peer_pct_change": -2.42,
+        "subject_pct_change": 3.532,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260724_peer_TSM": {
+      "id": "ev_AAPL_20260724_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -2.93% the same day",
+      "detail": "AAPL moved +3.53% while TSM moved -2.93%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-07-24",
+      "numbers": {
+        "peer_pct_change": -2.93,
+        "subject_pct_change": 3.532,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260724_news0": {
+      "id": "ev_AAPL_20260724_news0",
+      "kind": "news",
+      "title": "Visa and Apple: Cash-Generating Machines",
+      "detail": "Reported by Yahoo. For those seeking cash-generators, both Visa (V) and Apple (AAPL) fit the criteria nicely, with each also soon to report quarterly results.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fb1cc3a721ed10244cb3ebb64b8e7266209394062f2d75d919d575de2932f34f",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news1": {
+      "id": "ev_AAPL_20260724_news1",
+      "kind": "news",
+      "title": "Dow Jones Futures: Apple Earnings, Iran News, Fed Meeting Loom As AI Stocks Sell Off",
+      "detail": "Reported by Yahoo. Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, with a rate hike a possibility.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=95418f4b57a5f09da2bb4319facd56354d920e90f88081375aa3b22fd17492a9",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news2": {
+      "id": "ev_AAPL_20260724_news2",
+      "kind": "news",
+      "title": "Rotation Hits Magnificent 7: How Strong Ratings Sparked Apple Stock Swing Trade",
+      "detail": "Reported by Yahoo. With a highest possible IBD Composite Rating of 99, here's why Apple is back on top of our swing trading setup list in the megacap universe.  Like for many tech stocks, June was a rough month for Apple.  On July 2, Apple bounced strongly from its 50-day line and overcame resistance around 300 (1).",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=aa83f550a10bcf260504bd44f7b7ac4dd8552a16443bbb140b0f2b63e1bb5a7c",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news3": {
+      "id": "ev_AAPL_20260724_news3",
+      "kind": "news",
+      "title": "Like It or Not, Apple Built a Perfect Mousetrap, So I Keep on Buying",
+      "detail": "Reported by Yahoo. Apple has built something most companies only dream about: a product ecosystem so sticky that billions of users choose to pay more rather than walk away. Here is why one investor keeps loading up, and what it would actually take to stop.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=102d066ee1fd447d18fef621f3dd2991ad67e0d6e7d7703d69099b49866e41d1",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news4": {
+      "id": "ev_AAPL_20260724_news4",
+      "kind": "news",
+      "title": "Apple becomes the Mag7 hedge against hyperscaler spending",
+      "detail": "Reported by CNBC. CNBC's MacKenzie Sigalos reports on why investors are rewarding Apple\u2019s anti-capex AI strategy as its Big Tech peers pour more cash into infrastructure.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=16094f8ce1b61d33f07d67646f528f7adf532b029838f18a2d4a12267569709e",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news5": {
+      "id": "ev_AAPL_20260724_news5",
+      "kind": "news",
+      "title": "Tim Cook\u2019s final Apple earnings report puts pricing power to the test",
+      "detail": "Reported by CNBC. CNBC's MacKenzie Sigalos reports on whether higher device and services prices can offset slower unit growth, rising costs, and a demanding valuation.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=45803fd19359e5c967ff9f1ce5096b06224b584f8bd9dcbfe2c0d46470cb3d45",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news6": {
+      "id": "ev_AAPL_20260724_news6",
+      "kind": "news",
+      "title": "Needham's Laura Martin: Apple is 'betting the farm' it doesn't need its own AI model",
+      "detail": "Reported by CNBC. Laura Martin, Needham, joins 'Closing Bell' to talk what she is looking ahead to when it comes to Apple's earnings next week.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0d402bb46dca6be2f160be6a522e7512fb9774e664c27b57cee2f16e803ced90",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260724_news7": {
+      "id": "ev_AAPL_20260724_news7",
+      "kind": "news",
+      "title": "Apple\u2019s anti-capex AI strategy pays off as shares lead the Mag7",
+      "detail": "Reported by CNBC. CNBC's MacKenzie Sigalos reports on how Apple is using outside AI models and its device network to avoid Big Tech\u2019s spending binge while preserving cash for shareholders.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2dc7ea719209fce4c92421dc18efa32b828b183e54a791db6ef2913341020fb2",
+      "occurred_on": "2026-07-24",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_price": {
+      "id": "ev_AAPL_20260731_price",
+      "kind": "price",
+      "title": "AAPL fell 7.35% on 2026-07-31",
+      "detail": "Closed at $308.91 from $333.43. Volume was 3.2x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "pct_change": -7.354,
+        "close": 308.91,
+        "prev_close": 333.43,
+        "volume": 132489100,
+        "volume_vs_30d_avg": 3.2,
+        "move_excluding_sector_pct": 8.09
+      }
+    },
+    "ev_AAPL_20260731_peer_CRUS": {
+      "id": "ev_AAPL_20260731_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved -1.90% the same day",
+      "detail": "AAPL moved -7.35% while CRUS moved -1.90%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": -1.9,
+        "subject_pct_change": -7.354,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260731_peer_GOOGL": {
+      "id": "ev_AAPL_20260731_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved +6.73% the same day",
+      "detail": "AAPL moved -7.35% while GOOGL moved +6.73%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": 6.73,
+        "subject_pct_change": -7.354,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260731_peer_INTC": {
+      "id": "ev_AAPL_20260731_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -1.02% the same day",
+      "detail": "AAPL moved -7.35% while INTC moved -1.02%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": -1.02,
+        "subject_pct_change": -7.354,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260731_peer_MSFT": {
+      "id": "ev_AAPL_20260731_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +3.02% the same day",
+      "detail": "AAPL moved -7.35% while MSFT moved +3.02%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": 3.02,
+        "subject_pct_change": -7.354,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260731_peer_QCOM": {
+      "id": "ev_AAPL_20260731_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved -2.63% the same day",
+      "detail": "AAPL moved -7.35% while QCOM moved -2.63%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": -2.63,
+        "subject_pct_change": -7.354,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260731_peer_TSM": {
+      "id": "ev_AAPL_20260731_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +0.23% the same day",
+      "detail": "AAPL moved -7.35% while TSM moved +0.23%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": 0.23,
+        "subject_pct_change": -7.354,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260731_filing_000032019326000020": {
+      "id": "ev_AAPL_20260731_filing_000032019326000020",
+      "kind": "filing",
+      "title": "10-Q filed 2026-07-31",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_filing_000032019326000018": {
+      "id": "ev_AAPL_20260731_filing_000032019326000018",
+      "kind": "filing",
+      "title": "8-K filed 2026-07-30",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news0": {
+      "id": "ev_AAPL_20260731_news0",
+      "kind": "news",
+      "title": "Apple vs. HP: The $5 Trillion Giant, or the Stock That Pays 15x the Dividend.",
+      "detail": "Reported by Yahoo. One dominates in size and growth, but the other trades at a lower valuation and higher yield. Discover which is the better dividend stock.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1d41029df309d2a09752cb96d02583ae9e6b10b07cf244b2523a907c7042856f",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news1": {
+      "id": "ev_AAPL_20260731_news1",
+      "kind": "news",
+      "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
+      "detail": "Reported by Yahoo. Nvidia stock rose after Amazon raised its capital expenditure forecast and played down competition between its custom AI chips and Nvidia\u2019s processors.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=cc26378807776e3bf1748f34f49abacd66660e2e6d14d287a34083b0dc9ef347",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news2": {
+      "id": "ev_AAPL_20260731_news2",
+      "kind": "news",
+      "title": "This Analyst Just Downgraded Apple Stock. Here's Why.",
+      "detail": "Reported by Yahoo. Apple stock sinks as muted guidance makes GF Securities downgrade it to 'Hold.' Here\u2019s what the investment firm said in its research note today.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=830e0c26e638120b6f6b5007841bcd8bd202e8d9cb1898c33f04c840f0f0ebbe",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news3": {
+      "id": "ev_AAPL_20260731_news3",
+      "kind": "news",
+      "title": "Market Talk: Apple sinks, Amazon soars in split verdict on AI winners",
+      "detail": "Reported by Yahoo. STORY: :: Recorded on July 31:: Lisa Bernhard, Reuters:: Dean Smith, Portfolio Manager, FolioBeyondShares of Apple tumbled as much as 10% on Friday after a disappointing forecast showed that the iPhone maker was struggling to secure enough components as the AI-driven data center boom strains global supply chains.The drop, if sustained, would erase nearly $500 billion from Apple's market capitalization and return the crown of the world's most valuable company to AI chip giant Nvidia, days after reclaiming it.Meanwhile, shares of Amazon soared as much as 15% after the tech giant's solid cloud sa",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=da81e4262f472bf567b18b8fa6d62a30848cf9a5425716f72685131dfaec40bf",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news4": {
+      "id": "ev_AAPL_20260731_news4",
+      "kind": "news",
+      "title": "Apple Stock Tumbles, Wiping Out $359 Billion in Value",
+      "detail": "Reported by Yahoo. Apple stock tumbled 7.4% to $308.91 on Friday after its fiscal third-quarter earnings report left investors disappointed. The drop wiped out $359 billion in value, bringing Apple's market capitalization to $4.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=e5f988e3e01a408db0b3f96b829fa17210ffb5e47ee7263e6f147f16b5c20920",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news5": {
+      "id": "ev_AAPL_20260731_news5",
+      "kind": "news",
+      "title": "Apple's Supply Woes Likely to Continue Into Fiscal 2027, UBS Says",
+      "detail": "Reported by Yahoo. Apple's (AAPL) supply chain-related concerns could persist into fiscal 2027, UBS Securities said, af",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=6c35c2cd546bbafb5fc0cd3c0874aab0e3d3773841f3cd35d35accff38efda07",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news6": {
+      "id": "ev_AAPL_20260731_news6",
+      "kind": "news",
+      "title": "Apple Stock Plunges 9.3% as Supply Shortages Weaken Forecast",
+      "detail": "Reported by Yahoo. AI-driven component shortages limited Apple's growth outlook and threatened to erase approximately $500 billion in market value.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f4f83f057bbf61fc065fbd058e1af71f1aab17b9e1982167a60f0a249fa76be4",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260731_news7": {
+      "id": "ev_AAPL_20260731_news7",
+      "kind": "news",
+      "title": "Apple Forecasts Slowing Growth Due To Chip Shortages",
+      "detail": "Reported by Yahoo. Apple stock fell Friday after the consumer electronics giant missed views with its September-quarter sales outlook.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9555e59071c3db455376c8eb28d79a313361203ab2aa558bd1c1569be686e3ee",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_price": {
+      "id": "ev_AAPL_20260910_price",
+      "kind": "price",
+      "title": "AAPL rose 3.56% on 2026-09-10",
+      "detail": "Closed at $326.57 from $315.34. Volume was 1.7x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "pct_change": 3.561,
+        "close": 326.57,
+        "prev_close": 315.34,
+        "volume": 70011900,
+        "volume_vs_30d_avg": 1.69,
+        "move_excluding_sector_pct": 3.73
+      }
+    },
+    "ev_AAPL_20260910_peer_CRUS": {
+      "id": "ev_AAPL_20260910_peer_CRUS",
+      "kind": "peer_move",
+      "title": "CRUS (supplier) moved +5.20% the same day",
+      "detail": "AAPL moved +3.56% while CRUS moved +5.20%. CRUS is AAPL's supplier (end customer), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/CRUS/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "peer_pct_change": 5.2,
+        "subject_pct_change": 3.561,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260910_peer_GOOGL": {
+      "id": "ev_AAPL_20260910_peer_GOOGL",
+      "kind": "peer_move",
+      "title": "GOOGL (customer) moved +0.59% the same day",
+      "detail": "AAPL moved +3.56% while GOOGL moved +0.59%. GOOGL is AAPL's customer (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "peer_pct_change": 0.59,
+        "subject_pct_change": 3.561,
+        "relationship": "customer"
+      }
+    },
+    "ev_AAPL_20260910_peer_INTC": {
+      "id": "ev_AAPL_20260910_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -5.57% the same day",
+      "detail": "AAPL moved +3.56% while INTC moved -5.57%. INTC is AAPL's competitor (ARM-based processors), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "peer_pct_change": -5.57,
+        "subject_pct_change": 3.561,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260910_peer_MSFT": {
+      "id": "ev_AAPL_20260910_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (competitor) moved +0.16% the same day",
+      "detail": "AAPL moved +3.56% while MSFT moved +0.16%. MSFT is AAPL's competitor (PC operating systems (Windows) and gaming platforms (Xbox)), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "peer_pct_change": 0.16,
+        "subject_pct_change": 3.561,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AAPL_20260910_peer_QCOM": {
+      "id": "ev_AAPL_20260910_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (supplier) moved +0.27% the same day",
+      "detail": "AAPL moved +3.56% while QCOM moved +0.27%. QCOM is AAPL's supplier (customer/licensee), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "peer_pct_change": 0.27,
+        "subject_pct_change": 3.561,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260910_peer_TSM": {
+      "id": "ev_AAPL_20260910_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -1.68% the same day",
+      "detail": "AAPL moved +3.56% while TSM moved -1.68%. TSM is AAPL's supplier (fabrication of Apple-designed chips (A-series, M-series)), per the knowledge graph (source: manual).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-09-10",
+      "numbers": {
+        "peer_pct_change": -1.68,
+        "subject_pct_change": 3.561,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AAPL_20260910_news0": {
+      "id": "ev_AAPL_20260910_news0",
+      "kind": "news",
+      "title": "Tech Millionaires Are Pooling Seven-Figure Nvidia and Apple Stakes Into Exchange Funds to Diversify Without Selling a Share. The Seven-Year Lockup Is the Price",
+      "detail": "Reported by Yahoo. A retired Apple engineer sits on a $1.95 million gain and a tax bill that would make your eyes water, and her advisor has a perfectly legal way to dodge it entirely. The catch involves signing away access to your money for seven years.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8921289cb1f7b10eb6ba4514047370ed7900e7c9bf6eb93c33fce00878e367cc",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news1": {
+      "id": "ev_AAPL_20260910_news1",
+      "kind": "news",
+      "title": "Wall Street analysts predict Apple iPhone Duo will be a top seller, despite being heavy and costing up to $3,200",
+      "detail": "Reported by Yahoo. Priced up to $3,200 and heavier than past models, Apple's new foldable iPhone Duo is still expected to be a hit \u2014 with one analyst predicting Apple could grab 40% of the foldable phone market by 2027.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5d3182b09eddfbfd7937bafba6d262af76f10491ae4e3c71117c2a86bce74c3e",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news2": {
+      "id": "ev_AAPL_20260910_news2",
+      "kind": "news",
+      "title": "Apple is Testing its Loyalty in India with 40% Price Hike",
+      "detail": "Reported by Yahoo. And hoping its urban affluent will not mind it",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4c63345092adc1146fe9d5e09adf3fc8d4e33cfbfb6ef4b47f39ccb4fc8b0481",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news3": {
+      "id": "ev_AAPL_20260910_news3",
+      "kind": "news",
+      "title": "Apple Jumps as $1,999 Foldable Forces Samsung Onto Defense",
+      "detail": "Reported by Yahoo. The Duo costs just 5.3% more than Samsung's flagship foldable, positioning Apple to chase scale--not merely prestige.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b16b18f703f3d0005e4fafe9d0cb00cce682565fdbf67917317207cdbfe89ab3",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news4": {
+      "id": "ev_AAPL_20260910_news4",
+      "kind": "news",
+      "title": "Rogers to Offer iPhone Duo, iPhone 18 Pro, iPhone 18 Pro Max, Apple Watch Series 12, and Apple Watch Ultra 4",
+      "detail": "Reported by Yahoo. Apple Watch Series 12 and Apple Watch Ultra 4 are available to pre-order now, iPhone 18 Pro and iPhone 18 Pro Max are available to pre-order starting on Saturday, September 12, and iPhone Duo is available to pre-order starting on Friday, October 16TORONTO, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Rogers will offer the latest Apple lineup, including iPhone Duo, iPhone 18 Pro, iPhone 18 Pro Max, Apple Watch Series 12, and Apple Watch Ultra 4. Rogers customers can experience the latest iPhone lineup with",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=13212fc05d6c15e34e802b79e5dd3a568bdbeb3dc18a4abf9d252c7d5d5947db",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news5": {
+      "id": "ev_AAPL_20260910_news5",
+      "kind": "news",
+      "title": "Why hardware will attract buyers to Apple's new lineup over AI features",
+      "detail": "Reported by Yahoo. Yahoo Finance Technology Editor Dan Howley joins Market Domination host Josh Lipton to report on Apple's (AAPL) latest lineup of products, including Siri AI and the iPhone Duo, and why buyers may be driven to buy new products for the hardware features rather than the AI integration.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=de5bdc240768cd3beebc324f2c1f3704e8a329573e824e7e614954dea297dcdd",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news6": {
+      "id": "ev_AAPL_20260910_news6",
+      "kind": "news",
+      "title": "He Built Products at Beats, Apple and LVMH. Here\u2019s How He Ended Up at a $1.5 Billion Startup That\u2019s Making Your Data Safer.",
+      "detail": "Reported by Yahoo. Ian Rogers shares his biggest lesson from building Apple Music.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=344d20f1d993131acd48aa41e6e8a0f28d551cc6ab3df19818aa659e4a02e2a5",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_20260910_news7": {
+      "id": "ev_AAPL_20260910_news7",
+      "kind": "news",
+      "title": "AT&T CEO drops a hot take on the new Apple iPhone Duo",
+      "detail": "Reported by Yahoo. The CEO of one of Apple\u2019s biggest carrier partners did not mince words.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b0fb1df122f34b7374a82f7dfd6ff7925b5f80c018ef848a1b7f62fa015a54ff",
+      "occurred_on": "2026-09-10",
+      "numbers": {}
+    },
+    "ev_AAPL_fund_revenue": {
+      "id": "ev_AAPL_fund_revenue",
+      "kind": "fundamental",
+      "title": "Revenue: 109,417,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +14.7% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "value": 109417000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "yoy_pct_change": 14.74
+      }
+    },
+    "ev_AAPL_fund_net_income": {
+      "id": "ev_AAPL_fund_net_income",
+      "kind": "fundamental",
+      "title": "Net Income: 29,789,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +20.2% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "value": 29789000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "NetIncomeLoss",
+        "yoy_pct_change": 20.21
+      }
+    },
+    "ev_AAPL_fund_gross_profit": {
+      "id": "ev_AAPL_fund_gross_profit",
+      "kind": "fundamental",
+      "title": "Gross Profit: 54,770,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +22.1% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "value": 54770000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "GrossProfit",
+        "yoy_pct_change": 22.07
+      }
+    },
+    "ev_AAPL_fund_operating_income": {
+      "id": "ev_AAPL_fund_operating_income",
+      "kind": "fundamental",
+      "title": "Operating Income: 35,695,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +20.6% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "value": 35695000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "OperatingIncomeLoss",
+        "yoy_pct_change": 20.64
+      }
+    },
+    "ev_AAPL_fund_rnd_expense": {
+      "id": "ev_AAPL_fund_rnd_expense",
+      "kind": "fundamental",
+      "title": "Rnd Expense: 11,729,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +37.2% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "value": 11729000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "ResearchAndDevelopmentExpense",
+        "yoy_pct_change": 37.18
+      }
+    },
+    "ev_AAPL_sector_CES3133400001": {
+      "id": "ev_AAPL_sector_CES3133400001",
+      "kind": "sector",
+      "title": "US computer and electronic product manufacturing employment: 998.5 thousands of jobs, +0.3% year over year",
+      "detail": "Monthly series, latest reading 2026-08-01.",
+      "source": "FRED (Federal Reserve Bank of St. Louis)",
+      "url": "https://fred.stlouisfed.org/series/CES3133400001",
+      "occurred_on": "2026-08-01",
+      "numbers": {
+        "value": 998.5,
+        "units": "thousands of jobs",
+        "as_of": "2026-08-01",
+        "yoy_pct_change": 0.35
+      }
+    },
+    "ev_AAPL_sector_IPG3344S": {
+      "id": "ev_AAPL_sector_IPG3344S",
+      "kind": "sector",
+      "title": "US semiconductor and electronic component production: 190.1 index, 2017=100, +12.3% year over year",
+      "detail": "Monthly series, latest reading 2026-08-01.",
+      "source": "FRED (Federal Reserve Bank of St. Louis)",
+      "url": "https://fred.stlouisfed.org/series/IPG3344S",
+      "occurred_on": "2026-08-01",
+      "numbers": {
+        "value": 190.0987,
+        "units": "index, 2017=100",
+        "as_of": "2026-08-01",
+        "yoy_pct_change": 12.35
+      }
+    }
+  },
+  "arc": "Between May and September 2026, Apple traded within an aggressive multi-month tug-of-war between strong hardware demand initiatives and the severe supply-chain friction of the broader AI cycle. The company opened the period strong with record earnings and a $100 billion buyback, but quickly faced headwinds as AI-driven component and memory shortages forced rare mid-cycle hardware price hikes on Macs and iPads, culminating in a 7.35% post-earnings plunge on July 31 due to component-constrained guidance. Nevertheless, Apple steadily built resilience by maintaining a low-capex AI model, securing regulatory clearance for Apple Intelligence in China, and unveiling the flagship foldable iPhone Duo, enabling the stock to recover back toward the $326 level.",
+  "arc_citation_ids": [
+    "ev_AAPL_20260501_news1",
+    "ev_AAPL_20260625_news1",
+    "ev_AAPL_20260625_news2",
+    "ev_AAPL_20260715_news0",
+    "ev_AAPL_20260724_news4",
+    "ev_AAPL_20260731_price",
+    "ev_AAPL_20260731_news3",
+    "ev_AAPL_20260910_price",
+    "ev_AAPL_20260910_news3"
+  ],
+  "warnings": []
+}

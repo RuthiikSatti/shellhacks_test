@@ -1,0 +1,3862 @@
+{
+  "symbol": "AMD",
+  "company_name": "Advanced Micro Devices, Inc.",
+  "generated_at": "2026-09-26T12:47:37.058831+00:00",
+  "bars": [
+    {
+      "date": "2026-03-20",
+      "open": 204.89,
+      "high": 206.3,
+      "low": 198.26,
+      "close": 201.33,
+      "volume": 37265100,
+      "pct_change": 0.0,
+      "prev_close": 204.89
+    },
+    {
+      "date": "2026-03-23",
+      "open": 206.4,
+      "high": 209.11,
+      "low": 201.71,
+      "close": 202.68,
+      "volume": 31857800,
+      "pct_change": 0.671,
+      "prev_close": 201.33
+    },
+    {
+      "date": "2026-03-24",
+      "open": 201.39,
+      "high": 206.43,
+      "low": 200.13,
+      "close": 205.37,
+      "volume": 27258800,
+      "pct_change": 1.327,
+      "prev_close": 202.68
+    },
+    {
+      "date": "2026-03-25",
+      "open": 211.51,
+      "high": 221.33,
+      "low": 211.51,
+      "close": 220.27,
+      "volume": 48518300,
+      "pct_change": 7.255,
+      "prev_close": 205.37
+    },
+    {
+      "date": "2026-03-26",
+      "open": 217.98,
+      "high": 221.0,
+      "low": 203.43,
+      "close": 203.77,
+      "volume": 49213000,
+      "pct_change": -7.491,
+      "prev_close": 220.27
+    },
+    {
+      "date": "2026-03-27",
+      "open": 201.77,
+      "high": 203.27,
+      "low": 197.69,
+      "close": 201.99,
+      "volume": 29206600,
+      "pct_change": -0.874,
+      "prev_close": 203.77
+    },
+    {
+      "date": "2026-03-30",
+      "open": 204.95,
+      "high": 208.43,
+      "low": 192.87,
+      "close": 196.04,
+      "volume": 41053300,
+      "pct_change": -2.946,
+      "prev_close": 201.99
+    },
+    {
+      "date": "2026-03-31",
+      "open": 198.05,
+      "high": 204.0,
+      "low": 196.41,
+      "close": 203.43,
+      "volume": 42318700,
+      "pct_change": 3.77,
+      "prev_close": 196.04
+    },
+    {
+      "date": "2026-04-01",
+      "open": 207.59,
+      "high": 213.83,
+      "low": 205.84,
+      "close": 210.21,
+      "volume": 40835800,
+      "pct_change": 3.333,
+      "prev_close": 203.43
+    },
+    {
+      "date": "2026-04-02",
+      "open": 204.05,
+      "high": 217.78,
+      "low": 200.62,
+      "close": 217.5,
+      "volume": 38463500,
+      "pct_change": 3.468,
+      "prev_close": 210.21
+    },
+    {
+      "date": "2026-04-06",
+      "open": 219.28,
+      "high": 226.31,
+      "low": 217.73,
+      "close": 220.18,
+      "volume": 30786400,
+      "pct_change": 1.232,
+      "prev_close": 217.5
+    },
+    {
+      "date": "2026-04-07",
+      "open": 218.26,
+      "high": 222.1,
+      "low": 215.38,
+      "close": 221.53,
+      "volume": 26483000,
+      "pct_change": 0.613,
+      "prev_close": 220.18
+    },
+    {
+      "date": "2026-04-08",
+      "open": 232.12,
+      "high": 234.0,
+      "low": 227.09,
+      "close": 231.82,
+      "volume": 35496400,
+      "pct_change": 4.645,
+      "prev_close": 221.53
+    },
+    {
+      "date": "2026-04-09",
+      "open": 233.01,
+      "high": 237.1,
+      "low": 230.91,
+      "close": 236.64,
+      "volume": 27126200,
+      "pct_change": 2.079,
+      "prev_close": 231.82
+    },
+    {
+      "date": "2026-04-10",
+      "open": 239.0,
+      "high": 249.58,
+      "low": 238.96,
+      "close": 245.04,
+      "volume": 36477200,
+      "pct_change": 3.55,
+      "prev_close": 236.64
+    },
+    {
+      "date": "2026-04-13",
+      "open": 245.03,
+      "high": 247.33,
+      "low": 242.03,
+      "close": 246.83,
+      "volume": 22781800,
+      "pct_change": 0.73,
+      "prev_close": 245.04
+    },
+    {
+      "date": "2026-04-14",
+      "open": 249.79,
+      "high": 255.46,
+      "low": 245.7,
+      "close": 255.07,
+      "volume": 25733200,
+      "pct_change": 3.338,
+      "prev_close": 246.83
+    },
+    {
+      "date": "2026-04-15",
+      "open": 254.96,
+      "high": 258.18,
+      "low": 251.85,
+      "close": 258.12,
+      "volume": 24695200,
+      "pct_change": 1.196,
+      "prev_close": 255.07
+    },
+    {
+      "date": "2026-04-16",
+      "open": 264.99,
+      "high": 279.34,
+      "low": 261.51,
+      "close": 278.26,
+      "volume": 64850800,
+      "pct_change": 7.803,
+      "prev_close": 258.12
+    },
+    {
+      "date": "2026-04-17",
+      "open": 281.0,
+      "high": 281.05,
+      "low": 274.14,
+      "close": 278.39,
+      "volume": 35519900,
+      "pct_change": 0.047,
+      "prev_close": 278.26
+    },
+    {
+      "date": "2026-04-20",
+      "open": 280.6,
+      "high": 287.61,
+      "low": 272.0,
+      "close": 274.95,
+      "volume": 34833900,
+      "pct_change": -1.236,
+      "prev_close": 278.39
+    },
+    {
+      "date": "2026-04-21",
+      "open": 277.33,
+      "high": 286.2,
+      "low": 276.62,
+      "close": 284.49,
+      "volume": 38950900,
+      "pct_change": 3.47,
+      "prev_close": 274.95
+    },
+    {
+      "date": "2026-04-22",
+      "open": 291.22,
+      "high": 304.25,
+      "low": 286.14,
+      "close": 303.46,
+      "volume": 49054200,
+      "pct_change": 6.668,
+      "prev_close": 284.49
+    },
+    {
+      "date": "2026-04-23",
+      "open": 302.01,
+      "high": 310.22,
+      "low": 299.76,
+      "close": 305.33,
+      "volume": 45619700,
+      "pct_change": 0.616,
+      "prev_close": 303.46
+    },
+    {
+      "date": "2026-04-24",
+      "open": 336.76,
+      "high": 352.99,
+      "low": 334.54,
+      "close": 347.81,
+      "volume": 81616700,
+      "pct_change": 13.913,
+      "prev_close": 305.33
+    },
+    {
+      "date": "2026-04-27",
+      "open": 346.32,
+      "high": 349.21,
+      "low": 328.81,
+      "close": 334.63,
+      "volume": 50585300,
+      "pct_change": -3.789,
+      "prev_close": 347.81
+    },
+    {
+      "date": "2026-04-28",
+      "open": 311.86,
+      "high": 327.5,
+      "low": 310.0,
+      "close": 323.21,
+      "volume": 43002500,
+      "pct_change": -3.413,
+      "prev_close": 334.63
+    },
+    {
+      "date": "2026-04-29",
+      "open": 326.58,
+      "high": 340.17,
+      "low": 318.86,
+      "close": 337.11,
+      "volume": 44704400,
+      "pct_change": 4.301,
+      "prev_close": 323.21
+    },
+    {
+      "date": "2026-04-30",
+      "open": 341.36,
+      "high": 354.96,
+      "low": 332.6,
+      "close": 354.49,
+      "volume": 42115300,
+      "pct_change": 5.156,
+      "prev_close": 337.11
+    },
+    {
+      "date": "2026-05-01",
+      "open": 351.87,
+      "high": 362.79,
+      "low": 349.25,
+      "close": 360.54,
+      "volume": 34279200,
+      "pct_change": 1.707,
+      "prev_close": 354.49
+    },
+    {
+      "date": "2026-05-04",
+      "open": 360.31,
+      "high": 361.85,
+      "low": 338.7,
+      "close": 341.54,
+      "volume": 42000200,
+      "pct_change": -5.27,
+      "prev_close": 360.54
+    },
+    {
+      "date": "2026-05-05",
+      "open": 351.51,
+      "high": 359.57,
+      "low": 344.88,
+      "close": 355.26,
+      "volume": 64235100,
+      "pct_change": 4.017,
+      "prev_close": 341.54
+    },
+    {
+      "date": "2026-05-06",
+      "open": 409.49,
+      "high": 430.6,
+      "low": 402.04,
+      "close": 421.39,
+      "volume": 87732200,
+      "pct_change": 18.615,
+      "prev_close": 355.26
+    },
+    {
+      "date": "2026-05-07",
+      "open": 417.07,
+      "high": 421.71,
+      "low": 401.08,
+      "close": 408.46,
+      "volume": 44885500,
+      "pct_change": -3.068,
+      "prev_close": 421.39
+    },
+    {
+      "date": "2026-05-08",
+      "open": 418.59,
+      "high": 456.29,
+      "low": 418.29,
+      "close": 455.19,
+      "volume": 58134900,
+      "pct_change": 11.441,
+      "prev_close": 408.46
+    },
+    {
+      "date": "2026-05-11",
+      "open": 460.55,
+      "high": 469.22,
+      "low": 450.88,
+      "close": 458.79,
+      "volume": 46085400,
+      "pct_change": 0.791,
+      "prev_close": 455.19
+    },
+    {
+      "date": "2026-05-12",
+      "open": 449.25,
+      "high": 458.8,
+      "low": 426.11,
+      "close": 448.29,
+      "volume": 39140100,
+      "pct_change": -2.289,
+      "prev_close": 458.79
+    },
+    {
+      "date": "2026-05-13",
+      "open": 457.04,
+      "high": 459.5,
+      "low": 432.65,
+      "close": 445.5,
+      "volume": 30423400,
+      "pct_change": -0.622,
+      "prev_close": 448.29
+    },
+    {
+      "date": "2026-05-14",
+      "open": 440.6,
+      "high": 453.31,
+      "low": 435.68,
+      "close": 449.7,
+      "volume": 26113600,
+      "pct_change": 0.943,
+      "prev_close": 445.5
+    },
+    {
+      "date": "2026-05-15",
+      "open": 433.34,
+      "high": 439.0,
+      "low": 423.36,
+      "close": 424.1,
+      "volume": 29131600,
+      "pct_change": -5.693,
+      "prev_close": 449.7
+    },
+    {
+      "date": "2026-05-18",
+      "open": 429.5,
+      "high": 438.8,
+      "low": 410.71,
+      "close": 420.99,
+      "volume": 28432100,
+      "pct_change": -0.733,
+      "prev_close": 424.1
+    },
+    {
+      "date": "2026-05-19",
+      "open": 412.6,
+      "high": 428.75,
+      "low": 393.36,
+      "close": 414.05,
+      "volume": 38756900,
+      "pct_change": -1.648,
+      "prev_close": 420.99
+    },
+    {
+      "date": "2026-05-20",
+      "open": 428.04,
+      "high": 449.39,
+      "low": 426.05,
+      "close": 447.58,
+      "volume": 36137500,
+      "pct_change": 8.098,
+      "prev_close": 414.05
+    },
+    {
+      "date": "2026-05-21",
+      "open": 441.99,
+      "high": 451.2,
+      "low": 431.6,
+      "close": 449.59,
+      "volume": 27252000,
+      "pct_change": 0.449,
+      "prev_close": 447.58
+    },
+    {
+      "date": "2026-05-22",
+      "open": 469.84,
+      "high": 481.41,
+      "low": 461.71,
+      "close": 467.51,
+      "volume": 34758600,
+      "pct_change": 3.986,
+      "prev_close": 449.59
+    },
+    {
+      "date": "2026-05-26",
+      "open": 484.74,
+      "high": 506.96,
+      "low": 480.23,
+      "close": 503.89,
+      "volume": 38473800,
+      "pct_change": 7.782,
+      "prev_close": 467.51
+    },
+    {
+      "date": "2026-05-27",
+      "open": 508.0,
+      "high": 510.21,
+      "low": 486.66,
+      "close": 495.54,
+      "volume": 27589300,
+      "pct_change": -1.657,
+      "prev_close": 503.89
+    },
+    {
+      "date": "2026-05-28",
+      "open": 499.0,
+      "high": 527.2,
+      "low": 493.52,
+      "close": 518.09,
+      "volume": 31438500,
+      "pct_change": 4.551,
+      "prev_close": 495.54
+    },
+    {
+      "date": "2026-05-29",
+      "open": 520.8,
+      "high": 522.0,
+      "low": 503.43,
+      "close": 516.1,
+      "volume": 30803200,
+      "pct_change": -0.384,
+      "prev_close": 518.09
+    },
+    {
+      "date": "2026-06-01",
+      "open": 500.16,
+      "high": 517.5,
+      "low": 486.8,
+      "close": 510.13,
+      "volume": 33309200,
+      "pct_change": -1.157,
+      "prev_close": 516.1
+    },
+    {
+      "date": "2026-06-02",
+      "open": 506.3,
+      "high": 522.49,
+      "low": 501.22,
+      "close": 521.54,
+      "volume": 24293200,
+      "pct_change": 2.237,
+      "prev_close": 510.13
+    },
+    {
+      "date": "2026-06-03",
+      "open": 533.75,
+      "high": 546.44,
+      "low": 524.3,
+      "close": 542.52,
+      "volume": 29411100,
+      "pct_change": 4.023,
+      "prev_close": 521.54
+    },
+    {
+      "date": "2026-06-04",
+      "open": 514.75,
+      "high": 532.19,
+      "low": 499.87,
+      "close": 523.2,
+      "volume": 29110000,
+      "pct_change": -3.561,
+      "prev_close": 542.52
+    },
+    {
+      "date": "2026-06-05",
+      "open": 499.53,
+      "high": 505.62,
+      "low": 463.95,
+      "close": 466.38,
+      "volume": 46900600,
+      "pct_change": -10.86,
+      "prev_close": 523.2
+    },
+    {
+      "date": "2026-06-08",
+      "open": 485.0,
+      "high": 494.97,
+      "low": 477.71,
+      "close": 490.33,
+      "volume": 25158800,
+      "pct_change": 5.135,
+      "prev_close": 466.38
+    },
+    {
+      "date": "2026-06-09",
+      "open": 502.75,
+      "high": 505.0,
+      "low": 437.23,
+      "close": 475.51,
+      "volume": 37799800,
+      "pct_change": -3.022,
+      "prev_close": 490.33
+    },
+    {
+      "date": "2026-06-10",
+      "open": 467.97,
+      "high": 477.45,
+      "low": 448.33,
+      "close": 452.4,
+      "volume": 27777400,
+      "pct_change": -4.86,
+      "prev_close": 475.51
+    },
+    {
+      "date": "2026-06-11",
+      "open": 461.6,
+      "high": 490.46,
+      "low": 458.02,
+      "close": 488.45,
+      "volume": 30463100,
+      "pct_change": 7.969,
+      "prev_close": 452.4
+    },
+    {
+      "date": "2026-06-12",
+      "open": 499.69,
+      "high": 521.71,
+      "low": 494.0,
+      "close": 511.57,
+      "volume": 31553100,
+      "pct_change": 4.733,
+      "prev_close": 488.45
+    },
+    {
+      "date": "2026-06-15",
+      "open": 535.75,
+      "high": 558.37,
+      "low": 530.5,
+      "close": 547.26,
+      "volume": 33482400,
+      "pct_change": 6.977,
+      "prev_close": 511.57
+    },
+    {
+      "date": "2026-06-16",
+      "open": 546.89,
+      "high": 548.95,
+      "low": 507.25,
+      "close": 507.29,
+      "volume": 28411700,
+      "pct_change": -7.304,
+      "prev_close": 547.26
+    },
+    {
+      "date": "2026-06-17",
+      "open": 529.66,
+      "high": 532.5,
+      "low": 507.3,
+      "close": 512.48,
+      "volume": 27085300,
+      "pct_change": 1.023,
+      "prev_close": 507.29
+    },
+    {
+      "date": "2026-06-18",
+      "open": 531.58,
+      "high": 539.69,
+      "low": 526.32,
+      "close": 537.37,
+      "volume": 43805600,
+      "pct_change": 4.857,
+      "prev_close": 512.48
+    },
+    {
+      "date": "2026-06-22",
+      "open": 545.5,
+      "high": 562.99,
+      "low": 535.71,
+      "close": 551.63,
+      "volume": 25983200,
+      "pct_change": 2.654,
+      "prev_close": 537.37
+    },
+    {
+      "date": "2026-06-23",
+      "open": 509.08,
+      "high": 528.49,
+      "low": 506.81,
+      "close": 519.85,
+      "volume": 30196800,
+      "pct_change": -5.761,
+      "prev_close": 551.63
+    },
+    {
+      "date": "2026-06-24",
+      "open": 520.82,
+      "high": 524.96,
+      "low": 503.5,
+      "close": 519.74,
+      "volume": 26548300,
+      "pct_change": -0.021,
+      "prev_close": 519.85
+    },
+    {
+      "date": "2026-06-25",
+      "open": 543.93,
+      "high": 550.88,
+      "low": 507.0,
+      "close": 532.57,
+      "volume": 27031300,
+      "pct_change": 2.469,
+      "prev_close": 519.74
+    },
+    {
+      "date": "2026-06-26",
+      "open": 519.8,
+      "high": 525.11,
+      "low": 502.61,
+      "close": 521.58,
+      "volume": 52705100,
+      "pct_change": -2.064,
+      "prev_close": 532.57
+    },
+    {
+      "date": "2026-06-29",
+      "open": 522.84,
+      "high": 542.19,
+      "low": 495.35,
+      "close": 539.49,
+      "volume": 26671000,
+      "pct_change": 3.434,
+      "prev_close": 521.58
+    },
+    {
+      "date": "2026-06-30",
+      "open": 545.57,
+      "high": 584.73,
+      "low": 545.57,
+      "close": 580.91,
+      "volume": 34488500,
+      "pct_change": 7.678,
+      "prev_close": 539.49
+    },
+    {
+      "date": "2026-07-01",
+      "open": 557.53,
+      "high": 564.09,
+      "low": 538.74,
+      "close": 540.88,
+      "volume": 28326800,
+      "pct_change": -6.891,
+      "prev_close": 580.91
+    },
+    {
+      "date": "2026-07-02",
+      "open": 538.16,
+      "high": 547.65,
+      "low": 506.0,
+      "close": 517.82,
+      "volume": 28142500,
+      "pct_change": -4.263,
+      "prev_close": 540.88
+    },
+    {
+      "date": "2026-07-06",
+      "open": 535.35,
+      "high": 572.5,
+      "low": 527.0,
+      "close": 552.05,
+      "volume": 30684200,
+      "pct_change": 6.61,
+      "prev_close": 517.82
+    },
+    {
+      "date": "2026-07-07",
+      "open": 515.91,
+      "high": 524.97,
+      "low": 503.11,
+      "close": 516.11,
+      "volume": 29166800,
+      "pct_change": -6.51,
+      "prev_close": 552.05
+    },
+    {
+      "date": "2026-07-08",
+      "open": 504.81,
+      "high": 522.98,
+      "low": 498.15,
+      "close": 517.41,
+      "volume": 23768500,
+      "pct_change": 0.252,
+      "prev_close": 516.11
+    },
+    {
+      "date": "2026-07-09",
+      "open": 537.27,
+      "high": 559.5,
+      "low": 535.2,
+      "close": 546.72,
+      "volume": 26900800,
+      "pct_change": 5.665,
+      "prev_close": 517.41
+    },
+    {
+      "date": "2026-07-10",
+      "open": 544.01,
+      "high": 560.25,
+      "low": 540.05,
+      "close": 557.89,
+      "volume": 20704500,
+      "pct_change": 2.043,
+      "prev_close": 546.72
+    },
+    {
+      "date": "2026-07-13",
+      "open": 537.5,
+      "high": 551.87,
+      "low": 526.92,
+      "close": 534.39,
+      "volume": 22957400,
+      "pct_change": -4.212,
+      "prev_close": 557.89
+    },
+    {
+      "date": "2026-07-14",
+      "open": 567.22,
+      "high": 574.2,
+      "low": 546.77,
+      "close": 548.13,
+      "volume": 21201400,
+      "pct_change": 2.571,
+      "prev_close": 534.39
+    },
+    {
+      "date": "2026-07-15",
+      "open": 556.02,
+      "high": 558.89,
+      "low": 509.57,
+      "close": 529.14,
+      "volume": 27826200,
+      "pct_change": -3.465,
+      "prev_close": 548.13
+    },
+    {
+      "date": "2026-07-16",
+      "open": 509.33,
+      "high": 518.74,
+      "low": 491.8,
+      "close": 500.94,
+      "volume": 27093700,
+      "pct_change": -5.329,
+      "prev_close": 529.14
+    },
+    {
+      "date": "2026-07-17",
+      "open": 476.88,
+      "high": 505.88,
+      "low": 460.21,
+      "close": 495.76,
+      "volume": 32115900,
+      "pct_change": -1.034,
+      "prev_close": 500.94
+    },
+    {
+      "date": "2026-07-20",
+      "open": 517.0,
+      "high": 522.44,
+      "low": 502.36,
+      "close": 503.57,
+      "volume": 23440700,
+      "pct_change": 1.575,
+      "prev_close": 495.76
+    },
+    {
+      "date": "2026-07-21",
+      "open": 526.0,
+      "high": 548.14,
+      "low": 522.6,
+      "close": 544.43,
+      "volume": 29045100,
+      "pct_change": 8.114,
+      "prev_close": 503.57
+    },
+    {
+      "date": "2026-07-22",
+      "open": 526.88,
+      "high": 561.47,
+      "low": 526.6,
+      "close": 552.33,
+      "volume": 24776700,
+      "pct_change": 1.451,
+      "prev_close": 544.43
+    },
+    {
+      "date": "2026-07-23",
+      "open": 544.74,
+      "high": 556.49,
+      "low": 525.0,
+      "close": 539.69,
+      "volume": 27155100,
+      "pct_change": -2.288,
+      "prev_close": 552.33
+    },
+    {
+      "date": "2026-07-24",
+      "open": 546.92,
+      "high": 549.0,
+      "low": 518.0,
+      "close": 521.95,
+      "volume": 27200700,
+      "pct_change": -3.287,
+      "prev_close": 539.69
+    },
+    {
+      "date": "2026-07-27",
+      "open": 527.51,
+      "high": 528.0,
+      "low": 476.93,
+      "close": 494.95,
+      "volume": 31800300,
+      "pct_change": -5.173,
+      "prev_close": 521.95
+    },
+    {
+      "date": "2026-07-28",
+      "open": 467.0,
+      "high": 472.75,
+      "low": 442.27,
+      "close": 454.62,
+      "volume": 36315500,
+      "pct_change": -8.148,
+      "prev_close": 494.95
+    },
+    {
+      "date": "2026-07-29",
+      "open": 452.68,
+      "high": 457.22,
+      "low": 424.03,
+      "close": 429.56,
+      "volume": 32304900,
+      "pct_change": -5.512,
+      "prev_close": 454.62
+    },
+    {
+      "date": "2026-07-30",
+      "open": 460.0,
+      "high": 498.2,
+      "low": 457.68,
+      "close": 485.39,
+      "volume": 36936600,
+      "pct_change": 12.997,
+      "prev_close": 429.56
+    },
+    {
+      "date": "2026-07-31",
+      "open": 510.28,
+      "high": 515.62,
+      "low": 475.76,
+      "close": 476.15,
+      "volume": 26615700,
+      "pct_change": -1.904,
+      "prev_close": 485.39
+    },
+    {
+      "date": "2026-08-03",
+      "open": 461.79,
+      "high": 490.95,
+      "low": 455.3,
+      "close": 484.64,
+      "volume": 24422300,
+      "pct_change": 1.783,
+      "prev_close": 476.15
+    },
+    {
+      "date": "2026-08-04",
+      "open": 504.0,
+      "high": 530.13,
+      "low": 502.2,
+      "close": 518.58,
+      "volume": 48463600,
+      "pct_change": 7.003,
+      "prev_close": 484.64
+    },
+    {
+      "date": "2026-08-05",
+      "open": 484.5,
+      "high": 502.0,
+      "low": 478.2,
+      "close": 482.05,
+      "volume": 49615800,
+      "pct_change": -7.044,
+      "prev_close": 518.58
+    },
+    {
+      "date": "2026-08-06",
+      "open": 471.75,
+      "high": 496.72,
+      "low": 469.5,
+      "close": 489.28,
+      "volume": 24675300,
+      "pct_change": 1.5,
+      "prev_close": 482.05
+    },
+    {
+      "date": "2026-08-07",
+      "open": 497.94,
+      "high": 498.99,
+      "low": 476.06,
+      "close": 483.36,
+      "volume": 26618800,
+      "pct_change": -1.21,
+      "prev_close": 489.28
+    },
+    {
+      "date": "2026-08-10",
+      "open": 477.09,
+      "high": 483.36,
+      "low": 469.29,
+      "close": 469.56,
+      "volume": 19656600,
+      "pct_change": -2.855,
+      "prev_close": 483.36
+    },
+    {
+      "date": "2026-08-11",
+      "open": 474.75,
+      "high": 475.99,
+      "low": 463.21,
+      "close": 474.32,
+      "volume": 18052500,
+      "pct_change": 1.014,
+      "prev_close": 469.56
+    },
+    {
+      "date": "2026-08-12",
+      "open": 488.32,
+      "high": 491.69,
+      "low": 480.88,
+      "close": 482.93,
+      "volume": 18628300,
+      "pct_change": 1.815,
+      "prev_close": 474.32
+    },
+    {
+      "date": "2026-08-13",
+      "open": 483.0,
+      "high": 497.99,
+      "low": 481.0,
+      "close": 483.01,
+      "volume": 18764900,
+      "pct_change": 0.017,
+      "prev_close": 482.93
+    },
+    {
+      "date": "2026-08-14",
+      "open": 487.6,
+      "high": 514.67,
+      "low": 483.2,
+      "close": 514.39,
+      "volume": 25570300,
+      "pct_change": 6.497,
+      "prev_close": 483.01
+    },
+    {
+      "date": "2026-08-17",
+      "open": 514.16,
+      "high": 517.35,
+      "low": 504.52,
+      "close": 506.0,
+      "volume": 20057600,
+      "pct_change": -1.631,
+      "prev_close": 514.39
+    },
+    {
+      "date": "2026-08-18",
+      "open": 487.56,
+      "high": 491.81,
+      "low": 474.98,
+      "close": 484.39,
+      "volume": 23721500,
+      "pct_change": -4.271,
+      "prev_close": 506.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 486.08,
+      "high": 487.01,
+      "low": 462.55,
+      "close": 466.42,
+      "volume": 19208400,
+      "pct_change": -3.71,
+      "prev_close": 484.39
+    },
+    {
+      "date": "2026-08-20",
+      "open": 465.67,
+      "high": 475.53,
+      "low": 460.27,
+      "close": 469.46,
+      "volume": 15178900,
+      "pct_change": 0.652,
+      "prev_close": 466.42
+    },
+    {
+      "date": "2026-08-21",
+      "open": 476.5,
+      "high": 477.36,
+      "low": 462.11,
+      "close": 473.25,
+      "volume": 14343900,
+      "pct_change": 0.807,
+      "prev_close": 469.46
+    },
+    {
+      "date": "2026-08-24",
+      "open": 468.54,
+      "high": 468.54,
+      "low": 451.0,
+      "close": 456.75,
+      "volume": 16602200,
+      "pct_change": -3.487,
+      "prev_close": 473.25
+    },
+    {
+      "date": "2026-08-25",
+      "open": 474.2,
+      "high": 481.5,
+      "low": 469.07,
+      "close": 479.18,
+      "volume": 19001400,
+      "pct_change": 4.911,
+      "prev_close": 456.75
+    },
+    {
+      "date": "2026-08-26",
+      "open": 475.07,
+      "high": 491.12,
+      "low": 474.58,
+      "close": 480.93,
+      "volume": 14348100,
+      "pct_change": 0.365,
+      "prev_close": 479.18
+    },
+    {
+      "date": "2026-08-27",
+      "open": 481.5,
+      "high": 483.0,
+      "low": 469.63,
+      "close": 476.67,
+      "volume": 16441800,
+      "pct_change": -0.886,
+      "prev_close": 480.93
+    },
+    {
+      "date": "2026-08-28",
+      "open": 472.52,
+      "high": 478.75,
+      "low": 465.29,
+      "close": 465.58,
+      "volume": 15373900,
+      "pct_change": -2.327,
+      "prev_close": 476.67
+    },
+    {
+      "date": "2026-08-31",
+      "open": 466.22,
+      "high": 475.81,
+      "low": 463.68,
+      "close": 470.72,
+      "volume": 12463000,
+      "pct_change": 1.104,
+      "prev_close": 465.58
+    },
+    {
+      "date": "2026-09-01",
+      "open": 459.91,
+      "high": 461.5,
+      "low": 452.3,
+      "close": 459.61,
+      "volume": 16212800,
+      "pct_change": -2.36,
+      "prev_close": 470.72
+    },
+    {
+      "date": "2026-09-02",
+      "open": 459.51,
+      "high": 462.21,
+      "low": 452.36,
+      "close": 457.06,
+      "volume": 11938800,
+      "pct_change": -0.555,
+      "prev_close": 459.61
+    },
+    {
+      "date": "2026-09-03",
+      "open": 453.15,
+      "high": 459.77,
+      "low": 440.5,
+      "close": 456.16,
+      "volume": 14868100,
+      "pct_change": -0.197,
+      "prev_close": 457.06
+    },
+    {
+      "date": "2026-09-04",
+      "open": 462.0,
+      "high": 478.83,
+      "low": 458.0,
+      "close": 477.57,
+      "volume": 19678700,
+      "pct_change": 4.694,
+      "prev_close": 456.16
+    },
+    {
+      "date": "2026-09-08",
+      "open": 488.92,
+      "high": 512.36,
+      "low": 486.57,
+      "close": 505.74,
+      "volume": 28166500,
+      "pct_change": 5.899,
+      "prev_close": 477.57
+    },
+    {
+      "date": "2026-09-09",
+      "open": 507.5,
+      "high": 526.79,
+      "low": 506.36,
+      "close": 521.1,
+      "volume": 22152400,
+      "pct_change": 3.037,
+      "prev_close": 505.74
+    },
+    {
+      "date": "2026-09-10",
+      "open": 509.07,
+      "high": 516.33,
+      "low": 502.81,
+      "close": 503.6,
+      "volume": 16005500,
+      "pct_change": -3.358,
+      "prev_close": 521.1
+    },
+    {
+      "date": "2026-09-11",
+      "open": 510.71,
+      "high": 521.06,
+      "low": 501.35,
+      "close": 516.13,
+      "volume": 19026200,
+      "pct_change": 2.488,
+      "prev_close": 503.6
+    },
+    {
+      "date": "2026-09-14",
+      "open": 486.28,
+      "high": 498.39,
+      "low": 480.33,
+      "close": 493.41,
+      "volume": 24810100,
+      "pct_change": -4.402,
+      "prev_close": 516.13
+    },
+    {
+      "date": "2026-09-15",
+      "open": 501.7,
+      "high": 513.67,
+      "low": 497.51,
+      "close": 504.2,
+      "volume": 17134000,
+      "pct_change": 2.187,
+      "prev_close": 493.41
+    },
+    {
+      "date": "2026-09-16",
+      "open": 517.39,
+      "high": 527.25,
+      "low": 506.05,
+      "close": 512.5,
+      "volume": 22317700,
+      "pct_change": 1.646,
+      "prev_close": 504.2
+    },
+    {
+      "date": "2026-09-17",
+      "open": 533.6,
+      "high": 551.42,
+      "low": 527.6,
+      "close": 545.09,
+      "volume": 28464700,
+      "pct_change": 6.359,
+      "prev_close": 512.5
+    },
+    {
+      "date": "2026-09-18",
+      "open": 547.37,
+      "high": 559.91,
+      "low": 541.53,
+      "close": 559.82,
+      "volume": 31867300,
+      "pct_change": 2.702,
+      "prev_close": 545.09
+    },
+    {
+      "date": "2026-09-21",
+      "open": 583.88,
+      "high": 616.69,
+      "low": 582.27,
+      "close": 615.52,
+      "volume": 44494300,
+      "pct_change": 9.95,
+      "prev_close": 559.82
+    },
+    {
+      "date": "2026-09-22",
+      "open": 606.57,
+      "high": 624.52,
+      "low": 606.31,
+      "close": 623.77,
+      "volume": 28282800,
+      "pct_change": 1.34,
+      "prev_close": 615.52
+    },
+    {
+      "date": "2026-09-23",
+      "open": 621.5,
+      "high": 624.69,
+      "low": 608.08,
+      "close": 614.61,
+      "volume": 16338200,
+      "pct_change": -1.468,
+      "prev_close": 623.77
+    },
+    {
+      "date": "2026-09-24",
+      "open": 600.27,
+      "high": 630.8,
+      "low": 599.24,
+      "close": 629.26,
+      "volume": 25318900,
+      "pct_change": 2.384,
+      "prev_close": 614.61
+    },
+    {
+      "date": "2026-09-25",
+      "open": 634.54,
+      "high": 639.0,
+      "low": 625.52,
+      "close": 630.63,
+      "volume": 17594900,
+      "pct_change": 0.218,
+      "prev_close": 629.26
+    }
+  ],
+  "beats": [
+    {
+      "date": "2026-03-25",
+      "pct_change": 7.255,
+      "close": 220.27,
+      "direction": "up",
+      "headline": "Shares rally 7.25% on reported CPU price increases",
+      "explanation": "AMD rose 7.25% to $220.27 on heavy volume that was 2.4 times its 30-day average. The advance was driven by reports that AMD and peer chipmakers plan double-digit price increases of roughly 15% for CPUs to address supply shortages and robust data center demand. This move was shared with competitor INTC, which also gained 7.08% on the same reports.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260325_price",
+        "ev_AMD_20260325_peer_INTC",
+        "ev_AMD_20260325_news1",
+        "ev_AMD_20260325_news3",
+        "ev_AMD_20260325_news6"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "pct_change": 7.803,
+      "close": 278.26,
+      "direction": "up",
+      "headline": "Stock jumps 7.80% to record high on AI momentum",
+      "explanation": "AMD gained 7.80% to close at $278.26, marking its 12th consecutive daily gain and setting a new record high on trading volume 3.15 times its average. The rally reflected expanding investor optimism regarding AI accelerator contracts and data center revenue growth. The gain was shared with competitor INTC, which rose 5.48%, whereas supplier TSM declined 3.13%.",
+      "confidence": "medium",
+      "citation_ids": [
+        "ev_AMD_20260416_price",
+        "ev_AMD_20260416_peer_INTC",
+        "ev_AMD_20260416_peer_TSM",
+        "ev_AMD_20260416_news0",
+        "ev_AMD_20260416_news3",
+        "ev_AMD_20260416_news4"
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "pct_change": 6.668,
+      "close": 303.46,
+      "direction": "up",
+      "headline": "Shares gain 6.67% amid broader AI chip demand rally",
+      "explanation": "AMD climbed 6.67% to $303.46 on trading volume 2.39 times normal levels. The rise was supported by a Wall Street price target increase from Stifel and broad-based demand for AI hardware. The move was shared across peers, with competitor AVGO advancing 5.09% and supplier TSM rising 5.26%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260422_price",
+        "ev_AMD_20260422_peer_AVGO",
+        "ev_AMD_20260422_peer_TSM",
+        "ev_AMD_20260422_news3",
+        "ev_AMD_20260422_news6",
+        "ev_AMD_20260422_news7"
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "pct_change": 13.913,
+      "close": 347.81,
+      "direction": "up",
+      "headline": "Stock surges 13.91% after upgrade tied to Intel results",
+      "explanation": "AMD advanced 13.91% to $347.81 on 3.97 times average trading volume. The surge followed an upgrade by D.A. Davidson to Buy with a $375 price target, spurred by strong earnings from competitor INTC that signaled accelerated CPU demand from agentic AI workloads. This sharp rise was shared with INTC, which surged 23.60%, and competitor QCOM, which gained 11.12%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260424_price",
+        "ev_AMD_20260424_peer_INTC",
+        "ev_AMD_20260424_peer_QCOM",
+        "ev_AMD_20260424_news0",
+        "ev_AMD_20260424_news6",
+        "ev_AMD_20260424_news7"
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "pct_change": -3.789,
+      "close": 334.63,
+      "direction": "down",
+      "headline": "Shares drop 3.79% following ARK share sale",
+      "explanation": "AMD declined 3.79% to $334.63 on trading volume 2.46 times its 30-day average. The pullback followed reports that Cathie Wood's ARK sold substantial shares after the stock's steep multi-week run. The drop was company-specific, as competitor NVDA rose 4.00% and competitor INTC gained 2.97% on the same day.",
+      "confidence": "medium",
+      "citation_ids": [
+        "ev_AMD_20260427_price",
+        "ev_AMD_20260427_peer_INTC",
+        "ev_AMD_20260427_peer_NVDA",
+        "ev_AMD_20260427_news2"
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "pct_change": 18.615,
+      "close": 421.39,
+      "direction": "up",
+      "headline": "Stock leaps 18.61% on Q1 earnings beat and guidance",
+      "explanation": "AMD surged 18.61% to $421.39 on trading volume 4.27 times normal levels after filing its quarterly financial report. First-quarter results topped expectations, highlighted by a 57% jump in data center revenue and stronger-than-expected guidance for the second quarter. While competitor NVDA gained 5.77% and supplier TSM added 6.36%, AMD significantly outperformed the sector.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260506_price",
+        "ev_AMD_20260506_filing_000000248826000072",
+        "ev_AMD_20260506_filing_000000248826000076",
+        "ev_AMD_20260506_peer_NVDA",
+        "ev_AMD_20260506_peer_TSM",
+        "ev_AMD_20260506_news0",
+        "ev_AMD_20260506_news3"
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "pct_change": 11.441,
+      "close": 455.19,
+      "direction": "up",
+      "headline": "Shares jump 11.44% on Rackspace deal and CPU demand",
+      "explanation": "AMD gained 11.44% to close at $455.19 with volume reaching 2.83 times its average. The rally was driven by an AI cloud agreement with Rackspace and rising analyst optimism around agentic AI server CPU demand. The advance was shared across the sector, with competitor INTC rising 13.96% and competitor QCOM gaining 8.17%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260508_price",
+        "ev_AMD_20260508_peer_INTC",
+        "ev_AMD_20260508_peer_QCOM",
+        "ev_AMD_20260508_news0",
+        "ev_AMD_20260508_news4",
+        "ev_AMD_20260508_news6"
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "pct_change": 7.782,
+      "close": 503.89,
+      "direction": "up",
+      "headline": "Stock rises 7.78% past $500 on OneQode AI deployment",
+      "explanation": "AMD rose 7.78% to finish at $503.89 on volume 1.87 times its 30-day average. The move followed an agreement with OneQode to deploy AMD Instinct GPUs and Helios rack-scale systems, alongside news that next-generation AI processors entered production. While competitor QCOM rose 4.48%, competitor NVDA declined 0.22% and customer MSFT fell 0.61%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260526_price",
+        "ev_AMD_20260526_peer_MSFT",
+        "ev_AMD_20260526_peer_NVDA",
+        "ev_AMD_20260526_peer_QCOM",
+        "ev_AMD_20260526_news2",
+        "ev_AMD_20260526_news5",
+        "ev_AMD_20260526_news7"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "pct_change": -8.148,
+      "close": 454.62,
+      "direction": "down",
+      "headline": "Shares fall 8.15% amid chip selloff despite power deal",
+      "explanation": "AMD dropped 8.15% to $454.62 on volume 1.77 times the average. The decline occurred despite AMD announcing a long-term AI infrastructure partnership with Core Scientific for up to 2.5 gigawatts of capacity, as broader concerns over AI infrastructure spending pressured the chip sector. The move was shared with competitors INTC, which fell 5.86%, and QCOM, which dropped 4.21%.",
+      "confidence": "medium",
+      "citation_ids": [
+        "ev_AMD_20260728_price",
+        "ev_AMD_20260728_peer_INTC",
+        "ev_AMD_20260728_peer_QCOM",
+        "ev_AMD_20260728_news1",
+        "ev_AMD_20260728_news3",
+        "ev_AMD_20260728_news5"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "pct_change": 12.997,
+      "close": 485.39,
+      "direction": "up",
+      "headline": "Stock surges 13.00% on Core Scientific deal and upgrade",
+      "explanation": "AMD climbed 13.00% to $485.39 on 1.80 times average volume. The rebound was propelled by a price target increase from Susquehanna and renewed market appreciation for the 2.5-gigawatt Core Scientific AI data center contract. The rally was shared with customer MSFT, which jumped 15.51%, and competitor INTC, which gained 11.30%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260730_price",
+        "ev_AMD_20260730_peer_INTC",
+        "ev_AMD_20260730_peer_MSFT",
+        "ev_AMD_20260730_news3",
+        "ev_AMD_20260730_news5",
+        "ev_AMD_20260730_news6"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "pct_change": -7.044,
+      "close": 482.05,
+      "direction": "down",
+      "headline": "Shares drop 7.04% post-Q2 earnings on high expectations",
+      "explanation": "AMD declined 7.04% to $482.05 on volume 2.41 times average following its second-quarter earnings release. Although AMD posted record quarterly revenue of $11.5 billion, the report failed to satisfy heightened market expectations, and sentiment was dampened by comments that SpaceX would use rival chips. The decline was largely company-specific, as competitor NVDA gained 3.44% and competitor INTC rose 0.20%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260805_price",
+        "ev_AMD_20260805_filing_000000248826000121",
+        "ev_AMD_20260805_filing_000000248826000123",
+        "ev_AMD_20260805_peer_INTC",
+        "ev_AMD_20260805_peer_NVDA",
+        "ev_AMD_20260805_news3",
+        "ev_AMD_20260805_news4",
+        "ev_AMD_20260805_news5"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "pct_change": 9.95,
+      "close": 615.52,
+      "direction": "up",
+      "headline": "AMD rises 9.95% to top $1T market cap on AI agent surge",
+      "explanation": "AMD gained 9.95% to close at $615.52 on 2.16 times average trading volume, pushing its market capitalization past $1 trillion for the first time. The rally was initiated by market excitement over Meta's Muse AI agent, which spurred expectations for surging CPU server demand. The move was shared across peers, with competitor INTC climbing 12.14% and competitor QCOM rising 9.29%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_AMD_20260921_price",
+        "ev_AMD_20260921_peer_INTC",
+        "ev_AMD_20260921_peer_QCOM",
+        "ev_AMD_20260921_news1",
+        "ev_AMD_20260921_news4",
+        "ev_AMD_20260921_news5"
+      ]
+    }
+  ],
+  "evidence": {
+    "ev_AMD_20260325_price": {
+      "id": "ev_AMD_20260325_price",
+      "kind": "price",
+      "title": "AMD rose 7.25% on 2026-03-25",
+      "detail": "Closed at $220.27 from $205.37. Volume was 2.4x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "pct_change": 7.255,
+        "close": 220.27,
+        "prev_close": 205.37,
+        "volume": 48518300,
+        "volume_vs_30d_avg": 2.36,
+        "move_excluding_sector_pct": 5.36
+      }
+    },
+    "ev_AMD_20260325_peer_AVGO": {
+      "id": "ev_AMD_20260325_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +0.16% the same day",
+      "detail": "AMD moved +7.25% while AVGO moved +0.16%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "peer_pct_change": 0.16,
+        "subject_pct_change": 7.255,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260325_peer_INTC": {
+      "id": "ev_AMD_20260325_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +7.08% the same day",
+      "detail": "AMD moved +7.25% while INTC moved +7.08%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "peer_pct_change": 7.08,
+        "subject_pct_change": 7.255,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260325_peer_MSFT": {
+      "id": "ev_AMD_20260325_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved -0.46% the same day",
+      "detail": "AMD moved +7.25% while MSFT moved -0.46%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "peer_pct_change": -0.46,
+        "subject_pct_change": 7.255,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260325_peer_NVDA": {
+      "id": "ev_AMD_20260325_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +1.99% the same day",
+      "detail": "AMD moved +7.25% while NVDA moved +1.99%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "peer_pct_change": 1.99,
+        "subject_pct_change": 7.255,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260325_peer_QCOM": {
+      "id": "ev_AMD_20260325_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +1.31% the same day",
+      "detail": "AMD moved +7.25% while QCOM moved +1.31%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "peer_pct_change": 1.31,
+        "subject_pct_change": 7.255,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260325_peer_TSM": {
+      "id": "ev_AMD_20260325_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +1.31% the same day",
+      "detail": "AMD moved +7.25% while TSM moved +1.31%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-03-25",
+      "numbers": {
+        "peer_pct_change": 1.31,
+        "subject_pct_change": 7.255,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260325_news0": {
+      "id": "ev_AMD_20260325_news0",
+      "kind": "news",
+      "title": "AMD: One Reason To Buy And One Reason To Be Cautious",
+      "detail": "Reported by SeekingAlpha.",
+      "source": "SeekingAlpha (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=7e07674ce7ce5e4488d5d7644f94d543bbb6dfd8e323cd45db4c5c4c88ec601f",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news1": {
+      "id": "ev_AMD_20260325_news1",
+      "kind": "news",
+      "title": "Stock Market Today, March 25: Advanced Micro Devices Rises After Reports of CPU Price Increases",
+      "detail": "Reported by Yahoo. Advanced Micro Devices rose after reports of planned CPU price increases, as AI data center demand continues to support stronger pricing.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ab7e7198e768d3784ee786b66023455b060f46260cbb981239d4f7c31cc08587",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news2": {
+      "id": "ev_AMD_20260325_news2",
+      "kind": "news",
+      "title": "Urban-gro, DraftKings, Sarepta Therapeutics, Destiny Tech100 And AMD: Why These 5 Stocks Are On Investors' Radars Today",
+      "detail": "Reported by Benzinga. U.S. stocks closed higher on Wednesday, with the Dow Jones Industrial Average up 0.66% at 46,429.49, the S&amp;P 500 gaining 0.5% to 6,591.90.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9e70c7db6bd322afd3b48870117e24c66828738bc1f9a20f1fd800b9c63d13c3",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news3": {
+      "id": "ev_AMD_20260325_news3",
+      "kind": "news",
+      "title": "Intel, AMD Stocks Jump After Reports of 15% CPU Price Increase",
+      "detail": "Reported by Yahoo. AMD, Intel Shares Rally as Chip Titans Signal Double-Digit CPU Price Hikes",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ef280070b3ccec4dd3211e401f5180404fa59b9c748944e3168bde389158a154",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news4": {
+      "id": "ev_AMD_20260325_news4",
+      "kind": "news",
+      "title": "Intel, AMD Supply Constraints Weigh on PC and Server Manufacturers",
+      "detail": "Reported by Yahoo. Intel and AMD constraints add to component stress for hardware makers",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9ff846c2a9e909f06e1690ee98a69e70f37a1142af9a3affe020836e022fe295",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news5": {
+      "id": "ev_AMD_20260325_news5",
+      "kind": "news",
+      "title": "Market Chatter: Intel, Advanced Micro Devices CPU Shortage Pressures PC, Server Makers",
+      "detail": "Reported by Yahoo. Intel (INTC) and Advanced Micro Devices (AMD) are facing a growing central processing unit supply cr",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c9002bd789ead50ab1678e78b3eb356e7f86e22bbf32fb3ab3f2a81f833b6ca3",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news6": {
+      "id": "ev_AMD_20260325_news6",
+      "kind": "news",
+      "title": "AMD and Intel Are Leading a Chip Stock Rally Today. Here's Why.",
+      "detail": "Reported by Yahoo. Shares of Intel and AMD surged Wednesday following a report the companies are raising chip prices.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=86d342fd8e7ccedc31e66500a334a4bc2c80150d41cd1824b4c787959fd554ee",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260325_news7": {
+      "id": "ev_AMD_20260325_news7",
+      "kind": "news",
+      "title": "AMD, Intel stocks rise on possible price hikes; gold prices climb",
+      "detail": "Reported by Yahoo. Yahoo Finance anchor Josh Lipton tracks Wednesday's top moving stocks and biggest market stories.Gold (GC=F) prices are rebounding, hovering around $4,500.AMD (AMD) and Intel (INTC) stocks are surging on reports that the two chipmakers told clients price increases were on the way.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=51cbfdd6d273df3dc75b46ccec404fde686e99d41487cf697a197ae86fb797ea",
+      "occurred_on": "2026-03-25",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_price": {
+      "id": "ev_AMD_20260416_price",
+      "kind": "price",
+      "title": "AMD rose 7.80% on 2026-04-16",
+      "detail": "Closed at $278.26 from $258.12. Volume was 3.1x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "pct_change": 7.803,
+        "close": 278.26,
+        "prev_close": 258.12,
+        "volume": 64850800,
+        "volume_vs_30d_avg": 3.15,
+        "move_excluding_sector_pct": 6.84
+      }
+    },
+    "ev_AMD_20260416_peer_AVGO": {
+      "id": "ev_AMD_20260416_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +0.44% the same day",
+      "detail": "AMD moved +7.80% while AVGO moved +0.44%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "peer_pct_change": 0.44,
+        "subject_pct_change": 7.803,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260416_peer_INTC": {
+      "id": "ev_AMD_20260416_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +5.48% the same day",
+      "detail": "AMD moved +7.80% while INTC moved +5.48%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "peer_pct_change": 5.48,
+        "subject_pct_change": 7.803,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260416_peer_MSFT": {
+      "id": "ev_AMD_20260416_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +2.20% the same day",
+      "detail": "AMD moved +7.80% while MSFT moved +2.20%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "peer_pct_change": 2.2,
+        "subject_pct_change": 7.803,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260416_peer_NVDA": {
+      "id": "ev_AMD_20260416_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -0.26% the same day",
+      "detail": "AMD moved +7.80% while NVDA moved -0.26%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "peer_pct_change": -0.26,
+        "subject_pct_change": 7.803,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260416_peer_QCOM": {
+      "id": "ev_AMD_20260416_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +1.07% the same day",
+      "detail": "AMD moved +7.80% while QCOM moved +1.07%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "peer_pct_change": 1.07,
+        "subject_pct_change": 7.803,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260416_peer_TSM": {
+      "id": "ev_AMD_20260416_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -3.13% the same day",
+      "detail": "AMD moved +7.80% while TSM moved -3.13%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-04-16",
+      "numbers": {
+        "peer_pct_change": -3.13,
+        "subject_pct_change": 7.803,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260416_news0": {
+      "id": "ev_AMD_20260416_news0",
+      "kind": "news",
+      "title": "Stock Market Today, April 16: Advanced Micro Devices Surges on AI Demand Momentum",
+      "detail": "Reported by Yahoo. On April 16, 2026, investors weighed record AI-fueled momentum against questions about how fully it could translate into sales growth.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=554413ac8b933eeb862f4728b5a67aa52f568713870a9a143ba8ea8699e5e6b7",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news1": {
+      "id": "ev_AMD_20260416_news1",
+      "kind": "news",
+      "title": "Netflix, AMD, Navitas Semiconductor, Abbott Labs, And Nio: Why These 5 Stocks Are On Investors' Radars Today",
+      "detail": "Reported by Benzinga. Major U.S. indices closed higher on Thursday, with the Dow Jones Industrial Average up 0.2% at 48,578.72.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f2e38da2acdca712c285ba8d5eefd8988add3bfe8fcd8eb94f963910e192473b",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news2": {
+      "id": "ev_AMD_20260416_news2",
+      "kind": "news",
+      "title": "Dow Jones Futures: Stock Market Rally Won't Back Down, AMD Breaks Out; Netflix Dives Late",
+      "detail": "Reported by Yahoo. The stock market kept rising Thursday even with oil pries rebounding. AMD led breakouts. Netflix and Alcoa tumbled late on earnings",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=005fadffd903333260c9594a5a794cd830b10906b8150c95afff30502798f6f7",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news3": {
+      "id": "ev_AMD_20260416_news3",
+      "kind": "news",
+      "title": "AMD Stock Closes at All-Time High in Longest Winning Streak Since 2005",
+      "detail": "Reported by Yahoo. While  Nvidia  recent winning streak was grabbing headlines,  Advanced Micro Devices  has been on a tear of its own\u2014closing at another all-time high Thursday.  AMD stock closed up 7.8% at $278.26 Thursday afternoon.  Thursday\u2019s 12th consecutive rise marks its longest winning streak since 2005.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5a7e8bb56a61e3b7e1495a40dc158e7a4534d1139a077ab12da58add2faa262b",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news4": {
+      "id": "ev_AMD_20260416_news4",
+      "kind": "news",
+      "title": "A Look At Advanced Micro Devices (AMD) Valuation As AI Accelerator Deals And Data Center Revenue Gain Traction",
+      "detail": "Reported by Yahoo. Advanced Micro Devices (AMD) stock has been in focus as AI infrastructure spending gains support from suppliers like TSMC and ASML, while AMD secures large AI accelerator deals and reports record data center revenue. See our latest analysis for Advanced Micro Devices. The recent news around AI accelerators and data center growth has arrived during a powerful run in AMD shares, with an 11 day winning streak helping drive a 30 day share price return of 31.31% and a 1 year total shareholder...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=927c2dd8f2795ed834a2adf8ab817f2c9da67c1b3d574aaf377e4e9c41f06c5d",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news5": {
+      "id": "ev_AMD_20260416_news5",
+      "kind": "news",
+      "title": "Stock Market Today: Chips Outperform As AMD Breaks Out; Abbott Labs Hits Multiyear Low (Live Coverage)",
+      "detail": "Reported by Yahoo. Stock Market Today: The Dow Jones index swings Thursday after an unexpected result in jobless claims data. Netflix earnings are due late.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=79a01835888f9bb4623ed5747e019eac9355e0455d5252f7e8848f99a6b3a803",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news6": {
+      "id": "ev_AMD_20260416_news6",
+      "kind": "news",
+      "title": "Up 40% in the Past 12 Days, Should You Chase the Rally in AMD Stock?",
+      "detail": "Reported by Yahoo. AMD stock\u2019s surge highlights growing confidence in its AI story, but AMD may need continued execution to justify further upside.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=13e6ad74e7f8015c9071f9f557181596bf9b52706518f81b0908fe026933f873",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260416_news7": {
+      "id": "ev_AMD_20260416_news7",
+      "kind": "news",
+      "title": "Why Advanced Micro Devices (AMD) Stock Popped on Thursday",
+      "detail": "Reported by Yahoo. The semiconductor specialist got some (belated) love from Wall Street.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4c5053fda9d739ed9264752846f62a45e5827951df976636c598801dbef846d9",
+      "occurred_on": "2026-04-16",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_price": {
+      "id": "ev_AMD_20260422_price",
+      "kind": "price",
+      "title": "AMD rose 6.67% on 2026-04-22",
+      "detail": "Closed at $303.46 from $284.49. Volume was 2.4x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "pct_change": 6.668,
+        "close": 303.46,
+        "prev_close": 284.49,
+        "volume": 49054200,
+        "volume_vs_30d_avg": 2.39,
+        "move_excluding_sector_pct": 4.57
+      }
+    },
+    "ev_AMD_20260422_peer_AVGO": {
+      "id": "ev_AMD_20260422_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +5.09% the same day",
+      "detail": "AMD moved +6.67% while AVGO moved +5.09%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "peer_pct_change": 5.09,
+        "subject_pct_change": 6.668,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260422_peer_INTC": {
+      "id": "ev_AMD_20260422_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -1.49% the same day",
+      "detail": "AMD moved +6.67% while INTC moved -1.49%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "peer_pct_change": -1.49,
+        "subject_pct_change": 6.668,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260422_peer_MSFT": {
+      "id": "ev_AMD_20260422_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +2.06% the same day",
+      "detail": "AMD moved +6.67% while MSFT moved +2.06%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "peer_pct_change": 2.06,
+        "subject_pct_change": 6.668,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260422_peer_NVDA": {
+      "id": "ev_AMD_20260422_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +1.31% the same day",
+      "detail": "AMD moved +6.67% while NVDA moved +1.31%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "peer_pct_change": 1.31,
+        "subject_pct_change": 6.668,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260422_peer_QCOM": {
+      "id": "ev_AMD_20260422_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +0.38% the same day",
+      "detail": "AMD moved +6.67% while QCOM moved +0.38%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "peer_pct_change": 0.38,
+        "subject_pct_change": 6.668,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260422_peer_TSM": {
+      "id": "ev_AMD_20260422_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +5.26% the same day",
+      "detail": "AMD moved +6.67% while TSM moved +5.26%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-04-22",
+      "numbers": {
+        "peer_pct_change": 5.26,
+        "subject_pct_change": 6.668,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260422_news0": {
+      "id": "ev_AMD_20260422_news0",
+      "kind": "news",
+      "title": "3 AI Chipmakers With Far More Upside Than AMD",
+      "detail": "Reported by Yahoo. AMD trades at a premium despite having far slower growth than this trio.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c8afde47101489017c284c83610697298c93265655d5c5541130c61a218639cf",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news1": {
+      "id": "ev_AMD_20260422_news1",
+      "kind": "news",
+      "title": "This Is Why Advanced Micro Devices (AMD) Is a Top AI Stock to Own",
+      "detail": "Reported by Yahoo. Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the top S&P 500 stocks by index weight. On April 13, Bank of America touted Advanced Micro Devices, Inc. (NASDAQ:AMD) as one of the top artificial intelligence stocks to own heading into Q1 earnings. According to the investment bank, Advanced Micro Devices was one of the companies [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a6f087fe1e1f5dc5c55ed4a88778731033ccbd8b4f27c149c3aef79a34724263",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news2": {
+      "id": "ev_AMD_20260422_news2",
+      "kind": "news",
+      "title": "AMD Stock Just Hit New All-Time Highs. Should You Buy Shares Here?",
+      "detail": "Reported by Yahoo. Despite its recent rally, AMD's valuation remains favorable.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b28489478bc0ddb0e3ac7c4940625278a2732521979cf31886c5af96bece6ba8",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news3": {
+      "id": "ev_AMD_20260422_news3",
+      "kind": "news",
+      "title": "Micron, AMD and Broadcom Shares Jump as AI Chip Demand Roars Back",
+      "detail": "Reported by Yahoo. Micron, AMD, Broadcom Rally as Investors Bet on AI Growth Cycle",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a042d9837bcf5e7b7f27bd001ce30672e336eb3f903aa1a53ceda300c2e0daf4",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news4": {
+      "id": "ev_AMD_20260422_news4",
+      "kind": "news",
+      "title": "AMD's Gross Margin to Contract Sequentially: Is Growth Getting Harder?",
+      "detail": "Reported by Yahoo. AMD flags a 200 bps Q1 margin drop as one-time gains fade, China revenues dip and seasonal weakness hits, raising pressure despite a solid growth outlook.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=984dda5e4726a4102615542128dcad5471415abc1b34b5cce3f9b606cd29d723",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news5": {
+      "id": "ev_AMD_20260422_news5",
+      "kind": "news",
+      "title": "Nvidia vs. AMD: One Is a Generational Buy \u2014 The Other Is a Trap",
+      "detail": "Reported by Yahoo. Tech giant Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD) both reported strong quarters, but Nvidia is building the AI infrastructure backbone at unprecedented scale, while AMD is a capable challenger with a long road ahead. Blackwell Carries Nvidia. EPYC and Instinct Carry AMD. Nvidia\u2019s fourth quarter revenue hit $68.13 billion, up 73.2% year over year, ... Nvidia vs. AMD: One Is a Generational Buy \u2014 The Other Is a Trap",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5fba55a8f3852ffa5375d898e3b20e9a87f1e1a688b1d077747fe161335e97c8",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news6": {
+      "id": "ev_AMD_20260422_news6",
+      "kind": "news",
+      "title": "Micron Soars 6%, AMD Rallies 4%, Broadcom Climbs 4% on Reignited AI Chip Demand",
+      "detail": "Reported by Yahoo. Micron Technology (NASDAQ:MU) shares are up 6% in midday trading, leading a broad-based rally across AI chip names. Advanced Micro Devices (NASDAQ:AMD) stock gained 4% and Broadcom (NASDAQ:AVGO) shares are also up 4% as investors re-embrace the AI infrastructure trade on Wednesday. The catalyst is a renewed wave of conviction around AI chip demand, with ... Micron Soars 6%, AMD Rallies 4%, Broadcom Climbs 4% on Reignited AI Chip Demand",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=53eb17934b549b967ad45c270e92006325a3d94234444c562ef4b94146351f54",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260422_news7": {
+      "id": "ev_AMD_20260422_news7",
+      "kind": "news",
+      "title": "Why Stifel Just Raised Its AMD Stock Price Target by 14%",
+      "detail": "Reported by Yahoo. Stifel\u2019s 14% price target hike on AMD signals rising Wall Street conviction that the chipmaker is poised to capitalize on accelerating AI-driven demand.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4e7576c2e04938a69308c62b7f5d44f06971172a3e192bf0d864ff9b59ddbeed",
+      "occurred_on": "2026-04-22",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_price": {
+      "id": "ev_AMD_20260424_price",
+      "kind": "price",
+      "title": "AMD rose 13.91% on 2026-04-24",
+      "detail": "Closed at $347.81 from $305.33. Volume was 4.0x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "pct_change": 13.913,
+        "close": 347.81,
+        "prev_close": 305.33,
+        "volume": 81616700,
+        "volume_vs_30d_avg": 3.97,
+        "move_excluding_sector_pct": 6.08
+      }
+    },
+    "ev_AMD_20260424_peer_AVGO": {
+      "id": "ev_AMD_20260424_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +0.67% the same day",
+      "detail": "AMD moved +13.91% while AVGO moved +0.67%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "peer_pct_change": 0.67,
+        "subject_pct_change": 13.913,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260424_peer_INTC": {
+      "id": "ev_AMD_20260424_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +23.60% the same day",
+      "detail": "AMD moved +13.91% while INTC moved +23.60%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "peer_pct_change": 23.6,
+        "subject_pct_change": 13.913,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260424_peer_MSFT": {
+      "id": "ev_AMD_20260424_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +2.13% the same day",
+      "detail": "AMD moved +13.91% while MSFT moved +2.13%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "peer_pct_change": 2.13,
+        "subject_pct_change": 13.913,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260424_peer_NVDA": {
+      "id": "ev_AMD_20260424_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +4.32% the same day",
+      "detail": "AMD moved +13.91% while NVDA moved +4.32%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "peer_pct_change": 4.32,
+        "subject_pct_change": 13.913,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260424_peer_QCOM": {
+      "id": "ev_AMD_20260424_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +11.12% the same day",
+      "detail": "AMD moved +13.91% while QCOM moved +11.12%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "peer_pct_change": 11.12,
+        "subject_pct_change": 13.913,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260424_peer_TSM": {
+      "id": "ev_AMD_20260424_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +5.17% the same day",
+      "detail": "AMD moved +13.91% while TSM moved +5.17%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-04-24",
+      "numbers": {
+        "peer_pct_change": 5.17,
+        "subject_pct_change": 13.913,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260424_news0": {
+      "id": "ev_AMD_20260424_news0",
+      "kind": "news",
+      "title": "Anything Intel Can Do, Advanced Micro Devices Might Be Able to Do Better",
+      "detail": "Reported by Yahoo. D.A. Davidson upgrades Advanced Micro Devices stock to Buy from Neutral following a blockbuster earnings report from rival Intel.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=13d3e6ef7b0671cbb547828b3a3d291e5107213d80bc84df1fa51c02b4e79492",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news1": {
+      "id": "ev_AMD_20260424_news1",
+      "kind": "news",
+      "title": "Nvidia, Intel and AMD Lead Chip Stocks as AI Wave Lifts Sector",
+      "detail": "Reported by Yahoo. Nvidia, AMD Lead Semiconductor Rally as AI Frenzy Accelerates",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b82dcb13c4068576da4c283de187ab86859d1fa65b1d51087170834db36d1dff",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news2": {
+      "id": "ev_AMD_20260424_news2",
+      "kind": "news",
+      "title": "AMD Stock Is at Record Highs\u2014and Why It\u2019s Still Not Too Late to Buy",
+      "detail": "Reported by Yahoo. AMD\u2019s investment case is supported by sustained demand for high-performance CPUs, rapid expansion in AI accelerators, a solid product roadmap.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9f7a77ddce63f95611790941c79f13e7a3ae40c8ee2f55d0b47b71c8a7fc38e3",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news3": {
+      "id": "ev_AMD_20260424_news3",
+      "kind": "news",
+      "title": "Why Advanced Micro Devices Stock Is Soaring Today",
+      "detail": "Reported by Yahoo. AMD Jumps on Bullish Upgrade as AI Demand Ignites Growth Outlook",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9a89204a661d15a63b9fe50229fad92b77dbb69f6195616060ccfdd045b7f701",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news4": {
+      "id": "ev_AMD_20260424_news4",
+      "kind": "news",
+      "title": "AMD Gains After DA Davidson Upgrade",
+      "detail": "Reported by Yahoo. Analyst sees stronger CPU demand tied to agentic AI workloads.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2630261ca2b7c51cbe9c23b7d69de3a4341db907f877443cedc052d6197d1193",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news5": {
+      "id": "ev_AMD_20260424_news5",
+      "kind": "news",
+      "title": "Advanced Micro Devices (AMD): The Best Fast Growth Stock to Invest In Now",
+      "detail": "Reported by Yahoo. Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 10 Best Fast Growth Stocks to Invest In Now. On April 19, 2026, Stifel raised its price target on Advanced Micro Devices, Inc. (NASDAQ:AMD) to $320 from $280 and maintained a Buy rating on the shares. The firm said its processor coverage sits at \u201cdistinctly different [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4c8ff74106892ccd3ae61be67ba37709c45845121f16a0eb43c3bbf3af2a3360",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news6": {
+      "id": "ev_AMD_20260424_news6",
+      "kind": "news",
+      "title": "DA Davidson Upgrades AMD to Buy With a $375 Price Target: The Big Winner of Intel Earnings?",
+      "detail": "Reported by Yahoo. An analyst firm just made the bull case for one of the year\u2019s hottest semiconductor stories. Advanced Micro Devices (NASDAQ:AMD) was upgraded to Buy from Neutral at DA Davidson, with the firm lifting its price target to $375. The revision follows Intel\u2018s (NASDAQ:INTC) blowout Q1 2026 earnings, which Barron\u2019s characterized as validating AMD\u2019s data center ... DA Davidson Upgrades AMD to Buy With a $375 Price Target: The Big Winner of Intel Earnings?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ae1aed038cd1082a00c75cfdf9ec2d0fccc5dcfa7df1da52eadfb34d5fc882e5",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260424_news7": {
+      "id": "ev_AMD_20260424_news7",
+      "kind": "news",
+      "title": "AMD stock rises 12% after Intel Q1 earnings signal CPU boom",
+      "detail": "Reported by Yahoo. Intel's better-than-expected results prompted analysts to upgrade AMD, its main CPU rival, citing surging demand from agentic AI workloads",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d0b501833f95d6bf2560ddf0cefbb2c71a3d4eaa705c3770b69c729c7241f4d7",
+      "occurred_on": "2026-04-24",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_price": {
+      "id": "ev_AMD_20260427_price",
+      "kind": "price",
+      "title": "AMD fell 3.79% on 2026-04-27",
+      "detail": "Closed at $334.63 from $347.81. Volume was 2.5x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "pct_change": -3.789,
+        "close": 334.63,
+        "prev_close": 347.81,
+        "volume": 50585300,
+        "volume_vs_30d_avg": 2.46,
+        "move_excluding_sector_pct": 5.04
+      }
+    },
+    "ev_AMD_20260427_peer_AVGO": {
+      "id": "ev_AMD_20260427_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved -1.08% the same day",
+      "detail": "AMD moved -3.79% while AVGO moved -1.08%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "peer_pct_change": -1.08,
+        "subject_pct_change": -3.789,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260427_peer_INTC": {
+      "id": "ev_AMD_20260427_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +2.97% the same day",
+      "detail": "AMD moved -3.79% while INTC moved +2.97%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "peer_pct_change": 2.97,
+        "subject_pct_change": -3.789,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260427_peer_MSFT": {
+      "id": "ev_AMD_20260427_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +0.05% the same day",
+      "detail": "AMD moved -3.79% while MSFT moved +0.05%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "peer_pct_change": 0.05,
+        "subject_pct_change": -3.789,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260427_peer_NVDA": {
+      "id": "ev_AMD_20260427_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +4.00% the same day",
+      "detail": "AMD moved -3.79% while NVDA moved +4.00%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "peer_pct_change": 4.0,
+        "subject_pct_change": -3.789,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260427_peer_QCOM": {
+      "id": "ev_AMD_20260427_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +0.95% the same day",
+      "detail": "AMD moved -3.79% while QCOM moved +0.95%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "peer_pct_change": 0.95,
+        "subject_pct_change": -3.789,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260427_peer_TSM": {
+      "id": "ev_AMD_20260427_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +0.63% the same day",
+      "detail": "AMD moved -3.79% while TSM moved +0.63%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-04-27",
+      "numbers": {
+        "peer_pct_change": 0.63,
+        "subject_pct_change": -3.789,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260427_news0": {
+      "id": "ev_AMD_20260427_news0",
+      "kind": "news",
+      "title": "Advanced Micro Devices (AMD) Stock Sinks As Market Gains: Here's Why",
+      "detail": "Reported by Yahoo. Advanced Micro Devices (AMD) reached $334.49 at the closing of the latest trading day, reflecting a -3.83% change compared to its last close.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=896fa04caef69b60b3c17414a6b66056bab517d762f57fafe6365790b325f915",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news1": {
+      "id": "ev_AMD_20260427_news1",
+      "kind": "news",
+      "title": "AMD Supplier Up 40% This Month Soars On Earnings Beat",
+      "detail": "Reported by Yahoo. Data center stock Sanmina trounced analyst expectations when it reported earnings on Monday, as demand for its AI hardware soars.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=709189c075baf6b25ec90ff0ac924f9a9c72e2bcf5f64d594bc6b0fdd7ad2d7e",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news2": {
+      "id": "ev_AMD_20260427_news2",
+      "kind": "news",
+      "title": "AMD Stock Slips After Cathie Wood's ARK Dumps Millions in Shares",
+      "detail": "Reported by Yahoo. AMD Falls on Surprise ARK Sale After Massive AI-Fueled Rally",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5c66292e7af2d927b9c2f976048b9289d38f6a1598436c391f4aa5ec2957fd16",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news3": {
+      "id": "ev_AMD_20260427_news3",
+      "kind": "news",
+      "title": "As Chip Stocks Soar, This Options Spread Trade On AMD Almost Always Makes A Profit",
+      "detail": "Reported by Yahoo. AMD stock has been gaining alongside the broader chip sector. Consider this potentially profitable options trade on AMD.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=23362611a3a9216447700169055f6956829cbedba34103c1df89b17224010118",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news4": {
+      "id": "ev_AMD_20260427_news4",
+      "kind": "news",
+      "title": "With Intel, AMD, Nvidia, and More Rising Sharply Last Week, Have Chip Stocks Become Overvalued?",
+      "detail": "Reported by Yahoo. Can two seemingly contradicting views be true at once? That the AI boom is alive and well, and that many chip stocks are overvalued?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=af391dffc1d312cc08092ee41b1474a1af51b30985ed74d576a6a6cd64bcce67",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news5": {
+      "id": "ev_AMD_20260427_news5",
+      "kind": "news",
+      "title": "The Market Has Always Been Late to Recognize AMD\u2019s Technology. This Means You Can Be Early.",
+      "detail": "Reported by Yahoo. Not being Wall Street's darling has its own perks. AMD still trades at a discount after 71% gains so far in April.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fac6b136a513928988586c4e431580409fd8f37100dd44f27fa12e9dc1c08d72",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news6": {
+      "id": "ev_AMD_20260427_news6",
+      "kind": "news",
+      "title": "Forget Nvidia: Sudden CPU Shortage Can Make AMD Explode Higher",
+      "detail": "Reported by Yahoo. Nvidia (NASDAQ:NVDA) is everywhere right now because it just posted Q4 revenue of $68.13 billion, up 73.2% year-over-year, and Jensen Huang declared that \u201cthe agentic AI inflection point has arrived.\u201d The real opportunity could be elsewhere. The trade everyone is piling into has a name: NVDA. A CPU shortage is quietly reshaping data center economics, ... Forget Nvidia: Sudden CPU Shortage Can Make AMD Explode Higher",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2385cffc106c205fabc0384fd4f35dcef183fb6f0da8cff4cf8f024592e92482",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260427_news7": {
+      "id": "ev_AMD_20260427_news7",
+      "kind": "news",
+      "title": "AMD Jumps as AI Demand Lifts Outlook",
+      "detail": "Reported by Yahoo. Analysts raise targets as CPU demand tied to AI workloads accelerates.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fd13cd81edf333b338ca4ea74a5fb74881972c678227dd0ed8d550649e196aef",
+      "occurred_on": "2026-04-27",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_price": {
+      "id": "ev_AMD_20260506_price",
+      "kind": "price",
+      "title": "AMD rose 18.61% on 2026-05-06",
+      "detail": "Closed at $421.39 from $355.26. Volume was 4.3x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "pct_change": 18.615,
+        "close": 421.39,
+        "prev_close": 355.26,
+        "volume": 87732200,
+        "volume_vs_30d_avg": 4.27,
+        "move_excluding_sector_pct": 15.28
+      }
+    },
+    "ev_AMD_20260506_peer_AVGO": {
+      "id": "ev_AMD_20260506_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved -0.45% the same day",
+      "detail": "AMD moved +18.61% while AVGO moved -0.45%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "peer_pct_change": -0.45,
+        "subject_pct_change": 18.615,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260506_peer_INTC": {
+      "id": "ev_AMD_20260506_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +4.49% the same day",
+      "detail": "AMD moved +18.61% while INTC moved +4.49%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "peer_pct_change": 4.49,
+        "subject_pct_change": 18.615,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260506_peer_MSFT": {
+      "id": "ev_AMD_20260506_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +0.63% the same day",
+      "detail": "AMD moved +18.61% while MSFT moved +0.63%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "peer_pct_change": 0.63,
+        "subject_pct_change": 18.615,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260506_peer_NVDA": {
+      "id": "ev_AMD_20260506_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +5.77% the same day",
+      "detail": "AMD moved +18.61% while NVDA moved +5.77%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "peer_pct_change": 5.77,
+        "subject_pct_change": 18.615,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260506_peer_QCOM": {
+      "id": "ev_AMD_20260506_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +3.23% the same day",
+      "detail": "AMD moved +18.61% while QCOM moved +3.23%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "peer_pct_change": 3.23,
+        "subject_pct_change": 18.615,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260506_peer_TSM": {
+      "id": "ev_AMD_20260506_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +6.36% the same day",
+      "detail": "AMD moved +18.61% while TSM moved +6.36%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-05-06",
+      "numbers": {
+        "peer_pct_change": 6.36,
+        "subject_pct_change": 18.615,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260506_filing_000000248826000076": {
+      "id": "ev_AMD_20260506_filing_000000248826000076",
+      "kind": "filing",
+      "title": "10-Q filed 2026-05-06",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/amd-20260328.htm",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_filing_000000248826000072": {
+      "id": "ev_AMD_20260506_filing_000000248826000072",
+      "kind": "filing",
+      "title": "8-K filed 2026-05-05",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000072/amd-20260505.htm",
+      "occurred_on": "2026-05-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news0": {
+      "id": "ev_AMD_20260506_news0",
+      "kind": "news",
+      "title": "Stock Market Today, May 6: AMD Surges After Q1 Beat and Strong Q2 Data Center Outlook",
+      "detail": "Reported by Yahoo. AMD\u2019s data center revenue jumped 57%, giving investors hard evidence of demand for server CPUs and AI accelerators as the company guided for another strong quarter.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f7d89896c6feb284e95df439087b6bfa4b85fabc7d32b16b501d5ce7e366321c",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news1": {
+      "id": "ev_AMD_20260506_news1",
+      "kind": "news",
+      "title": "US Equity Indexes Surge as Iran Peace Deal Expectations Rise, AMD's Q1 Boosts Chipmakers",
+      "detail": "Reported by Yahoo. US equity indexes jumped while crude oil futures sank on Wednesday amid a growing likelihood of Iran",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=90628263b0150b6b5758ab299f56c9aa4a96665eb90db0eb16e325ceda9a9e01",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news2": {
+      "id": "ev_AMD_20260506_news2",
+      "kind": "news",
+      "title": "US Equity Markets End Higher as Nasdaq, S&P 500 Hit Records After Reports on US-Iran Peace Deal, Upbeat AMD Results",
+      "detail": "Reported by Yahoo. US equity indexes ended higher on Wednesday, with the S&P 500 and the Nasdaq Composite reaching new",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4b64c586fd53c474369d770ad9cfd2b910c81ba63886d7a9d859bedf6ebb95c1",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news3": {
+      "id": "ev_AMD_20260506_news3",
+      "kind": "news",
+      "title": "AMD stock surges as the chipmaker forecasts continued AI growth",
+      "detail": "Reported by Yahoo. Advanced Micro Devices (AMD) stock surges higher on Wednesday after blowing past first quarter earnings estimates and second quarter guidance forecasts. Market Domination Host Josh Lipton and Yahoo Finance Tech Editor Dan Howley sit down to take a closer look at AMD's growth outlook as AI demand pushes chip stocks higher.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8a7e1c0c2b25e497cace25cbc10af00fa6549d4e3457ad53614378846562c093",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news4": {
+      "id": "ev_AMD_20260506_news4",
+      "kind": "news",
+      "title": "US Equity Indexes Jump as Iran Peace Deal Hopes Increase, AMD's Q1 Results Trigger Rally in Chipmakers",
+      "detail": "Reported by Yahoo. US equity indexes jumped ahead of Wednesday's close, with the S&P 500 and the Nasdaq Composite break",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d2c1b6be53325f88a4d5b5377a2196d5e0de82f2ec41b4bb945d196103902660",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news5": {
+      "id": "ev_AMD_20260506_news5",
+      "kind": "news",
+      "title": "Advanced Micro Devices Set to Command Half of Growing Server CPU Market, BofA Says",
+      "detail": "Reported by Yahoo. Advanced Micro Devices (AMD) is expected to capture about half of the total addressable market for s",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ebe03a403c5b2e46f99f676d0a95795a8f2fe4e120195c10271e953bdc8e6588",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news6": {
+      "id": "ev_AMD_20260506_news6",
+      "kind": "news",
+      "title": "S&P 500 and Nasdaq-100 Surge: AMD Earnings Steal the Show at Midday",
+      "detail": "Reported by Yahoo. Chip stocks are having a moment, and AMD is leading the charge. Oil prices are tanking, too. Here's what you need to know.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b4bd854604e9aee7803345babdf6d3c87cd45884d70c7d5cd3bba832a0c9b769",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260506_news7": {
+      "id": "ev_AMD_20260506_news7",
+      "kind": "news",
+      "title": "Buy the Spike in AMD stock After Strong Q1 Results & Bullish Guidance?",
+      "detail": "Reported by Yahoo. Investors applauded AMD's strong Q1 report yesterday evening, with shares spiking over 20% in Wednesday morning's trading session to a new all-time high of $430.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=15aca32ada3591e84f7ef732f9d73d1dea5059efd15b3c68f343a833d1612fc9",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_price": {
+      "id": "ev_AMD_20260508_price",
+      "kind": "price",
+      "title": "AMD rose 11.44% on 2026-05-08",
+      "detail": "Closed at $455.19 from $408.46. Volume was 2.8x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "pct_change": 11.441,
+        "close": 455.19,
+        "prev_close": 408.46,
+        "volume": 58134900,
+        "volume_vs_30d_avg": 2.83,
+        "move_excluding_sector_pct": 7.08
+      }
+    },
+    "ev_AMD_20260508_peer_AVGO": {
+      "id": "ev_AMD_20260508_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +4.23% the same day",
+      "detail": "AMD moved +11.44% while AVGO moved +4.23%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "peer_pct_change": 4.23,
+        "subject_pct_change": 11.441,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260508_peer_INTC": {
+      "id": "ev_AMD_20260508_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +13.96% the same day",
+      "detail": "AMD moved +11.44% while INTC moved +13.96%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "peer_pct_change": 13.96,
+        "subject_pct_change": 11.441,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260508_peer_MSFT": {
+      "id": "ev_AMD_20260508_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved -1.34% the same day",
+      "detail": "AMD moved +11.44% while MSFT moved -1.34%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "peer_pct_change": -1.34,
+        "subject_pct_change": 11.441,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260508_peer_NVDA": {
+      "id": "ev_AMD_20260508_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +1.75% the same day",
+      "detail": "AMD moved +11.44% while NVDA moved +1.75%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "peer_pct_change": 1.75,
+        "subject_pct_change": 11.441,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260508_peer_QCOM": {
+      "id": "ev_AMD_20260508_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +8.17% the same day",
+      "detail": "AMD moved +11.44% while QCOM moved +8.17%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "peer_pct_change": 8.17,
+        "subject_pct_change": 11.441,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260508_peer_TSM": {
+      "id": "ev_AMD_20260508_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -0.60% the same day",
+      "detail": "AMD moved +11.44% while TSM moved -0.60%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-05-08",
+      "numbers": {
+        "peer_pct_change": -0.6,
+        "subject_pct_change": 11.441,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260508_filing_000000248826000076": {
+      "id": "ev_AMD_20260508_filing_000000248826000076",
+      "kind": "filing",
+      "title": "10-Q filed 2026-05-06",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/amd-20260328.htm",
+      "occurred_on": "2026-05-06",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news0": {
+      "id": "ev_AMD_20260508_news0",
+      "kind": "news",
+      "title": "Stock Market Today, May 8: Rackspace Surges on AMD AI Cloud Agreement",
+      "detail": "Reported by Yahoo. Rackspace\u2019s memorandum of understanding with AMD outlines a governed AI cloud solution for regulated customers, and the company\u2019s next challenge is converting this into customer workloads and recurring managed-cloud revenue.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f9f9731a4f7160b781dc7bdc97e77c491d79ea4d229a459b2f659841cb023ba4",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news1": {
+      "id": "ev_AMD_20260508_news1",
+      "kind": "news",
+      "title": "How Intel Stock Could Be the Biggest Winner from AMD\u2019s Explosive Earnings Win",
+      "detail": "Reported by Yahoo. Following AMD\u2019s strong earnings and upgraded server CPU outlook, Intel is seeing renewed Wall Street optimism around its foundry progress and CPU pricing power.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=63415948a2945c94022f3293d84f1c3f1f058b3cac8592e78995e7328b9e29a0",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news2": {
+      "id": "ev_AMD_20260508_news2",
+      "kind": "news",
+      "title": "Cathie Wood Dumps More AMD Shares Despite Its Massive 108% Rally. Here's Why.",
+      "detail": "Reported by Yahoo. AMD\u2019s strong earnings momentum and growing AI partnerships have fueled a massive rally, but Cathie Wood seems to be locking in gains.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9b52100b1bec9f65947e6cc43d9f8e1b7a11a980180c581b1cffbae4a6597cd5",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news3": {
+      "id": "ev_AMD_20260508_news3",
+      "kind": "news",
+      "title": "Meet the Super Semiconductor Stock Obliterating Nvidia, AMD, and Broadcom Right Now",
+      "detail": "Reported by Yahoo. Aehr Test Systems stock is up some 327% year to date.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5bc6843adc024c7cc358205bfa2ea4a975996d486b4cafed6d3d22daa7d970fd",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news4": {
+      "id": "ev_AMD_20260508_news4",
+      "kind": "news",
+      "title": "As CPUs Steal the Show, AMD Stock Just Got a New Street-High Price Target",
+      "detail": "Reported by Yahoo. Agentic AI is creating a fresh opportunity for AMD, with its booming server CPU business fueling strong growth, fresh optimism, and a new Street-high price target.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c3c266ae0c1d0b88274c28d66b70a28d6a73bcffff92c00567795d8e4079bd9c",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news5": {
+      "id": "ev_AMD_20260508_news5",
+      "kind": "news",
+      "title": "Rackspace Has Nearly Quadrupled in 2026 but a New Deal with AMD Could Keep the Gains Coming for RXT Stock",
+      "detail": "Reported by Yahoo. The AMD deal gives Rackspace a fresh AI narrative as investors hunt for overlooked cloud infrastructure plays.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=25609d0fabb68cc77ba8bab38cb77741499a98b800a4287369b73c7dc73f5d10",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news6": {
+      "id": "ev_AMD_20260508_news6",
+      "kind": "news",
+      "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
+      "detail": "Reported by CNBC. Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2dd3384ba55ce2d54d0b76fcae68eb1d75f2d107a41c24b54ac00a83681f9361",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260508_news7": {
+      "id": "ev_AMD_20260508_news7",
+      "kind": "news",
+      "title": "Jim Cramer Discusses Surging Value of Intel and AMD CPUs",
+      "detail": "Reported by Yahoo. Intel Corporation (NASDAQ:INTC) was one of the stocks on Jim Cramer\u2019s radar as he highlighted AI winners to buy for 2026. Cramer highlighted the shortage in the company\u2019s products, as he stated: And then there are the new agents that do things that are powered by CPUs from AMD, Arm Holdings, Intel. Hence why the [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=dc0ef8bfd7cc37d7975e739371aeccb5517fcbedb2578c19b75dba0deb911410",
+      "occurred_on": "2026-05-08",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_price": {
+      "id": "ev_AMD_20260526_price",
+      "kind": "price",
+      "title": "AMD rose 7.78% on 2026-05-26",
+      "detail": "Closed at $503.89 from $467.51. Volume was 1.9x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "pct_change": 7.782,
+        "close": 503.89,
+        "prev_close": 467.51,
+        "volume": 38473800,
+        "volume_vs_30d_avg": 1.87,
+        "move_excluding_sector_pct": 6.02
+      }
+    },
+    "ev_AMD_20260526_peer_AVGO": {
+      "id": "ev_AMD_20260526_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +1.90% the same day",
+      "detail": "AMD moved +7.78% while AVGO moved +1.90%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "peer_pct_change": 1.9,
+        "subject_pct_change": 7.782,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260526_peer_INTC": {
+      "id": "ev_AMD_20260526_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +3.07% the same day",
+      "detail": "AMD moved +7.78% while INTC moved +3.07%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "peer_pct_change": 3.07,
+        "subject_pct_change": 7.782,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260526_peer_MSFT": {
+      "id": "ev_AMD_20260526_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved -0.61% the same day",
+      "detail": "AMD moved +7.78% while MSFT moved -0.61%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "peer_pct_change": -0.61,
+        "subject_pct_change": 7.782,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260526_peer_NVDA": {
+      "id": "ev_AMD_20260526_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -0.22% the same day",
+      "detail": "AMD moved +7.78% while NVDA moved -0.22%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "peer_pct_change": -0.22,
+        "subject_pct_change": 7.782,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260526_peer_QCOM": {
+      "id": "ev_AMD_20260526_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +4.48% the same day",
+      "detail": "AMD moved +7.78% while QCOM moved +4.48%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "peer_pct_change": 4.48,
+        "subject_pct_change": 7.782,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260526_peer_TSM": {
+      "id": "ev_AMD_20260526_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +1.93% the same day",
+      "detail": "AMD moved +7.78% while TSM moved +1.93%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-05-26",
+      "numbers": {
+        "peer_pct_change": 1.93,
+        "subject_pct_change": 7.782,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260526_news0": {
+      "id": "ev_AMD_20260526_news0",
+      "kind": "news",
+      "title": "Cathie Wood Pours $8.5M Into Cerebras Amid Buzz Around AI Chip Upstart, Won't Stop Dumping AMD",
+      "detail": "Reported by Benzinga. On Tuesday, May 26, 2026, Ark bought $8.5M in Cerebras and shed $2.7M worth of AMD shares on Tuesday.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=81c39dcec72f0c02d348fd1385eb549c6e63c80f5288539a183fc82c197d5860",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news1": {
+      "id": "ev_AMD_20260526_news1",
+      "kind": "news",
+      "title": "Micron Technology, Zscaler, Redwire, Intuitive Machines And AMD: Why These 5 Stocks Are On Investors' Radars Today",
+      "detail": "Reported by Benzinga. MU, ZS, RDW, LUNR, AMD were among the stocks seen trending on Tuesday, May 26, 2026.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9aa750c77354d06035476b1021d4de377cc56755451cb0319243ab96917bf927",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news2": {
+      "id": "ev_AMD_20260526_news2",
+      "kind": "news",
+      "title": "OneQode Deal Highlights AMD AI Expansion Beyond Hyperscaler Data Centers",
+      "detail": "Reported by Yahoo. OneQode has partnered with Advanced Micro Devices (NasdaqGS:AMD) to deploy AMD Instinct GPUs and Helios rack-scale solutions. The rollout targets global AI infrastructure needs, with a focus on high-performance compute, low latency, and sovereignty-focused workloads. This agreement extends AMD's AI data center reach beyond traditional hyperscaler customers into new regions and use cases. For investors tracking NasdaqGS:AMD, this partnership comes at a time when the stock is trading at...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8309d031ded3d820121afd1f168022be3db5be568feec8a883654bf4e8afd79f",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news3": {
+      "id": "ev_AMD_20260526_news3",
+      "kind": "news",
+      "title": "Wall Street Is Only Just Beginning to Recognize Advanced Micro Devices\u2019 Agentic AI Upside Potential",
+      "detail": "Reported by Yahoo. While Nvidia CEO Jensen Huang enjoyed street food in China, AMD CEO Lisa Su was talking to stakeholders.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=80fcba0a77a9e107ee42385e0fa6a4cfd2abd4b9c1b27e2f2145a3d32a431c92",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news4": {
+      "id": "ev_AMD_20260526_news4",
+      "kind": "news",
+      "title": "Nvidia has a $200 Billion Warning for AMD and Intel Stock Investors",
+      "detail": "Reported by Yahoo. Nvidia is poised to make a big dent in a fast-growing market that's currently dominated by AMD and Intel.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1b69fa90e460dbd254f4dc59b02bcce3d6813f2675522654ba142caf8ebe6b2f",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news5": {
+      "id": "ev_AMD_20260526_news5",
+      "kind": "news",
+      "title": "AMD Stock Soars to Record High as Next-Gen AI Chip Enters Production",
+      "detail": "Reported by Yahoo. AMD Hits Fresh High After Lisa Su Signals New AI Growth Wave",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8c2599b2aa13493e0decf16c3d40e65e324c7f671b45a6fb96e33f4271b82142",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news6": {
+      "id": "ev_AMD_20260526_news6",
+      "kind": "news",
+      "title": "Intel, AMD, and Other Momentum Stocks Look Unstoppable. Look Again.",
+      "detail": "Reported by Yahoo. A well-known momentum ETF is up 21% this year. But the smart investor knows every party eventually ends. Now isn\u2019t the time to buy.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9173e2a92a9680a137aadc58a372115d287adc688e5da86a7ebff8a7c08f7c84",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260526_news7": {
+      "id": "ev_AMD_20260526_news7",
+      "kind": "news",
+      "title": "OneQode to Deploy AMD Instinct GPUs and Plans for AMD Helios Rack-Scale Solution for Global AI Infrastructure",
+      "detail": "Reported by Yahoo. OneQode, a global provider of mission-critical digital infrastructure, today announced a collaboration with AMD to deploy AMD Instinct\u2122 GPUs, as well as announcing plans to deploy AMD Helios rack-scale solution as the platform foundation for OneQode's global AI infrastructure rollout.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=bce16885d75c80a5b0cdcf0a09332b1675af8c4666be388bd6bf13e9b3030939",
+      "occurred_on": "2026-05-26",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_price": {
+      "id": "ev_AMD_20260728_price",
+      "kind": "price",
+      "title": "AMD fell 8.15% on 2026-07-28",
+      "detail": "Closed at $454.62 from $494.95. Volume was 1.8x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "pct_change": -8.148,
+        "close": 454.62,
+        "prev_close": 494.95,
+        "volume": 36315500,
+        "volume_vs_30d_avg": 1.77,
+        "move_excluding_sector_pct": 6.31
+      }
+    },
+    "ev_AMD_20260728_peer_AVGO": {
+      "id": "ev_AMD_20260728_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved -0.60% the same day",
+      "detail": "AMD moved -8.15% while AVGO moved -0.60%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "peer_pct_change": -0.6,
+        "subject_pct_change": -8.148,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260728_peer_INTC": {
+      "id": "ev_AMD_20260728_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -5.86% the same day",
+      "detail": "AMD moved -8.15% while INTC moved -5.86%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "peer_pct_change": -5.86,
+        "subject_pct_change": -8.148,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260728_peer_MSFT": {
+      "id": "ev_AMD_20260728_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +1.09% the same day",
+      "detail": "AMD moved -8.15% while MSFT moved +1.09%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "peer_pct_change": 1.09,
+        "subject_pct_change": -8.148,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260728_peer_NVDA": {
+      "id": "ev_AMD_20260728_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +0.25% the same day",
+      "detail": "AMD moved -8.15% while NVDA moved +0.25%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "peer_pct_change": 0.25,
+        "subject_pct_change": -8.148,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260728_peer_QCOM": {
+      "id": "ev_AMD_20260728_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved -4.21% the same day",
+      "detail": "AMD moved -8.15% while QCOM moved -4.21%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "peer_pct_change": -4.21,
+        "subject_pct_change": -8.148,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260728_peer_TSM": {
+      "id": "ev_AMD_20260728_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -1.70% the same day",
+      "detail": "AMD moved -8.15% while TSM moved -1.70%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-07-28",
+      "numbers": {
+        "peer_pct_change": -1.7,
+        "subject_pct_change": -8.148,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260728_news0": {
+      "id": "ev_AMD_20260728_news0",
+      "kind": "news",
+      "title": "Advanced Micro Devices vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
+      "detail": "Reported by Yahoo. AMD trades at a steeper valuation despite slower profit margins, while Arista's high customer concentration adds risk to its premium profitability.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=db78461206110b51a7b2c5018114bde5aacf54eff3cd68d9f031e8e17018a1a7",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news1": {
+      "id": "ev_AMD_20260728_news1",
+      "kind": "news",
+      "title": "Core Scientific inks $14B deal with AMD, undisclosed neocloud",
+      "detail": "Reported by Yahoo. Core Scientific announced an AI colocation deal with AMD and an undisclosed neocloud, a 15-year agreement for 377MW for AMD plus 152MW for the neocloud for 530MW total, worth over\u2026",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=6157e2f19e1d82af39355d0dbdda8ea2c15718fe5ebdeb793fcfc8873aefbf79",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news2": {
+      "id": "ev_AMD_20260728_news2",
+      "kind": "news",
+      "title": "AMD's Core Scientific Deal Hints at AI's Next Race",
+      "detail": "Reported by Yahoo. Chipmaker secures power for Instinct GPUs as CORZ jumps 11%",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b399fa7fb4acc337ad274cf4a00cf426b6ebd5822910ca0a79bdf5f29ae38466",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news3": {
+      "id": "ev_AMD_20260728_news3",
+      "kind": "news",
+      "title": "Core Scientific (CORZ) Is Down 7.4% After Massive Q2 Loss And AMD AI Deal - Has The Bull Case Changed?",
+      "detail": "Reported by Yahoo. In the second quarter of 2026, Core Scientific reported revenue of US$164.2 million versus US$78.63 million a year earlier, alongside a net loss of US$1.16 billion and a basic loss per share from continuing operations of US$3.32. On the same day, Core Scientific and Advanced Micro Devices announced a long-term AI infrastructure partnership that could scale up to 2.50 gigawatts of capacity, including more than 500 megawatts of U.S. infrastructure beginning in 2027 and market-priced warrants...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0622d2f1be674cec4989aa8dd306f0393c8d7739d74959f4180d3d4023f654b9",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news4": {
+      "id": "ev_AMD_20260728_news4",
+      "kind": "news",
+      "title": "Top Analyst Reports for Alphabet, AMD & RTX",
+      "detail": "Reported by Yahoo. Alphabet's AI-driven growth across Search, Cloud and Gemini is gaining traction, but can it offset rising spending, legal risks and ad market exposure?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=e379c1109c3fab0351eeb97efd084c92d0b9fd27fdc3ae49c8161e5e4cdc40fe",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news5": {
+      "id": "ev_AMD_20260728_news5",
+      "kind": "news",
+      "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
+      "detail": "Reported by Yahoo. AI Chip Stocks Under Pressure as China Competition and Funding Fears Hit Sector",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news6": {
+      "id": "ev_AMD_20260728_news6",
+      "kind": "news",
+      "title": "What's Going On With AMD Stock Tuesday",
+      "detail": "Reported by Yahoo. AMD Partners With Core Scientific on Huge AI Data Center Push",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9d25f754697d4dc72fefec717fab9311985575fe9bd115867e396d7dda8d15d2",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260728_news7": {
+      "id": "ev_AMD_20260728_news7",
+      "kind": "news",
+      "title": "AMD Stock Falls 4% Despite 2.5-Gigawatt AI Data-Center Deal",
+      "detail": "Reported by Yahoo. Core Scientific will initially provide more than 500 megawatts of AI-ready capacity beginning in 2027.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b126ae762e7648826d66918e3a7aa8af0360a831d22a62a2a2087987c02a9e76",
+      "occurred_on": "2026-07-28",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_price": {
+      "id": "ev_AMD_20260730_price",
+      "kind": "price",
+      "title": "AMD rose 13.00% on 2026-07-30",
+      "detail": "Closed at $485.39 from $429.56. Volume was 1.8x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "pct_change": 12.997,
+        "close": 485.39,
+        "prev_close": 429.56,
+        "volume": 36936600,
+        "volume_vs_30d_avg": 1.8,
+        "move_excluding_sector_pct": 6.46
+      }
+    },
+    "ev_AMD_20260730_peer_AVGO": {
+      "id": "ev_AMD_20260730_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +4.73% the same day",
+      "detail": "AMD moved +13.00% while AVGO moved +4.73%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "peer_pct_change": 4.73,
+        "subject_pct_change": 12.997,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260730_peer_INTC": {
+      "id": "ev_AMD_20260730_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +11.30% the same day",
+      "detail": "AMD moved +13.00% while INTC moved +11.30%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "peer_pct_change": 11.3,
+        "subject_pct_change": 12.997,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260730_peer_MSFT": {
+      "id": "ev_AMD_20260730_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +15.51% the same day",
+      "detail": "AMD moved +13.00% while MSFT moved +15.51%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "peer_pct_change": 15.51,
+        "subject_pct_change": 12.997,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260730_peer_NVDA": {
+      "id": "ev_AMD_20260730_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +2.65% the same day",
+      "detail": "AMD moved +13.00% while NVDA moved +2.65%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "peer_pct_change": 2.65,
+        "subject_pct_change": 12.997,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260730_peer_QCOM": {
+      "id": "ev_AMD_20260730_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved -2.62% the same day",
+      "detail": "AMD moved +13.00% while QCOM moved -2.62%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "peer_pct_change": -2.62,
+        "subject_pct_change": 12.997,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260730_peer_TSM": {
+      "id": "ev_AMD_20260730_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +7.64% the same day",
+      "detail": "AMD moved +13.00% while TSM moved +7.64%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-07-30",
+      "numbers": {
+        "peer_pct_change": 7.64,
+        "subject_pct_change": 12.997,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260730_news0": {
+      "id": "ev_AMD_20260730_news0",
+      "kind": "news",
+      "title": "Is AMD Stock Heading to $600 per Share?",
+      "detail": "Reported by Yahoo. AMD nearly breached this level a few weeks ago, but has sold off.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=bd1bb81fae300b56bb8cdea33d8874aac4157e94630498cd378cf7dc1b3e1657",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news1": {
+      "id": "ev_AMD_20260730_news1",
+      "kind": "news",
+      "title": "The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense",
+      "detail": "Reported by Yahoo. The sticker shock on AMD\u2019s valuation fades once you look two years out, but the discount hinges on an aggressive growth story that deserves a closer look.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3dd50fbaf09869c639cde3a89d4be447461cd9eaa2092ab633d7ca086e21b54f",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news2": {
+      "id": "ev_AMD_20260730_news2",
+      "kind": "news",
+      "title": "AMD Stock Gets Powerful Vote of Confidence",
+      "detail": "Reported by Yahoo. Server chips could become an overlooked growth engine",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d3177bd34030f4ebb20529ce672e97d7fdcf2514ab59cb94adacddcab6d62701",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news3": {
+      "id": "ev_AMD_20260730_news3",
+      "kind": "news",
+      "title": "AMD Gets a Fresh Boost From Wall Street",
+      "detail": "Reported by Yahoo. Susquehanna raised its price target on AMD.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5caf7160f4f51ab393ded38fe412da3ceb5c3f61ae9ba42bce331b124aae5a31",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news4": {
+      "id": "ev_AMD_20260730_news4",
+      "kind": "news",
+      "title": "AMD Stock Has Surged 364% in 5 Years. History Suggests That It Will Become a Multibagger By 2030",
+      "detail": "Reported by Yahoo. The booming demand for server CPUs and AMD's solid market share suggest that this chip designer still has multibagger potential.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9900edafc3b0137dffef90fc4f2a42a2afb753eb6f17fff10e790967a61ed7f4",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news5": {
+      "id": "ev_AMD_20260730_news5",
+      "kind": "news",
+      "title": "AMD Stock Soars 12.7% as AI Rally Revives Data-Center Bets",
+      "detail": "Reported by Yahoo. AMD's 2.5-gigawatt infrastructure agreement could expand the capacity available to customers deploying its artificial-intelligence systems.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3f709ce6c8364baf5fd864666240bddeae56b160b620b01d41fc2f72b4764360",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news6": {
+      "id": "ev_AMD_20260730_news6",
+      "kind": "news",
+      "title": "Landmark AI Power Agreement Sends Huge Signal for AMD Stock",
+      "detail": "Reported by Yahoo. AMD just locked up to 2.5 gigawatts of U.S. data center capacity through Core Scientific, a deal that could reshape its AI growth story.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1ec78f0a23ad70048509dfc73a4581c755b4998fb920d37834971da1d3058a5f",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260730_news7": {
+      "id": "ev_AMD_20260730_news7",
+      "kind": "news",
+      "title": "Susquehanna Just Upped Its Price Target on AMD Stock. Here's Why.",
+      "detail": "Reported by Yahoo. AMD shares rally on a bullish note from Susquehanna analysts. Here\u2019s why the firm recommends buying AMD stock ahead of its Q2 earnings.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f0c849c023ba77527e23f89dc61d8a204a52fdefbafdcc84439108d65d3bd440",
+      "occurred_on": "2026-07-30",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_price": {
+      "id": "ev_AMD_20260805_price",
+      "kind": "price",
+      "title": "AMD fell 7.04% on 2026-08-05",
+      "detail": "Closed at $482.05 from $518.58. Volume was 2.4x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "pct_change": -7.044,
+        "close": 482.05,
+        "prev_close": 518.58,
+        "volume": 49615800,
+        "volume_vs_30d_avg": 2.41,
+        "move_excluding_sector_pct": 6.82
+      }
+    },
+    "ev_AMD_20260805_peer_AVGO": {
+      "id": "ev_AMD_20260805_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +0.03% the same day",
+      "detail": "AMD moved -7.04% while AVGO moved +0.03%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": 0.03,
+        "subject_pct_change": -7.044,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260805_peer_INTC": {
+      "id": "ev_AMD_20260805_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +0.20% the same day",
+      "detail": "AMD moved -7.04% while INTC moved +0.20%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": 0.2,
+        "subject_pct_change": -7.044,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260805_peer_MSFT": {
+      "id": "ev_AMD_20260805_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved -1.09% the same day",
+      "detail": "AMD moved -7.04% while MSFT moved -1.09%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": -1.09,
+        "subject_pct_change": -7.044,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260805_peer_NVDA": {
+      "id": "ev_AMD_20260805_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +3.44% the same day",
+      "detail": "AMD moved -7.04% while NVDA moved +3.44%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": 3.44,
+        "subject_pct_change": -7.044,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260805_peer_QCOM": {
+      "id": "ev_AMD_20260805_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved -3.16% the same day",
+      "detail": "AMD moved -7.04% while QCOM moved -3.16%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": -3.16,
+        "subject_pct_change": -7.044,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260805_peer_TSM": {
+      "id": "ev_AMD_20260805_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved -0.76% the same day",
+      "detail": "AMD moved -7.04% while TSM moved -0.76%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": -0.76,
+        "subject_pct_change": -7.044,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260805_filing_000000248826000123": {
+      "id": "ev_AMD_20260805_filing_000000248826000123",
+      "kind": "filing",
+      "title": "10-Q filed 2026-08-05",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_filing_000000248826000121": {
+      "id": "ev_AMD_20260805_filing_000000248826000121",
+      "kind": "filing",
+      "title": "8-K filed 2026-08-04",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/amd-20260804.htm",
+      "occurred_on": "2026-08-04",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news0": {
+      "id": "ev_AMD_20260805_news0",
+      "kind": "news",
+      "title": "$10,000 in AMDL Became $40,270 in 7 Months, but AMD\u2019s Earnings Crash Erased $9,500 in One Day",
+      "detail": "Reported by Yahoo. A leveraged AMD fund turned a modest stake into a small fortune over seven months, then a single earnings report wiped out nearly a quarter of those gains in hours. Here is what the 302% run actually cost its holders.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c064f44246d3acdfeed3c76885a062eea47be0309f4cd2298d3f896cee6512e2",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news1": {
+      "id": "ev_AMD_20260805_news1",
+      "kind": "news",
+      "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+      "detail": "Reported by Yahoo. STORY: U.S. stocks ended mixed on Wednesday, with the Dow adding about half a percent to notch another record high close, the S&P 500 slipping marginally and the tech-heavy Nasdaq dropping more than eight-tenths of a percent.The Nasdaq saw its first decline in five sessions as AMD fell 7% and SpaceX stumbled nearly 14% following the release of its quarterly earnings.SpaceX shares could face additional pressure from the expiration of the stock's post-IPO lock-up period starting on Thursday, said Shana Orczyk Sissel, founder and CEO of Banr\u00edon Capital Management.\"There will likely be a lot of fo",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3315f6067862bdc039780a80c3eab122beb4e094712dde72113979fb1c20abbd",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news2": {
+      "id": "ev_AMD_20260805_news2",
+      "kind": "news",
+      "title": "US Equity Markets Mixed as SpaceX, AMD Shares Drop; Iran Announces Hormuz Plan",
+      "detail": "Reported by Yahoo. US equity indexes were mixed Wednesday as SpaceX (SPCX) and Advanced Micro Devices (AMD) stocks decl",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d922e783faf4ac00caa01402e80b20b96555c5df641f6d584d67eb939115efba",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news3": {
+      "id": "ev_AMD_20260805_news3",
+      "kind": "news",
+      "title": "AMD Stock Drops 6.9% Despite Record $11.5 Billion Revenue",
+      "detail": "Reported by Yahoo. Record Data Center sales and a $13 billion outlook failed to prevent a sharp post-earnings decline.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=448128b968ed780da930fbfc0053b03086e6704baff7900d10260b92cad510ae",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news4": {
+      "id": "ev_AMD_20260805_news4",
+      "kind": "news",
+      "title": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today\u2019s Market",
+      "detail": "Reported by Yahoo. SpaceX stock sinks after earnings. AMD drops after Elon Musk says his AI and space company will exclusively use Nvidia chips.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=21fb8be31f4b117b356767c095e95409cad32b2d646651192a1c1ccf094f1c80",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news5": {
+      "id": "ev_AMD_20260805_news5",
+      "kind": "news",
+      "title": "Wall Street Doubles Down on AMD After Selloff",
+      "detail": "Reported by Yahoo. Strong guidance still failed to clear investors' elevated bar",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1bbceef3f880c53fa629d0f9c77e9bfdf9393f8888a91c470553ac12a09c9e20",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news6": {
+      "id": "ev_AMD_20260805_news6",
+      "kind": "news",
+      "title": "DA Davidson Maintains Buy on Advanced Micro Devices, Raises Price Target to $550",
+      "detail": "Reported by Benzinga. DA Davidson  analyst Gil Luria   maintains Advanced Micro Devices (NASDAQ:AMD) with a Buy and raises the price target from $425 to $550.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=98fef1070e0826c521e37ca1bc977e59aedaccd0ea52a79f60802d36eaee6cec",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260805_news7": {
+      "id": "ev_AMD_20260805_news7",
+      "kind": "news",
+      "title": "AMD Q2 Earnings Beat Estimates, Strong Data Center Aids Revenue Growth",
+      "detail": "Reported by Yahoo. AMD's Q2 earnings beat estimates as Data Center sales more than double, margins widen and Helios AI demand tracks ahead of forecasts.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=11b00aabc8ce257f582a95a5ffb21f70c89e4b5b3b7a6b3f78ad396b29f1a0e1",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_price": {
+      "id": "ev_AMD_20260921_price",
+      "kind": "price",
+      "title": "AMD rose 9.95% on 2026-09-21",
+      "detail": "Closed at $615.52 from $559.82. Volume was 2.2x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AMD/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "pct_change": 9.95,
+        "close": 615.52,
+        "prev_close": 559.82,
+        "volume": 44494300,
+        "volume_vs_30d_avg": 2.16,
+        "move_excluding_sector_pct": 5.09
+      }
+    },
+    "ev_AMD_20260921_peer_AVGO": {
+      "id": "ev_AMD_20260921_peer_AVGO",
+      "kind": "peer_move",
+      "title": "AVGO (competitor) moved +1.41% the same day",
+      "detail": "AMD moved +9.95% while AVGO moved +1.41%. AVGO is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AVGO/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "peer_pct_change": 1.41,
+        "subject_pct_change": 9.95,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260921_peer_INTC": {
+      "id": "ev_AMD_20260921_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +12.14% the same day",
+      "detail": "AMD moved +9.95% while INTC moved +12.14%. INTC is AMD's competitor (x86 processors, GPUs, accelerators, and data center products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "peer_pct_change": 12.14,
+        "subject_pct_change": 9.95,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260921_peer_MSFT": {
+      "id": "ev_AMD_20260921_peer_MSFT",
+      "kind": "peer_move",
+      "title": "MSFT (customer) moved +1.59% the same day",
+      "detail": "AMD moved +9.95% while MSFT moved +1.59%. MSFT is AMD's customer (semi-custom SoC products for game consoles), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/MSFT/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "peer_pct_change": 1.59,
+        "subject_pct_change": 9.95,
+        "relationship": "customer"
+      }
+    },
+    "ev_AMD_20260921_peer_NVDA": {
+      "id": "ev_AMD_20260921_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +2.30% the same day",
+      "detail": "AMD moved +9.95% while NVDA moved +2.30%. NVDA is AMD's competitor (GPUs, custom chips and accelerated computing solutions), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "peer_pct_change": 2.3,
+        "subject_pct_change": 9.95,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260921_peer_QCOM": {
+      "id": "ev_AMD_20260921_peer_QCOM",
+      "kind": "peer_move",
+      "title": "QCOM (competitor) moved +9.29% the same day",
+      "detail": "AMD moved +9.95% while QCOM moved +9.29%. QCOM is AMD's competitor (ASSP products), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/QCOM/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "peer_pct_change": 9.29,
+        "subject_pct_change": 9.95,
+        "relationship": "competitor"
+      }
+    },
+    "ev_AMD_20260921_peer_TSM": {
+      "id": "ev_AMD_20260921_peer_TSM",
+      "kind": "peer_move",
+      "title": "TSM (supplier) moved +2.41% the same day",
+      "detail": "AMD moved +9.95% while TSM moved +2.41%. TSM is AMD's supplier (wafer production), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/TSM/history",
+      "occurred_on": "2026-09-21",
+      "numbers": {
+        "peer_pct_change": 2.41,
+        "subject_pct_change": 9.95,
+        "relationship": "supplier"
+      }
+    },
+    "ev_AMD_20260921_news0": {
+      "id": "ev_AMD_20260921_news0",
+      "kind": "news",
+      "title": "Advanced Micro Devices (AMD) Is Up 24.7% After Expanding Its Role In Regulated AI Infrastructure \u2013 Has The Bull Case Changed?",
+      "detail": "Reported by Yahoo. Advanced Micro Devices has recently been at the center of a series of AI-focused developments, from powering MindWalk\u2019s OpenFold3 life-sciences workloads on Instinct MI325X GPUs to expanding ecosystem collaborations across edge AI, quantum-classical integration, and agentic AI security and infrastructure. Together, these partnerships and deployments highlight AMD\u2019s role not just as a chip supplier but as a foundational compute layer for regulated, production-grade AI systems spanning data...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=86d150aa8e250c33b1ed6e5ea39d2c17d10fec74cbdc713c1ffed209d50afe78",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news1": {
+      "id": "ev_AMD_20260921_news1",
+      "kind": "news",
+      "title": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
+      "detail": "Reported by Yahoo. Advanced Micro Devices added about 10% and hit $1 trillion in market cap.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news2": {
+      "id": "ev_AMD_20260921_news2",
+      "kind": "news",
+      "title": "Meta Platforms, Greenland Mines, Intel, AMD and GameStop: Why These 5 Stocks Are on Investors' Radars Today",
+      "detail": "Reported by Benzinga. META, GRML, INTC, AMD, GME were among the stocks seen trending on Monday, Sept. 21, 2026.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=068174cd1183086242d43eb1b0bfd24db39a1190dd2aee03e5b55be721c6af87",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news3": {
+      "id": "ev_AMD_20260921_news3",
+      "kind": "news",
+      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+      "detail": "Reported by Yahoo. Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news4": {
+      "id": "ev_AMD_20260921_news4",
+      "kind": "news",
+      "title": "AMD Stock Alert: Advanced Micro Devices Joins the Trillion-Dollar Club",
+      "detail": "Reported by Yahoo. AMD\u2019s market cap exceeded $1 trillion for the first time on Monday. Options sentiment suggests AMD shares could rip further up from here through the remainder of 2026.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ab9585020a69d087d3b15b37498f89cd2d8c0a7b8495df3d2acb00a1ee0b070d",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news5": {
+      "id": "ev_AMD_20260921_news5",
+      "kind": "news",
+      "title": "Meta\u2019s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
+      "detail": "Reported by Yahoo. Intel,  Advanced Micro Devices  and  Arm Holdings  soared Monday as investors got excited about the potential growth of central-processing units.  The trigger looks to be the popularity of  Meta Platforms\u2019  Muse artificial-intelligence agent.  The rally pushed AMD to close with a market valuation above $1 trillion, making it the 14th U.S. company to reach that mark.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5b4e970cb47f994900a34f398272a08e66a4fad243837548ff09fcc191d531f4",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news6": {
+      "id": "ev_AMD_20260921_news6",
+      "kind": "news",
+      "title": "AMD Joins the $1 Trillion Market Cap Club",
+      "detail": "Reported by Yahoo. Advanced Micro Devices joined the trillion-dollar club Monday as its stock soared.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c76b6cc7791416783613b6af01332f551364ab823f25a900cfc526959b4145d2",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_20260921_news7": {
+      "id": "ev_AMD_20260921_news7",
+      "kind": "news",
+      "title": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
+      "detail": "Reported by Yahoo. Historic Day for AMD as Stock Surge Pushes Valuation Above $1 Trillion",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
+      "occurred_on": "2026-09-21",
+      "numbers": {}
+    },
+    "ev_AMD_fund_revenue": {
+      "id": "ev_AMD_fund_revenue",
+      "kind": "fundamental",
+      "title": "Revenue: 11,536,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +55.1% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "value": 11536000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "yoy_pct_change": 55.1
+      }
+    },
+    "ev_AMD_fund_net_income": {
+      "id": "ev_AMD_fund_net_income",
+      "kind": "fundamental",
+      "title": "Net Income: 2,297,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +224.0% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "value": 2297000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "NetIncomeLoss",
+        "yoy_pct_change": 223.98
+      }
+    },
+    "ev_AMD_fund_gross_profit": {
+      "id": "ev_AMD_fund_gross_profit",
+      "kind": "fundamental",
+      "title": "Gross Profit: 6,203,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +66.0% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "value": 6203000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "GrossProfit",
+        "yoy_pct_change": 66.03
+      }
+    },
+    "ev_AMD_fund_operating_income": {
+      "id": "ev_AMD_fund_operating_income",
+      "kind": "fundamental",
+      "title": "Operating Income: 1,990,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +146.9% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "value": 1990000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "OperatingIncomeLoss",
+        "yoy_pct_change": 146.9
+      }
+    },
+    "ev_AMD_fund_rnd_expense": {
+      "id": "ev_AMD_fund_rnd_expense",
+      "kind": "fundamental",
+      "title": "Rnd Expense: 2,528,000,000 (2026-06-27)",
+      "detail": "Reported on form 10-Q, +46.3% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "value": 2528000000,
+        "period_end": "2026-06-27",
+        "xbrl_tag": "ResearchAndDevelopmentExpense",
+        "yoy_pct_change": 46.3
+      }
+    },
+    "ev_AMD_sector_IPG3344S": {
+      "id": "ev_AMD_sector_IPG3344S",
+      "kind": "sector",
+      "title": "US semiconductor and electronic component production: 190.1 index, 2017=100, +12.3% year over year",
+      "detail": "Monthly series, latest reading 2026-08-01.",
+      "source": "FRED (Federal Reserve Bank of St. Louis)",
+      "url": "https://fred.stlouisfed.org/series/IPG3344S",
+      "occurred_on": "2026-08-01",
+      "numbers": {
+        "value": 190.0987,
+        "units": "index, 2017=100",
+        "as_of": "2026-08-01",
+        "yoy_pct_change": 12.35
+      }
+    },
+    "ev_AMD_sector_PCU334413334413": {
+      "id": "ev_AMD_sector_PCU334413334413",
+      "kind": "sector",
+      "title": "US semiconductor producer price index: 28.5 index, -3.1% year over year",
+      "detail": "Monthly series, latest reading 2026-08-01.",
+      "source": "FRED (Federal Reserve Bank of St. Louis)",
+      "url": "https://fred.stlouisfed.org/series/PCU334413334413",
+      "occurred_on": "2026-08-01",
+      "numbers": {
+        "value": 28.472,
+        "units": "index",
+        "as_of": "2026-08-01",
+        "yoy_pct_change": -3.13
+      }
+    }
+  },
+  "arc": "Between March and September 2026, AMD engineered a sustained ascent from $205.37 to $615.52, culminating in its entry into the $1 trillion market capitalization club. The central driver across the period was a structural surge in data center CPU and accelerator demand tied to agentic AI workloads, which enabled double-digit CPU price increases and drove a 57% surge in Q1 data center revenue alongside a record $11.5 billion top line in Q2. Significant multi-gigawatt infrastructure and hardware deployments\u2014such as agreements with Rackspace, OneQode, and Core Scientific\u2014solidified commercial adoption of AMD's Instinct GPUs and Helios platforms. Although the stock encountered intermittent setbacks from elevated earnings expectations and institutional profit-taking, the broader trajectory was defined by repeated upward price target revisions and industry-wide demand surges that AMD shared with key peers like Intel.",
+  "arc_citation_ids": [
+    "ev_AMD_20260325_news3",
+    "ev_AMD_20260506_news0",
+    "ev_AMD_20260728_news1",
+    "ev_AMD_20260805_news3",
+    "ev_AMD_20260921_news5"
+  ],
+  "warnings": []
+}

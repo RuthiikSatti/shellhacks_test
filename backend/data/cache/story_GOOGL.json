@@ -1,0 +1,3311 @@
+{
+  "symbol": "GOOGL",
+  "company_name": "Alphabet Inc.",
+  "generated_at": "2026-09-26T12:52:46.850941+00:00",
+  "bars": [
+    {
+      "date": "2026-03-20",
+      "open": 305.46,
+      "high": 306.0,
+      "low": 298.27,
+      "close": 301.0,
+      "volume": 44364100,
+      "pct_change": 0.0,
+      "prev_close": 305.46
+    },
+    {
+      "date": "2026-03-23",
+      "open": 302.11,
+      "high": 305.98,
+      "low": 300.93,
+      "close": 302.06,
+      "volume": 29326900,
+      "pct_change": 0.352,
+      "prev_close": 301.0
+    },
+    {
+      "date": "2026-03-24",
+      "open": 299.2,
+      "high": 299.92,
+      "low": 290.33,
+      "close": 290.44,
+      "volume": 36864300,
+      "pct_change": -3.847,
+      "prev_close": 302.06
+    },
+    {
+      "date": "2026-03-25",
+      "open": 293.44,
+      "high": 296.0,
+      "low": 289.24,
+      "close": 290.93,
+      "volume": 29460700,
+      "pct_change": 0.169,
+      "prev_close": 290.44
+    },
+    {
+      "date": "2026-03-26",
+      "open": 287.91,
+      "high": 287.95,
+      "low": 278.5,
+      "close": 280.92,
+      "volume": 39080600,
+      "pct_change": -3.441,
+      "prev_close": 290.93
+    },
+    {
+      "date": "2026-03-27",
+      "open": 277.28,
+      "high": 279.37,
+      "low": 273.95,
+      "close": 274.34,
+      "volume": 35890600,
+      "pct_change": -2.342,
+      "prev_close": 280.92
+    },
+    {
+      "date": "2026-03-30",
+      "open": 276.42,
+      "high": 277.09,
+      "low": 272.11,
+      "close": 273.5,
+      "volume": 35141200,
+      "pct_change": -0.306,
+      "prev_close": 274.34
+    },
+    {
+      "date": "2026-03-31",
+      "open": 278.04,
+      "high": 288.08,
+      "low": 277.09,
+      "close": 287.56,
+      "volume": 43875400,
+      "pct_change": 5.141,
+      "prev_close": 273.5
+    },
+    {
+      "date": "2026-04-01",
+      "open": 290.84,
+      "high": 300.52,
+      "low": 290.41,
+      "close": 297.39,
+      "volume": 37684500,
+      "pct_change": 3.418,
+      "prev_close": 287.56
+    },
+    {
+      "date": "2026-04-02",
+      "open": 290.69,
+      "high": 298.08,
+      "low": 289.45,
+      "close": 295.77,
+      "volume": 21666500,
+      "pct_change": -0.545,
+      "prev_close": 297.39
+    },
+    {
+      "date": "2026-04-06",
+      "open": 295.87,
+      "high": 300.62,
+      "low": 295.18,
+      "close": 299.99,
+      "volume": 16945500,
+      "pct_change": 1.427,
+      "prev_close": 295.77
+    },
+    {
+      "date": "2026-04-07",
+      "open": 302.73,
+      "high": 305.63,
+      "low": 297.72,
+      "close": 305.46,
+      "volume": 23205400,
+      "pct_change": 1.823,
+      "prev_close": 299.99
+    },
+    {
+      "date": "2026-04-08",
+      "open": 320.45,
+      "high": 322.08,
+      "low": 315.02,
+      "close": 317.32,
+      "volume": 33547100,
+      "pct_change": 3.883,
+      "prev_close": 305.46
+    },
+    {
+      "date": "2026-04-09",
+      "open": 315.91,
+      "high": 319.54,
+      "low": 311.06,
+      "close": 318.49,
+      "volume": 23739200,
+      "pct_change": 0.369,
+      "prev_close": 317.32
+    },
+    {
+      "date": "2026-04-10",
+      "open": 320.02,
+      "high": 321.83,
+      "low": 316.32,
+      "close": 317.24,
+      "volume": 19152600,
+      "pct_change": -0.392,
+      "prev_close": 318.49
+    },
+    {
+      "date": "2026-04-13",
+      "open": 317.14,
+      "high": 321.63,
+      "low": 315.47,
+      "close": 321.31,
+      "volume": 18866400,
+      "pct_change": 1.283,
+      "prev_close": 317.24
+    },
+    {
+      "date": "2026-04-14",
+      "open": 324.79,
+      "high": 333.29,
+      "low": 323.75,
+      "close": 332.91,
+      "volume": 27721400,
+      "pct_change": 3.61,
+      "prev_close": 321.31
+    },
+    {
+      "date": "2026-04-15",
+      "open": 332.89,
+      "high": 337.48,
+      "low": 330.9,
+      "close": 337.12,
+      "volume": 24918800,
+      "pct_change": 1.265,
+      "prev_close": 332.91
+    },
+    {
+      "date": "2026-04-16",
+      "open": 338.75,
+      "high": 339.88,
+      "low": 334.52,
+      "close": 336.02,
+      "volume": 20541500,
+      "pct_change": -0.326,
+      "prev_close": 337.12
+    },
+    {
+      "date": "2026-04-17",
+      "open": 337.65,
+      "high": 342.32,
+      "low": 336.24,
+      "close": 341.68,
+      "volume": 25581900,
+      "pct_change": 1.684,
+      "prev_close": 336.02
+    },
+    {
+      "date": "2026-04-20",
+      "open": 340.76,
+      "high": 341.4,
+      "low": 336.61,
+      "close": 337.42,
+      "volume": 18784200,
+      "pct_change": -1.247,
+      "prev_close": 341.68
+    },
+    {
+      "date": "2026-04-21",
+      "open": 337.69,
+      "high": 339.34,
+      "low": 331.35,
+      "close": 332.29,
+      "volume": 23123800,
+      "pct_change": -1.52,
+      "prev_close": 337.42
+    },
+    {
+      "date": "2026-04-22",
+      "open": 337.02,
+      "high": 339.82,
+      "low": 335.17,
+      "close": 339.32,
+      "volume": 20293000,
+      "pct_change": 2.116,
+      "prev_close": 332.29
+    },
+    {
+      "date": "2026-04-23",
+      "open": 341.18,
+      "high": 341.96,
+      "low": 336.18,
+      "close": 338.89,
+      "volume": 18650300,
+      "pct_change": -0.127,
+      "prev_close": 339.32
+    },
+    {
+      "date": "2026-04-24",
+      "open": 338.73,
+      "high": 345.27,
+      "low": 335.39,
+      "close": 344.4,
+      "volume": 26426100,
+      "pct_change": 1.626,
+      "prev_close": 338.89
+    },
+    {
+      "date": "2026-04-27",
+      "open": 345.98,
+      "high": 353.18,
+      "low": 342.73,
+      "close": 350.34,
+      "volume": 28576900,
+      "pct_change": 1.725,
+      "prev_close": 344.4
+    },
+    {
+      "date": "2026-04-28",
+      "open": 348.55,
+      "high": 352.42,
+      "low": 346.12,
+      "close": 349.78,
+      "volume": 27824100,
+      "pct_change": -0.16,
+      "prev_close": 350.34
+    },
+    {
+      "date": "2026-04-29",
+      "open": 347.57,
+      "high": 355.79,
+      "low": 344.21,
+      "close": 349.94,
+      "volume": 35376300,
+      "pct_change": 0.046,
+      "prev_close": 349.78
+    },
+    {
+      "date": "2026-04-30",
+      "open": 374.07,
+      "high": 385.84,
+      "low": 365.82,
+      "close": 384.8,
+      "volume": 72040000,
+      "pct_change": 9.962,
+      "prev_close": 349.94
+    },
+    {
+      "date": "2026-05-01",
+      "open": 381.63,
+      "high": 386.76,
+      "low": 379.05,
+      "close": 385.69,
+      "volume": 30105200,
+      "pct_change": 0.231,
+      "prev_close": 384.8
+    },
+    {
+      "date": "2026-05-04",
+      "open": 385.63,
+      "high": 387.38,
+      "low": 379.79,
+      "close": 383.25,
+      "volume": 26298600,
+      "pct_change": -0.633,
+      "prev_close": 385.69
+    },
+    {
+      "date": "2026-05-05",
+      "open": 386.23,
+      "high": 392.82,
+      "low": 384.02,
+      "close": 388.43,
+      "volume": 23878600,
+      "pct_change": 1.352,
+      "prev_close": 383.25
+    },
+    {
+      "date": "2026-05-06",
+      "open": 394.25,
+      "high": 399.85,
+      "low": 392.76,
+      "close": 398.04,
+      "volume": 31308500,
+      "pct_change": 2.474,
+      "prev_close": 388.43
+    },
+    {
+      "date": "2026-05-07",
+      "open": 399.92,
+      "high": 400.1,
+      "low": 392.68,
+      "close": 397.99,
+      "volume": 24433500,
+      "pct_change": -0.013,
+      "prev_close": 398.04
+    },
+    {
+      "date": "2026-05-08",
+      "open": 397.0,
+      "high": 402.0,
+      "low": 396.36,
+      "close": 400.8,
+      "volume": 21461800,
+      "pct_change": 0.706,
+      "prev_close": 397.99
+    },
+    {
+      "date": "2026-05-11",
+      "open": 393.65,
+      "high": 397.44,
+      "low": 388.47,
+      "close": 388.64,
+      "volume": 30753700,
+      "pct_change": -3.034,
+      "prev_close": 400.8
+    },
+    {
+      "date": "2026-05-12",
+      "open": 387.34,
+      "high": 388.52,
+      "low": 382.77,
+      "close": 387.35,
+      "volume": 26017500,
+      "pct_change": -0.332,
+      "prev_close": 388.64
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.6,
+      "high": 403.7,
+      "low": 385.0,
+      "close": 402.62,
+      "volume": 28144600,
+      "pct_change": 3.942,
+      "prev_close": 387.35
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.93,
+      "low": 395.84,
+      "close": 401.07,
+      "volume": 21136700,
+      "pct_change": -0.385,
+      "prev_close": 402.62
+    },
+    {
+      "date": "2026-05-15",
+      "open": 396.32,
+      "high": 399.54,
+      "low": 393.18,
+      "close": 396.78,
+      "volume": 20309700,
+      "pct_change": -1.07,
+      "prev_close": 401.07
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.69,
+      "high": 408.61,
+      "low": 394.53,
+      "close": 396.94,
+      "volume": 26837200,
+      "pct_change": 0.04,
+      "prev_close": 396.78
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.96,
+      "high": 397.15,
+      "low": 386.11,
+      "close": 387.66,
+      "volume": 39545700,
+      "pct_change": -2.338,
+      "prev_close": 396.94
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.7,
+      "high": 393.86,
+      "low": 382.9,
+      "close": 388.91,
+      "volume": 31744400,
+      "pct_change": 0.322,
+      "prev_close": 387.66
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.7,
+      "high": 392.5,
+      "low": 383.02,
+      "close": 387.66,
+      "volume": 24852800,
+      "pct_change": -0.321,
+      "prev_close": 388.91
+    },
+    {
+      "date": "2026-05-22",
+      "open": 387.35,
+      "high": 388.74,
+      "low": 381.77,
+      "close": 382.97,
+      "volume": 20442100,
+      "pct_change": -1.21,
+      "prev_close": 387.66
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.26,
+      "low": 382.6,
+      "close": 388.88,
+      "volume": 27747400,
+      "pct_change": 1.543,
+      "prev_close": 382.97
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.67,
+      "high": 393.88,
+      "low": 385.9,
+      "close": 388.83,
+      "volume": 23087300,
+      "pct_change": -0.013,
+      "prev_close": 388.88
+    },
+    {
+      "date": "2026-05-28",
+      "open": 388.0,
+      "high": 391.87,
+      "low": 385.16,
+      "close": 390.13,
+      "volume": 24357500,
+      "pct_change": 0.334,
+      "prev_close": 388.83
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.24,
+      "high": 385.24,
+      "low": 378.46,
+      "close": 380.34,
+      "volume": 44415800,
+      "pct_change": -2.509,
+      "prev_close": 390.13
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.52,
+      "high": 378.56,
+      "low": 373.52,
+      "close": 376.37,
+      "volume": 28672100,
+      "pct_change": -1.044,
+      "prev_close": 380.34
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.59,
+      "high": 373.54,
+      "low": 358.44,
+      "close": 361.85,
+      "volume": 50412300,
+      "pct_change": -3.858,
+      "prev_close": 376.37
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.45,
+      "low": 358.08,
+      "close": 358.99,
+      "volume": 55441600,
+      "pct_change": -0.79,
+      "prev_close": 361.85
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.9,
+      "high": 373.25,
+      "low": 358.21,
+      "close": 372.19,
+      "volume": 44055500,
+      "pct_change": 3.677,
+      "prev_close": 358.99
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.34,
+      "high": 372.08,
+      "low": 364.12,
+      "close": 368.53,
+      "volume": 37471200,
+      "pct_change": -0.983,
+      "prev_close": 372.19
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.18,
+      "high": 366.2,
+      "low": 360.53,
+      "close": 363.31,
+      "volume": 27942500,
+      "pct_change": -1.416,
+      "prev_close": 368.53
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.09,
+      "high": 372.08,
+      "low": 357.3,
+      "close": 364.26,
+      "volume": 29535100,
+      "pct_change": 0.261,
+      "prev_close": 363.31
+    },
+    {
+      "date": "2026-06-10",
+      "open": 363.19,
+      "high": 368.56,
+      "low": 355.2,
+      "close": 356.38,
+      "volume": 32357100,
+      "pct_change": -2.163,
+      "prev_close": 364.26
+    },
+    {
+      "date": "2026-06-11",
+      "open": 355.93,
+      "high": 358.8,
+      "low": 346.36,
+      "close": 357.77,
+      "volume": 35538200,
+      "pct_change": 0.39,
+      "prev_close": 356.38
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.62,
+      "high": 366.57,
+      "low": 354.94,
+      "close": 359.68,
+      "volume": 24704600,
+      "pct_change": 0.534,
+      "prev_close": 357.77
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.93,
+      "high": 372.99,
+      "low": 366.55,
+      "close": 369.35,
+      "volume": 27727500,
+      "pct_change": 2.689,
+      "prev_close": 359.68
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 376.0,
+      "low": 367.06,
+      "close": 373.25,
+      "volume": 24876100,
+      "pct_change": 1.056,
+      "prev_close": 369.35
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.13,
+      "high": 372.33,
+      "low": 362.02,
+      "close": 363.79,
+      "volume": 24543600,
+      "pct_change": -2.534,
+      "prev_close": 373.25
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.75,
+      "high": 369.48,
+      "low": 358.67,
+      "close": 368.03,
+      "volume": 44470100,
+      "pct_change": 1.166,
+      "prev_close": 363.79
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.95,
+      "high": 358.92,
+      "low": 341.72,
+      "close": 349.68,
+      "volume": 52814800,
+      "pct_change": -4.986,
+      "prev_close": 368.03
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.69,
+      "high": 349.29,
+      "low": 340.2,
+      "close": 346.13,
+      "volume": 34007700,
+      "pct_change": -1.015,
+      "prev_close": 349.68
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.04,
+      "high": 353.48,
+      "low": 341.93,
+      "close": 345.29,
+      "volume": 44997300,
+      "pct_change": -0.243,
+      "prev_close": 346.13
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.73,
+      "high": 345.57,
+      "low": 335.84,
+      "close": 343.71,
+      "volume": 44491400,
+      "pct_change": -0.458,
+      "prev_close": 345.29
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.55,
+      "high": 346.36,
+      "low": 330.2,
+      "close": 337.39,
+      "volume": 114706300,
+      "pct_change": -1.839,
+      "prev_close": 343.71
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.83,
+      "high": 354.35,
+      "low": 340.67,
+      "close": 353.65,
+      "volume": 34213900,
+      "pct_change": 4.819,
+      "prev_close": 337.39
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.62,
+      "low": 350.4,
+      "close": 357.37,
+      "volume": 35237200,
+      "pct_change": 1.052,
+      "prev_close": 353.65
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.97,
+      "low": 356.43,
+      "close": 361.21,
+      "volume": 26736400,
+      "pct_change": 1.075,
+      "prev_close": 357.37
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.48,
+      "high": 364.21,
+      "low": 353.42,
+      "close": 359.91,
+      "volume": 25974800,
+      "pct_change": -0.36,
+      "prev_close": 361.21
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.55,
+      "high": 367.93,
+      "low": 357.38,
+      "close": 366.46,
+      "volume": 26915800,
+      "pct_change": 1.82,
+      "prev_close": 359.91
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.16,
+      "low": 365.5,
+      "close": 367.03,
+      "volume": 24045600,
+      "pct_change": 0.156,
+      "prev_close": 366.46
+    },
+    {
+      "date": "2026-07-08",
+      "open": 364.76,
+      "high": 367.84,
+      "low": 358.02,
+      "close": 361.92,
+      "volume": 22094800,
+      "pct_change": -1.392,
+      "prev_close": 367.03
+    },
+    {
+      "date": "2026-07-09",
+      "open": 354.31,
+      "high": 359.65,
+      "low": 351.08,
+      "close": 358.89,
+      "volume": 24729100,
+      "pct_change": -0.837,
+      "prev_close": 361.92
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.53,
+      "high": 357.82,
+      "low": 352.75,
+      "close": 357.18,
+      "volume": 18146100,
+      "pct_change": -0.476,
+      "prev_close": 358.89
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.19,
+      "high": 358.13,
+      "low": 351.75,
+      "close": 352.51,
+      "volume": 15901700,
+      "pct_change": -1.307,
+      "prev_close": 357.18
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.2,
+      "high": 360.16,
+      "low": 351.09,
+      "close": 359.51,
+      "volume": 18259400,
+      "pct_change": 1.986,
+      "prev_close": 352.51
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.97,
+      "high": 373.65,
+      "low": 357.76,
+      "close": 370.92,
+      "volume": 28284600,
+      "pct_change": 3.174,
+      "prev_close": 359.51
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.06,
+      "high": 375.27,
+      "low": 352.3,
+      "close": 354.46,
+      "volume": 41158500,
+      "pct_change": -4.438,
+      "prev_close": 370.92
+    },
+    {
+      "date": "2026-07-17",
+      "open": 346.0,
+      "high": 348.52,
+      "low": 341.36,
+      "close": 346.77,
+      "volume": 29959300,
+      "pct_change": -2.169,
+      "prev_close": 354.46
+    },
+    {
+      "date": "2026-07-20",
+      "open": 350.88,
+      "high": 359.68,
+      "low": 350.52,
+      "close": 351.99,
+      "volume": 24736600,
+      "pct_change": 1.505,
+      "prev_close": 346.77
+    },
+    {
+      "date": "2026-07-21",
+      "open": 351.32,
+      "high": 351.32,
+      "low": 347.0,
+      "close": 347.15,
+      "volume": 23369800,
+      "pct_change": -1.375,
+      "prev_close": 351.99
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.16,
+      "high": 349.94,
+      "low": 341.73,
+      "close": 342.09,
+      "volume": 39334100,
+      "pct_change": -1.458,
+      "prev_close": 347.15
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.13,
+      "high": 324.49,
+      "low": 314.9,
+      "close": 317.69,
+      "volume": 69419700,
+      "pct_change": -7.133,
+      "prev_close": 342.09
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.42,
+      "high": 324.18,
+      "low": 317.32,
+      "close": 319.74,
+      "volume": 31806600,
+      "pct_change": 0.645,
+      "prev_close": 317.69
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.04,
+      "high": 330.42,
+      "low": 324.45,
+      "close": 326.56,
+      "volume": 28471600,
+      "pct_change": 2.133,
+      "prev_close": 319.74
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.9,
+      "high": 335.88,
+      "low": 324.44,
+      "close": 333.71,
+      "volume": 29511900,
+      "pct_change": 2.189,
+      "prev_close": 326.56
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.67,
+      "high": 342.5,
+      "low": 331.62,
+      "close": 336.71,
+      "volume": 27501600,
+      "pct_change": 0.899,
+      "prev_close": 333.71
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.2,
+      "high": 336.51,
+      "low": 330.34,
+      "close": 333.66,
+      "volume": 30168000,
+      "pct_change": -0.906,
+      "prev_close": 336.71
+    },
+    {
+      "date": "2026-07-31",
+      "open": 340.83,
+      "high": 358.58,
+      "low": 340.0,
+      "close": 356.13,
+      "volume": 46498000,
+      "pct_change": 6.734,
+      "prev_close": 333.66
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.45,
+      "high": 376.69,
+      "low": 363.35,
+      "close": 373.51,
+      "volume": 38669700,
+      "pct_change": 4.88,
+      "prev_close": 356.13
+    },
+    {
+      "date": "2026-08-04",
+      "open": 368.22,
+      "high": 380.52,
+      "low": 367.5,
+      "close": 377.65,
+      "volume": 35705700,
+      "pct_change": 1.108,
+      "prev_close": 373.51
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.34,
+      "high": 384.48,
+      "low": 356.77,
+      "close": 362.43,
+      "volume": 46926300,
+      "pct_change": -4.03,
+      "prev_close": 377.65
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.77,
+      "high": 364.13,
+      "low": 356.88,
+      "close": 357.75,
+      "volume": 25235900,
+      "pct_change": -1.291,
+      "prev_close": 362.43
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.72,
+      "high": 358.9,
+      "low": 353.78,
+      "close": 354.3,
+      "volume": 19859900,
+      "pct_change": -0.964,
+      "prev_close": 357.75
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.18,
+      "high": 357.61,
+      "low": 352.71,
+      "close": 357.52,
+      "volume": 18991400,
+      "pct_change": 0.909,
+      "prev_close": 354.3
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.89,
+      "high": 356.81,
+      "low": 343.39,
+      "close": 343.8,
+      "volume": 29081800,
+      "pct_change": -3.838,
+      "prev_close": 357.52
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.31,
+      "high": 346.48,
+      "low": 340.88,
+      "close": 343.54,
+      "volume": 25012000,
+      "pct_change": -0.076,
+      "prev_close": 343.8
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.93,
+      "low": 343.76,
+      "close": 346.36,
+      "volume": 17866100,
+      "pct_change": 0.821,
+      "prev_close": 343.54
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.8,
+      "high": 350.45,
+      "low": 344.5,
+      "close": 345.9,
+      "volume": 17808600,
+      "pct_change": -0.133,
+      "prev_close": 346.36
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.27,
+      "high": 347.25,
+      "low": 341.93,
+      "close": 344.0,
+      "volume": 18291300,
+      "pct_change": -0.549,
+      "prev_close": 345.9
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.41,
+      "high": 344.87,
+      "low": 340.19,
+      "close": 344.2,
+      "volume": 19248800,
+      "pct_change": 0.058,
+      "prev_close": 344.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.46,
+      "high": 346.73,
+      "low": 340.66,
+      "close": 344.72,
+      "volume": 19733800,
+      "pct_change": 0.151,
+      "prev_close": 344.2
+    },
+    {
+      "date": "2026-08-20",
+      "open": 343.06,
+      "high": 343.9,
+      "low": 338.57,
+      "close": 340.67,
+      "volume": 18570400,
+      "pct_change": -1.175,
+      "prev_close": 344.72
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.58,
+      "high": 346.2,
+      "low": 340.4,
+      "close": 344.82,
+      "volume": 20849800,
+      "pct_change": 1.218,
+      "prev_close": 340.67
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.6,
+      "low": 342.49,
+      "close": 348.06,
+      "volume": 26338200,
+      "pct_change": 0.94,
+      "prev_close": 344.82
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.64,
+      "high": 350.16,
+      "low": 345.6,
+      "close": 346.96,
+      "volume": 20649700,
+      "pct_change": -0.316,
+      "prev_close": 348.06
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.62,
+      "high": 346.88,
+      "low": 340.18,
+      "close": 342.0,
+      "volume": 20420300,
+      "pct_change": -1.43,
+      "prev_close": 346.96
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.67,
+      "high": 341.69,
+      "low": 338.52,
+      "close": 340.65,
+      "volume": 23391400,
+      "pct_change": -0.395,
+      "prev_close": 342.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.71,
+      "high": 349.14,
+      "low": 340.27,
+      "close": 346.59,
+      "volume": 25347200,
+      "pct_change": 1.744,
+      "prev_close": 340.65
+    },
+    {
+      "date": "2026-08-31",
+      "open": 343.83,
+      "high": 344.59,
+      "low": 337.16,
+      "close": 339.35,
+      "volume": 33493600,
+      "pct_change": -2.089,
+      "prev_close": 346.59
+    },
+    {
+      "date": "2026-09-01",
+      "open": 336.0,
+      "high": 337.2,
+      "low": 333.05,
+      "close": 335.02,
+      "volume": 23342700,
+      "pct_change": -1.276,
+      "prev_close": 339.35
+    },
+    {
+      "date": "2026-09-02",
+      "open": 334.06,
+      "high": 340.0,
+      "low": 332.82,
+      "close": 337.12,
+      "volume": 22582300,
+      "pct_change": 0.627,
+      "prev_close": 335.02
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.56,
+      "high": 344.68,
+      "low": 340.06,
+      "close": 342.48,
+      "volume": 20726900,
+      "pct_change": 1.59,
+      "prev_close": 337.12
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.47,
+      "high": 343.53,
+      "low": 337.09,
+      "close": 338.46,
+      "volume": 23189300,
+      "pct_change": -1.174,
+      "prev_close": 342.48
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.42,
+      "high": 339.68,
+      "low": 333.22,
+      "close": 338.36,
+      "volume": 22915800,
+      "pct_change": -0.03,
+      "prev_close": 338.46
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.65,
+      "high": 331.85,
+      "low": 327.9,
+      "close": 330.65,
+      "volume": 33151600,
+      "pct_change": -2.279,
+      "prev_close": 338.36
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.23,
+      "high": 333.23,
+      "low": 327.74,
+      "close": 332.6,
+      "volume": 23557600,
+      "pct_change": 0.59,
+      "prev_close": 330.65
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.03,
+      "high": 342.98,
+      "low": 335.03,
+      "close": 338.5,
+      "volume": 24708300,
+      "pct_change": 1.774,
+      "prev_close": 332.6
+    },
+    {
+      "date": "2026-09-14",
+      "open": 343.12,
+      "high": 349.91,
+      "low": 342.14,
+      "close": 349.39,
+      "volume": 35905400,
+      "pct_change": 3.217,
+      "prev_close": 338.5
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.8,
+      "high": 348.07,
+      "low": 342.7,
+      "close": 344.98,
+      "volume": 21928600,
+      "pct_change": -1.262,
+      "prev_close": 349.39
+    },
+    {
+      "date": "2026-09-16",
+      "open": 347.08,
+      "high": 348.4,
+      "low": 340.64,
+      "close": 342.87,
+      "volume": 18928900,
+      "pct_change": -0.612,
+      "prev_close": 344.98
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.68,
+      "high": 349.5,
+      "low": 343.89,
+      "close": 347.33,
+      "volume": 19238400,
+      "pct_change": 1.301,
+      "prev_close": 342.87
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.31,
+      "high": 359.44,
+      "low": 348.45,
+      "close": 349.54,
+      "volume": 47631800,
+      "pct_change": 0.636,
+      "prev_close": 347.33
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.64,
+      "high": 357.61,
+      "low": 349.1,
+      "close": 354.97,
+      "volume": 30455400,
+      "pct_change": 1.553,
+      "prev_close": 349.54
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.65,
+      "high": 364.17,
+      "low": 350.22,
+      "close": 351.16,
+      "volume": 29788600,
+      "pct_change": -1.073,
+      "prev_close": 354.97
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.86,
+      "high": 350.0,
+      "low": 337.45,
+      "close": 337.83,
+      "volume": 35576200,
+      "pct_change": -3.796,
+      "prev_close": 351.16
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.22,
+      "high": 343.09,
+      "low": 336.02,
+      "close": 342.36,
+      "volume": 23777200,
+      "pct_change": 1.341,
+      "prev_close": 337.83
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.35,
+      "high": 347.03,
+      "low": 341.11,
+      "close": 343.92,
+      "volume": 21854700,
+      "pct_change": 0.456,
+      "prev_close": 342.36
+    }
+  ],
+  "beats": [
+    {
+      "date": "2026-03-24",
+      "pct_change": -3.847,
+      "close": 290.44,
+      "direction": "down",
+      "headline": "Alphabet drops 3.85% without company-specific news",
+      "explanation": "No company-specific news accompanied the 3.85% drop in Alphabet shares to $290.44 on 1.5 times average volume. The decline was largely company-specific, as connected peers were essentially unchanged, with supplier Apple ticking up 0.06% and competitor Intel rising 0.11%.",
+      "confidence": "low",
+      "citation_ids": [
+        "ev_GOOGL_20260324_price",
+        "ev_GOOGL_20260324_peer_AAPL",
+        "ev_GOOGL_20260324_peer_INTC",
+        "ev_GOOGL_20260324_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "pct_change": 9.962,
+      "close": 384.8,
+      "direction": "up",
+      "headline": "Surge on Q1 earnings and accelerating cloud growth",
+      "explanation": "Alphabet jumped 9.96% to $384.80 on 2.9 times normal volume following its first-quarter earnings report and 10-Q filing. The advance was driven by accelerating Google Cloud growth and durable search advertising performance amid the company's artificial intelligence rollouts. The gain was company-specific, sharply contrasting with competitor Nvidia, which dropped 4.63% the same day.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260430_price",
+        "ev_GOOGL_20260430_filing_000165204426000048",
+        "ev_GOOGL_20260430_news1",
+        "ev_GOOGL_20260430_news5",
+        "ev_GOOGL_20260430_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "pct_change": -3.034,
+      "close": 388.64,
+      "direction": "down",
+      "headline": "Stock slips 3.03% amid yen bond plans for AI capex",
+      "explanation": "Alphabet dropped 3.03% to $388.64 on 1.2 times average volume as the company filed an 8-K and detailed plans for a Japanese yen bond offering to finance rising artificial intelligence infrastructure spending. The pullback was company-specific, whereas competitors Intel and Nvidia advanced 3.62% and 1.97%, respectively.",
+      "confidence": "medium",
+      "citation_ids": [
+        "ev_GOOGL_20260511_price",
+        "ev_GOOGL_20260511_filing_000119312526216986",
+        "ev_GOOGL_20260511_news4",
+        "ev_GOOGL_20260511_peer_INTC",
+        "ev_GOOGL_20260511_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "pct_change": -3.858,
+      "close": 361.85,
+      "direction": "down",
+      "headline": "Shares slide on $80B equity raise for AI compute",
+      "explanation": "Alphabet fell 3.86% to $361.85 on double its typical trading volume after announcing an $80 billion equity capital raise to fund infrastructure spending. The financing included a $10 billion private placement to Berkshire Hathaway at a reported 6% discount to the prior day's close. The move was company-specific, as its supplier Apple advanced 2.90%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260602_price",
+        "ev_GOOGL_20260602_news0",
+        "ev_GOOGL_20260602_news3",
+        "ev_GOOGL_20260602_news5",
+        "ev_GOOGL_20260602_peer_AAPL"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "pct_change": 3.677,
+      "close": 372.19,
+      "direction": "up",
+      "headline": "Rebound on Texas AI data center and cloud deals",
+      "explanation": "Alphabet shares gained 3.68% to $372.19 on 1.8 times average volume following an announced partnership with Intersect Power for a new Texas data center and energy hub. Market sentiment was additionally boosted by high-profile cloud agreements involving IBM, Pinterest, and Palantir. Competitor Nvidia also rose 1.82%, while supplier Apple gained 0.31%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260604_price",
+        "ev_GOOGL_20260604_news3",
+        "ev_GOOGL_20260604_news4",
+        "ev_GOOGL_20260604_news5",
+        "ev_GOOGL_20260604_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "pct_change": -4.986,
+      "close": 349.68,
+      "direction": "down",
+      "headline": "AI talent departures and capex worry spark 4.99% dip",
+      "explanation": "Alphabet fell 4.99% to $349.68 on 2.1 times average volume after the departure of an AlphaFold co-creator intensified concerns surrounding artificial intelligence talent retention. The exit added to persistent investor nervousness regarding massive capital expenditure outlays. The decline was largely company-specific, as competitor Intel rallied 5.19% on the same day.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260622_price",
+        "ev_GOOGL_20260622_news0",
+        "ev_GOOGL_20260622_news5",
+        "ev_GOOGL_20260622_peer_INTC"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "pct_change": 4.819,
+      "close": 353.65,
+      "direction": "up",
+      "headline": "Stock gains 4.82% upon joining the Dow Jones",
+      "explanation": "Alphabet climbed 4.82% to $353.65 on 1.4 times normal volume as the company officially made its debut in the Dow Jones Industrial Average, replacing Verizon Communications. The benchmark addition drove passive inflows and focused market attention on the stock's valuation. Peer moves were mixed, with competitor Intel rising 2.65% while supplier Apple declined 0.72%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260629_price",
+        "ev_GOOGL_20260629_news1",
+        "ev_GOOGL_20260629_news4",
+        "ev_GOOGL_20260629_peer_AAPL",
+        "ev_GOOGL_20260629_peer_INTC"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "pct_change": -7.133,
+      "close": 317.69,
+      "direction": "down",
+      "headline": "Stock slides 7.13% on $200B capex and cash burn",
+      "explanation": "Alphabet dropped 7.13% to $317.69 on 2.8 times average volume following its second-quarter earnings release and 10-Q filing. Despite 82% growth in its cloud division, investors sold off the stock after management raised 2026 capital spending plans to approximately $200 billion and posted $5.9 billion in quarterly cash burn. Competitors Intel and Nvidia also fell 2.33% and 1.56%, though Alphabet's decline was far more severe.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260723_price",
+        "ev_GOOGL_20260723_filing_000165204426000071",
+        "ev_GOOGL_20260723_news5",
+        "ev_GOOGL_20260723_news6",
+        "ev_GOOGL_20260723_peer_INTC",
+        "ev_GOOGL_20260723_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "pct_change": 6.734,
+      "close": 356.13,
+      "direction": "up",
+      "headline": "Hyperscaler rebound lifts stock 6.73% post-earnings",
+      "explanation": "Alphabet rebounded 6.73% to $356.13 on 1.9 times normal volume after Amazon reported strong cloud growth, easing Wall Street worries about returns on hyperscale infrastructure investments. The recovery recouped losses from Alphabet's earlier post-earnings drop over spending. The move was company-specific compared to supplier Apple, which dropped 7.35%, though competitor Nvidia rose 2.93%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260731_price",
+        "ev_GOOGL_20260731_news0",
+        "ev_GOOGL_20260731_news5",
+        "ev_GOOGL_20260731_peer_AAPL",
+        "ev_GOOGL_20260731_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "pct_change": 4.88,
+      "close": 373.51,
+      "direction": "up",
+      "headline": "Stock rises 4.88% on AI demand review and solar pact",
+      "explanation": "Alphabet advanced 4.88% to close at $373.51 on 1.6 times average volume as optimism carried over regarding revenue generation from massive artificial intelligence infrastructure. Sentiment was further bolstered by Google securing a 15-year solar energy agreement with RWE to power expanding data centers. Competitor Nvidia gained 2.93%, while supplier Apple slipped 1.78%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260803_price",
+        "ev_GOOGL_20260803_news4",
+        "ev_GOOGL_20260803_news6",
+        "ev_GOOGL_20260803_peer_AAPL",
+        "ev_GOOGL_20260803_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "pct_change": -4.03,
+      "close": 362.43,
+      "direction": "down",
+      "headline": "AI leadership shakeup and talent loss spark 4.03% dip",
+      "explanation": "Alphabet dropped 4.03% to $362.43 on 1.9 times average volume following leadership changes across its artificial intelligence divisions, highlighted by the departure of top scientist Jeff Dean and Demis Hassabis stepping away from day-to-day operations. The shakeup intensified concerns over talent stability at Google DeepMind. The drop was company-specific, as competitor Nvidia climbed 3.44% and supplier Apple gained 0.52%.",
+      "confidence": "high",
+      "citation_ids": [
+        "ev_GOOGL_20260805_price",
+        "ev_GOOGL_20260805_news1",
+        "ev_GOOGL_20260805_news2",
+        "ev_GOOGL_20260805_peer_AAPL",
+        "ev_GOOGL_20260805_peer_NVDA"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "pct_change": 3.217,
+      "close": 349.39,
+      "direction": "up",
+      "headline": "Stock gains 3.22% as cloud computing trade diverges",
+      "explanation": "Alphabet rose 3.22% to $349.39 on 1.4 times normal volume as investors differentiated between hyperscale cloud platforms and hardware chipmakers amid discussions around artificial intelligence demand patterns and potential industry pacts. The move was company-specific against semiconductor competitors, with Intel sinking 5.59% and Nvidia declining 3.36%.",
+      "confidence": "medium",
+      "citation_ids": [
+        "ev_GOOGL_20260914_price",
+        "ev_GOOGL_20260914_news3",
+        "ev_GOOGL_20260914_news4",
+        "ev_GOOGL_20260914_peer_INTC",
+        "ev_GOOGL_20260914_peer_NVDA"
+      ]
+    }
+  ],
+  "evidence": {
+    "ev_GOOGL_20260324_price": {
+      "id": "ev_GOOGL_20260324_price",
+      "kind": "price",
+      "title": "GOOGL fell 3.85% on 2026-03-24",
+      "detail": "Closed at $290.44 from $302.06. Volume was 1.5x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-03-24",
+      "numbers": {
+        "pct_change": -3.847,
+        "close": 290.44,
+        "prev_close": 302.06,
+        "volume": 36864300,
+        "volume_vs_30d_avg": 1.49,
+        "move_excluding_sector_pct": 3.82
+      }
+    },
+    "ev_GOOGL_20260324_peer_AAPL": {
+      "id": "ev_GOOGL_20260324_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved +0.06% the same day",
+      "detail": "GOOGL moved -3.85% while AAPL moved +0.06%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-03-24",
+      "numbers": {
+        "peer_pct_change": 0.06,
+        "subject_pct_change": -3.847,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260324_peer_INTC": {
+      "id": "ev_GOOGL_20260324_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +0.11% the same day",
+      "detail": "GOOGL moved -3.85% while INTC moved +0.11%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-03-24",
+      "numbers": {
+        "peer_pct_change": 0.11,
+        "subject_pct_change": -3.847,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260324_peer_NVDA": {
+      "id": "ev_GOOGL_20260324_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -0.25% the same day",
+      "detail": "GOOGL moved -3.85% while NVDA moved -0.25%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-03-24",
+      "numbers": {
+        "peer_pct_change": -0.25,
+        "subject_pct_change": -3.847,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260324_news0": {
+      "id": "ev_GOOGL_20260324_news0",
+      "kind": "news",
+      "title": "Billionaire Google Co-Founder Sergey Brin Drops $51M On Miami Waterfront Mansion \u2014 Joins Tech Titans Flocking To Florida",
+      "detail": "Reported by Yahoo. Google co-founder Sergey Brin has reportedly spent $51 million on a waterfront mansion in Miami Beach, adding to a growing list of tech billionaires snapping up luxury homes in South Florida. The purchase is tied to Brin through a Nevada-based...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0abc239daa95f0ac9e1142aa8ba2311dc3251010161db02bc0a218cb1116e693",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news1": {
+      "id": "ev_GOOGL_20260324_news1",
+      "kind": "news",
+      "title": "1 Brilliant Growth Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $3 Trillion Club",
+      "detail": "Reported by Yahoo. Meta Platforms is overhauling the entire social media experience using artificial intelligence.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ea2a1f2744194777657ddfe4cb7453e4145c89b1e2c65421840b961352f3d976",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news2": {
+      "id": "ev_GOOGL_20260324_news2",
+      "kind": "news",
+      "title": "Alphabet Inc. (GOOG) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "detail": "Reported by Yahoo. Alphabet Inc. (GOOG) closed the most recent trading day at $289.2, moving 3.28% from the previous trading session.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=736d29cd95ec3dd6a65c56d3b09ce4e97a002be906a1106158a029d2b01d1712",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news3": {
+      "id": "ev_GOOGL_20260324_news3",
+      "kind": "news",
+      "title": "Alphabet (GOOGL) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "detail": "Reported by Yahoo. In the closing of the recent trading day, Alphabet (GOOGL) stood at $290.44, denoting a -3.85% move from the preceding trading day.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a4fe76be1faf269ccb08e8851b6536e057c8ab0ca21c768073a9d7bc3837192c",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news4": {
+      "id": "ev_GOOGL_20260324_news4",
+      "kind": "news",
+      "title": "Alphabet\u00a0(GOOGL): Best Wide Moat Stock To Buy For Long-Term Growth?",
+      "detail": "Reported by Yahoo. Alphabet Inc. (NASDAQ:GOOGL) is ranked #2 among the Top 10 Wide Moat Stocks to Buy for Long Term Growth. On March 19, Bloomberg announced that Alphabet Inc. (NASDAQ:GOOGL)\u2019s Google has been accelerating the development of a dedicated Gemini AI app for the Mac computer lineup. As a result of this, the company increases the competition level with [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=6d22b705989560db5767283a9a2aae050f96ced61c501a5e13e869dbf072a8ca",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news5": {
+      "id": "ev_GOOGL_20260324_news5",
+      "kind": "news",
+      "title": "Wells Fargo has a message on Amazon, Meta and Alphabet stocks",
+      "detail": "Reported by Yahoo. Wells Fargo has been bearish on hyperscalers for years. That position just shifted. Oh Sung Kwon, the firm's chief equity strategist, told CNBC on March 23 that the group is starting to look attractive again. \"I think hyperscalers are starting to look a lot more interesting,\" he said. The shift is ...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=72aa40d583a78093f20f1338f28cf33bce091ec1c0d5b64fe0e0f898570accac",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news6": {
+      "id": "ev_GOOGL_20260324_news6",
+      "kind": "news",
+      "title": "Jim Cramer Thinks Alphabet (GOOGL) Can Hit $400 \u2013 Here\u2019s Why",
+      "detail": "Reported by Yahoo. We just covered the Jim Cramer Stock Portfolio: Top 10 Stock Picks. Alphabet Inc. (NASDAQ:GOOGL) ranks #3 (see the Jim Cramer\u2019s top 5 stock picks in 2026 here). Jim Cramer has openly regretted selling Alphabet Inc. (NASDAQ:GOOGL) shares due to AI-related threats and regulatory pressures. Cramer was uncertain whether the company would be able to [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=65ffea5ae77ce77bbf6b7090bacb7ca995def24650accbab02379205f0812ffe",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260324_news7": {
+      "id": "ev_GOOGL_20260324_news7",
+      "kind": "news",
+      "title": "Google Veteran Set to Lead BBC Amid $10 Billion Trump Lawsuit",
+      "detail": "Reported by Yahoo. BBC board reportedly approves Matt Brittin as next director-general during funding review and legal challenges.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=748b6e33524521188ff0c0721fe76af39a3d3c8740e3f1e0900e21531878b2d1",
+      "occurred_on": "2026-03-24",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_price": {
+      "id": "ev_GOOGL_20260430_price",
+      "kind": "price",
+      "title": "GOOGL rose 9.96% on 2026-04-30",
+      "detail": "Closed at $384.80 from $349.94. Volume was 2.9x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-04-30",
+      "numbers": {
+        "pct_change": 9.962,
+        "close": 384.8,
+        "prev_close": 349.94,
+        "volume": 72040000,
+        "volume_vs_30d_avg": 2.91,
+        "move_excluding_sector_pct": 11.45
+      }
+    },
+    "ev_GOOGL_20260430_peer_AAPL": {
+      "id": "ev_GOOGL_20260430_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved +0.44% the same day",
+      "detail": "GOOGL moved +9.96% while AAPL moved +0.44%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-04-30",
+      "numbers": {
+        "peer_pct_change": 0.44,
+        "subject_pct_change": 9.962,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260430_peer_INTC": {
+      "id": "ev_GOOGL_20260430_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -0.28% the same day",
+      "detail": "GOOGL moved +9.96% while INTC moved -0.28%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-04-30",
+      "numbers": {
+        "peer_pct_change": -0.28,
+        "subject_pct_change": 9.962,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260430_peer_NVDA": {
+      "id": "ev_GOOGL_20260430_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -4.63% the same day",
+      "detail": "GOOGL moved +9.96% while NVDA moved -4.63%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-04-30",
+      "numbers": {
+        "peer_pct_change": -4.63,
+        "subject_pct_change": 9.962,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260430_filing_000165204426000048": {
+      "id": "ev_GOOGL_20260430_filing_000165204426000048",
+      "kind": "filing",
+      "title": "10-Q filed 2026-04-30",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/goog-20260331.htm",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_filing_000165204426000043": {
+      "id": "ev_GOOGL_20260430_filing_000165204426000043",
+      "kind": "filing",
+      "title": "8-K filed 2026-04-29",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000043/goog-20260429.htm",
+      "occurred_on": "2026-04-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news0": {
+      "id": "ev_GOOGL_20260430_news0",
+      "kind": "news",
+      "title": "Everyone's Wondering What's Next for Nvidia. This News From Amazon and Alphabet Offers Us an Idea That's Strikingly Clear",
+      "detail": "Reported by Yahoo. A trend has been gaining momentum at Amazon and Alphabet.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5dbaaa55ef25b89c54dfcdfe927f7e97bd64eb6450a17f4ccccb18507a75ef37",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news1": {
+      "id": "ev_GOOGL_20260430_news1",
+      "kind": "news",
+      "title": "Stock Market Today, April 30: Alphabet Surges After Reporting Accelerating Google Cloud Growth",
+      "detail": "Reported by Yahoo. On April 30, 2026, investors weighed Alphabet\u2019s AI-fueled cloud surge against a massive multiyear infrastructure spending ramp.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=766b1535f170344e3a3d57c19d72f4edce9fc6d72469fd16f7100f2b8346b4a3",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news2": {
+      "id": "ev_GOOGL_20260430_news2",
+      "kind": "news",
+      "title": "How US Stock Markets Rewarded Google But Punished Meta After Q1 Earnings",
+      "detail": "Reported by Yahoo. Google Q1 2026 earnings lift Alphabet by $300B in one session while Meta drops $175B on the same AI capex story.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f59227b7403bf24a31da2126e1d9bb356d2855a602606814ed802334e3606a28",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news3": {
+      "id": "ev_GOOGL_20260430_news3",
+      "kind": "news",
+      "title": "Alphabet checks boxes, Meta raises AI worries, says investor",
+      "detail": "Reported by Yahoo. STORY: Meta Platforms raised its 2026 capital expenditure forecast by $10 billion to a range of $125 billion to $145 billion.\"Meta, for example, may actually lose money, so negative free cash flow in the next year or two as they spend more than they're earning,\" said Bailey. \"So I think investors are really kind of struggling with that question today.\"\u00a0Google-parent Alphabet is \"selling their own chips, selling their own microchips, and that is really becoming a big business for them,\" added Bailey, who\u00a0views the company's growing hardware division as a long-term positive.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=efe9bbbea9a8f070bc88d95f30a674256b40abba4281b28271d0a5cb57f0c76b",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news4": {
+      "id": "ev_GOOGL_20260430_news4",
+      "kind": "news",
+      "title": "Alphabet\u2019s Quarter Didn\u2019t Just Impress, It May Be the Catalyst That Pushes the Stock to Lead the Mag 7 Higher",
+      "detail": "Reported by Yahoo. Alphabet (NASDAQ:GOOGL) has cracked into a momentum regime that looks structurally difficult to derail, with shares pushing to $385 by the close on Thursday after the company delivered the kind of earnings beat that resets investor expectations for an entire year. The stock is up 34% over the past month and more than 142% over ... Alphabet\u2019s Quarter Didn\u2019t Just Impress, It May Be the Catalyst That Pushes the Stock to Lead the Mag 7 Higher",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5d96121e5dbeef9953b7c1a4896f009908632d6a90496ece36f5234cbbdabf78",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news5": {
+      "id": "ev_GOOGL_20260430_news5",
+      "kind": "news",
+      "title": "Google Stock Soars On Q1 Earnings As Analysts Trumpet 'Full Stack' AI Platform",
+      "detail": "Reported by Yahoo. Google stock rose as parent Alphabet\u2019s Q1 earnings showed strong growth in cloud computing and search ads amid huge AI investments.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c21e411c943c2b548cf025fb92a1f5c3ef8432d696f36bc9f016e402e59da56a",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news6": {
+      "id": "ev_GOOGL_20260430_news6",
+      "kind": "news",
+      "title": "Canaccord Genuity Maintains Buy on Alphabet, Raises Price Target to $450",
+      "detail": "Reported by Benzinga. Canaccord Genuity  analyst Maria Ripps   maintains Alphabet (NASDAQ:GOOGL) with a Buy and raises the price target from $415 to $450.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3840c044513a9c001abb9f59cca6d8a0ed84cde8664174d2f7928c64f28208e1",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260430_news7": {
+      "id": "ev_GOOGL_20260430_news7",
+      "kind": "news",
+      "title": "\"Magnificent Seven\" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers",
+      "detail": "Reported by Yahoo. The market is reacting very differently to all four of these earnings reports.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=7a3e6cbee473d089ba9343de9c16647bf75406f9a0c5fe03ab400e8066c8b473",
+      "occurred_on": "2026-04-30",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_price": {
+      "id": "ev_GOOGL_20260511_price",
+      "kind": "price",
+      "title": "GOOGL fell 3.03% on 2026-05-11",
+      "detail": "Closed at $388.64 from $400.80. Volume was 1.2x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-05-11",
+      "numbers": {
+        "pct_change": -3.034,
+        "close": 388.64,
+        "prev_close": 400.8,
+        "volume": 30753700,
+        "volume_vs_30d_avg": 1.24,
+        "move_excluding_sector_pct": 4.82
+      }
+    },
+    "ev_GOOGL_20260511_peer_AAPL": {
+      "id": "ev_GOOGL_20260511_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved -0.22% the same day",
+      "detail": "GOOGL moved -3.03% while AAPL moved -0.22%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-05-11",
+      "numbers": {
+        "peer_pct_change": -0.22,
+        "subject_pct_change": -3.034,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260511_peer_INTC": {
+      "id": "ev_GOOGL_20260511_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +3.62% the same day",
+      "detail": "GOOGL moved -3.03% while INTC moved +3.62%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-05-11",
+      "numbers": {
+        "peer_pct_change": 3.62,
+        "subject_pct_change": -3.034,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260511_peer_NVDA": {
+      "id": "ev_GOOGL_20260511_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +1.97% the same day",
+      "detail": "GOOGL moved -3.03% while NVDA moved +1.97%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-05-11",
+      "numbers": {
+        "peer_pct_change": 1.97,
+        "subject_pct_change": -3.034,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260511_filing_000119312526216986": {
+      "id": "ev_GOOGL_20260511_filing_000119312526216986",
+      "kind": "filing",
+      "title": "8-K filed 2026-05-11",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526216986/d109021d8k.htm",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news0": {
+      "id": "ev_GOOGL_20260511_news0",
+      "kind": "news",
+      "title": "Google Says Threat Actor Used AI-Developed Zero-Day Exploit for First Time",
+      "detail": "Reported by Yahoo. The Google (GOOG) Threat Intelligence Group said on Monday it identified its first known instance of",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4a6d14c50053bd42e8916dd1a02e74b6be5acb1b282679e77a557dbdd3985662",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news1": {
+      "id": "ev_GOOGL_20260511_news1",
+      "kind": "news",
+      "title": "Alphabet Is on the Brink of Beating NVIDIA in Market Value: ETFs to Buy",
+      "detail": "Reported by Yahoo. GOOGL briefly surpasses NVIDIA in market value following strong earnings and AI momentum, boosting ETFs with significant Alphabet exposure.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=29c7d1dd5f41abeba1488202617fe3a5d5baeb0ac55539c8b4b350643fbb4003",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news2": {
+      "id": "ev_GOOGL_20260511_news2",
+      "kind": "news",
+      "title": "Alphabet Is Issuing Bonds in Yen. Why Not?",
+      "detail": "Reported by Yahoo. After going through the dollar, sterling, euros and Canadian dollars, the next on the currency rolodex is Yen.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=21b31bae94c31682252f7e39f7ecd5b24da1e5bf20c886cabbfd7bc36b56f85b",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news3": {
+      "id": "ev_GOOGL_20260511_news3",
+      "kind": "news",
+      "title": "Google deepens focus on India's AI infrastructure boom",
+      "detail": "Reported by Yahoo. Company eyes servers drones and infrastructure investments",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=75f484fbe0325be260c0186dd8192b0081dd97b53f0329c62b52ed31b7c15589",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news4": {
+      "id": "ev_GOOGL_20260511_news4",
+      "kind": "news",
+      "title": "Alphabet Taps Yen Bond Market To Support Expanding AI Infrastructure Spending",
+      "detail": "Reported by Yahoo. Alphabet, ticker NasdaqGS:GOOGL, is preparing its first Japanese yen bond offering to support rising AI infrastructure spending. The planned yen deal follows earlier euro and Canadian dollar bond issuances that were also aimed at funding AI related projects. This move broadens Alphabet's funding base in Asia and introduces a new currency source for its AI capital needs. For investors tracking Alphabet at a share price of $400.8, this funding step sits alongside very strong recent returns,...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4c243d87a24a1df23c535546682d70b63d58663a696332c3e483af53e6e501ac",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news5": {
+      "id": "ev_GOOGL_20260511_news5",
+      "kind": "news",
+      "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+      "detail": "Reported by CNBC. Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f317fd50832f28dd2a9a711970939d0a2c99506100ac362870974adb86e1afc1",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news6": {
+      "id": "ev_GOOGL_20260511_news6",
+      "kind": "news",
+      "title": "Was Cathie Wood Right About Alphabet (GOOGL)?",
+      "detail": "Reported by Yahoo. We just covered Cathie Wood\u2019s 11 Biggest AI and Data Center Stock Picks. Alphabet Inc. (NASDAQ:GOOGL) ranks #10 (see Cathie Wood\u2019s 5 Biggest AI and Data Center Stock Picks). Cathie Wood\u2019s Stake: $171,300,778 What was once seen as a stock that could be disrupted by AI (threats to search) is now soaring because Alphabet Inc. (NASDAQ:GOOGL) successfully [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=702afc9b6412fc18598869a0161aaabf7aa727e71893f429e252ab84c892ed3a",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260511_news7": {
+      "id": "ev_GOOGL_20260511_news7",
+      "kind": "news",
+      "title": "Alphabet Could Pass Nvidia As World\u2019s Most Valuable Company",
+      "detail": "Reported by Yahoo. NVIDIA (NASDAQ: NVDA) could lose its crown as the world\u2019s most valuable company. Alphabet\u2019s (NASDAQ: GOOG) market cap sits at over $4.8 trillion. NVIDIA\u2019s is $5.2 trillion trillion. However, Nvidia\u2019s market cap is up 16% this year. Alphabet\u2019s is up 26%. And, Nvidia\u2019s stock has jumped around recently, with a sell-off in early May. What ... Alphabet Could Pass Nvidia As World\u2019s Most Valuable Company",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=bf9682598ba8932aab985f957c4efe20e31cd8916aa1f19858235598c324c3d7",
+      "occurred_on": "2026-05-11",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_price": {
+      "id": "ev_GOOGL_20260602_price",
+      "kind": "price",
+      "title": "GOOGL fell 3.86% on 2026-06-02",
+      "detail": "Closed at $361.85 from $376.37. Volume was 2.0x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-02",
+      "numbers": {
+        "pct_change": -3.858,
+        "close": 361.85,
+        "prev_close": 376.37,
+        "volume": 50412300,
+        "volume_vs_30d_avg": 2.03,
+        "move_excluding_sector_pct": 4.17
+      }
+    },
+    "ev_GOOGL_20260602_peer_AAPL": {
+      "id": "ev_GOOGL_20260602_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved +2.90% the same day",
+      "detail": "GOOGL moved -3.86% while AAPL moved +2.90%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-02",
+      "numbers": {
+        "peer_pct_change": 2.9,
+        "subject_pct_change": -3.858,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260602_peer_INTC": {
+      "id": "ev_GOOGL_20260602_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -1.28% the same day",
+      "detail": "GOOGL moved -3.86% while INTC moved -1.28%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-02",
+      "numbers": {
+        "peer_pct_change": -1.28,
+        "subject_pct_change": -3.858,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260602_peer_NVDA": {
+      "id": "ev_GOOGL_20260602_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -0.69% the same day",
+      "detail": "GOOGL moved -3.86% while NVDA moved -0.69%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-06-02",
+      "numbers": {
+        "peer_pct_change": -0.69,
+        "subject_pct_change": -3.858,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260602_news0": {
+      "id": "ev_GOOGL_20260602_news0",
+      "kind": "news",
+      "title": "Google plans $80 billion equity raise for AI compute, Berkshire Hathaway to invest $10 billion: Video Explainer",
+      "detail": "Reported by Yahoo. Alphabet announced an $80 billion equity capital raise to fund AI infrastructure spending, with Berkshire Hathaway committing $10 billion through a private placement split across Class A and Class C\u2026",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=55b0fb70351481b54f8193a7123abdda4364930492d9688e79b7bc08d5e2159f",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news1": {
+      "id": "ev_GOOGL_20260602_news1",
+      "kind": "news",
+      "title": "Dow Jones Futures Fall, Palo Alto Reverses Lower On Earnings; Google Tests Support",
+      "detail": "Reported by Yahoo. The stock market hit new highs, extending a win streak. AI and metals led while Google tested support. Palo Alto earnings beat late.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=947e805a488c66368028f27c07f0dcc5754d334b80cddac0a25e498add47f08b",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news2": {
+      "id": "ev_GOOGL_20260602_news2",
+      "kind": "news",
+      "title": "Dow Jones Futures: These Sectors Lead Market, Google Tests Support; Palo Alto Rises Late On Earnings",
+      "detail": "Reported by Yahoo. The stock market hit new highs amid a win streak. AI and metals led while Google tested support. Palo Alto rose late on earnings.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=dca5ff6916afbaeee1b969dd63b50018e0bf1dd85c5bf136f13b1b99370035e4",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news3": {
+      "id": "ev_GOOGL_20260602_news3",
+      "kind": "news",
+      "title": "Google Mystery: Why Tap Equity Instead Of Adding Debt To Fund AI?",
+      "detail": "Reported by Yahoo. Google stock fell after Alphabet announced equity offerings totaling $80 billion in a capital rise amid higher spending on AI data centers.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d16c50193d6b85f46cfb0e30ae2efaa861fd1c5c98073c0fa3c64bf3a2912313",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news4": {
+      "id": "ev_GOOGL_20260602_news4",
+      "kind": "news",
+      "title": "Broadcom Stock Closes at a Record. It\u2019s Getting a Double Boost From Google and Marvell.",
+      "detail": "Reported by Yahoo. Broadcom  closed at a record on Tuesday after news from two of the biggest names in tech gave its shares a boost.  Broadcom stock finished the session up 4.7% at $481.57 \u2014 an all-time closing high, according to Dow Jones Market Data.  Shares of the Broadcom have rallied for the past four trading sessions, gaining 14%.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=cef8a3a9df387e6bfff7a246db10f897da0c9ae8a28d0929e2362ef91fa5f6ff",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news5": {
+      "id": "ev_GOOGL_20260602_news5",
+      "kind": "news",
+      "title": "Berkshire Hathaway Got a Sweet Deal on Alphabet Stock",
+      "detail": "Reported by Yahoo. Alphabet, Google\u2019s parent, gave Berkshire a 6% discount off its Monday closing stock price. It isn\u2019t that unusual\u2014for very good reasons.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0c3ae1d90808cb7721698beb886f3e8a405410c15c868cf4fdecbb054fbc9222",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news6": {
+      "id": "ev_GOOGL_20260602_news6",
+      "kind": "news",
+      "title": "Bad News for Alphabet Stock Is Good News for Copper Investors",
+      "detail": "Reported by Yahoo. Copper soared while  Alphabet  stock sank; both things were related.  The Google parent\u2019s stock sank because of an $80 billion equity raise that included preferred stock and  Berkshire Hathaway  No one saw it coming, part of the reason for the reaction.  Alphabet needs the money to spend even more on AI and meet what it calls \u201cunprecedented customer demand.\u201d",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=721f73e9bd0f4a17888a693e051badf9a0e9d095ca37db24605eaeae709720df",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260602_news7": {
+      "id": "ev_GOOGL_20260602_news7",
+      "kind": "news",
+      "title": "Buy, Hold, or Sell: Why Alphabet Remains the Ultimate High-Margin Cash Cow Hidden in Plain Sight",
+      "detail": "Reported by Yahoo. Alphabet (NASDAQ:GOOGL) at $376.37 looks attractively priced. After a 119.91% one-year run, the market is still mispricing the highest-margin compounder among the Magnificent Seven. Alphabet runs the dominant global search engine, the second-largest digital ad network through YouTube, the third-place hyperscale cloud, and a leading autonomous driving business in Waymo. The Q1 FY26 report cemented ... Buy, Hold, or Sell: Why Alphabet Remains the Ultimate High-Margin Cash Cow Hidden in Plain Sight",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=755144e1eb7a3017e65dfa6254de43f824e12e740e1a3ecfe3f6a44757b85008",
+      "occurred_on": "2026-06-02",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_price": {
+      "id": "ev_GOOGL_20260604_price",
+      "kind": "price",
+      "title": "GOOGL rose 3.68% on 2026-06-04",
+      "detail": "Closed at $372.19 from $358.99. Volume was 1.8x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-04",
+      "numbers": {
+        "pct_change": 3.677,
+        "close": 372.19,
+        "prev_close": 358.99,
+        "volume": 44055500,
+        "volume_vs_30d_avg": 1.78,
+        "move_excluding_sector_pct": 3.24
+      }
+    },
+    "ev_GOOGL_20260604_peer_AAPL": {
+      "id": "ev_GOOGL_20260604_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved +0.31% the same day",
+      "detail": "GOOGL moved +3.68% while AAPL moved +0.31%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-04",
+      "numbers": {
+        "peer_pct_change": 0.31,
+        "subject_pct_change": 3.677,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260604_peer_INTC": {
+      "id": "ev_GOOGL_20260604_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -0.82% the same day",
+      "detail": "GOOGL moved +3.68% while INTC moved -0.82%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-04",
+      "numbers": {
+        "peer_pct_change": -0.82,
+        "subject_pct_change": 3.677,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260604_peer_NVDA": {
+      "id": "ev_GOOGL_20260604_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +1.82% the same day",
+      "detail": "GOOGL moved +3.68% while NVDA moved +1.82%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-06-04",
+      "numbers": {
+        "peer_pct_change": 1.82,
+        "subject_pct_change": 3.677,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260604_filing_000119312526257724": {
+      "id": "ev_GOOGL_20260604_filing_000119312526257724",
+      "kind": "filing",
+      "title": "8-K filed 2026-06-04",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526257724/d83560d8k.htm",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news0": {
+      "id": "ev_GOOGL_20260604_news0",
+      "kind": "news",
+      "title": "Alphabet Will Soon Be Berkshire Hathaway's Fourth-Biggest Holding. I've Got a Problem With How and Why.",
+      "detail": "Reported by Yahoo. The sheer size of the position isn't an issue. It's the \"how\" and \"why\" behind the conglomerate's expansion of its stake in Google's parent company that's the problem.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=523e1acfb2f9f31d2a9dd2c6536fc6c850522e05822f189480f9036274d14373",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news1": {
+      "id": "ev_GOOGL_20260604_news1",
+      "kind": "news",
+      "title": "New U.K. rules for how Google AI treats publishers hailed as model for Canada",
+      "detail": "Reported by Yahoo. By giving publishers right to opt out, U.K. 'has shown the world the way,' media industry group says",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=db2260fd664ffffec1464273d75ca4c6390e8cd5bdb9d842e0aa6cb27e9183f0",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news2": {
+      "id": "ev_GOOGL_20260604_news2",
+      "kind": "news",
+      "title": "Google Stock Was Bought by Investors as Different as Cathie Wood\u2019s ARK and Berkshire Hathaway",
+      "detail": "Reported by Yahoo. Cathie Wood and Warren Buffett couldn\u2019t be more different when it comes to investing styles.  Wood\u2019s ARK Invest is known for betting on disruptive tech like AI and robo-taxis, while Buffett spent his 55 years as  Berkshire Hathaway  CEO buying old-fashioned, reliable companies at fair prices.  Google parent Alphabet appears to be the rare stock that fits both strategies.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5b195afa621d56eacd062c3333a8ba271b2e0d4435f7e8b62efa1c064df1acc8",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news3": {
+      "id": "ev_GOOGL_20260604_news3",
+      "kind": "news",
+      "title": "Palantir Stock Dips Amid Google Cloud Deal, AIPCon 10 Announcements",
+      "detail": "Reported by Yahoo. Palantir stock dipped amid news at AIPcon 10, including a marketing partnership with Google's cloud computing business.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9c4bb3cb14148b90854ec4024d97bd2912385f504f3a47b47ae03f0ec01d2fb5",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news4": {
+      "id": "ev_GOOGL_20260604_news4",
+      "kind": "news",
+      "title": "GOOG Stock Climbs Nearly 4% \u2014 Google Expands Texas Footprint With New Data Center, Energy Hub",
+      "detail": "Reported by Yahoo. Google and Intersect Power are partnering on a new Texas data center and energy hub designed to support growing demand for AI, cloud computing and digital services.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=44076f78110683a7139e7d4ef6c056e07ba3e8847ff07dd6603348f7d0f6c799",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news5": {
+      "id": "ev_GOOGL_20260604_news5",
+      "kind": "news",
+      "title": "Pinterest and IBM Just Struck Massive AI Deals. Amazon and Google Are the Big Winners.",
+      "detail": "Reported by Yahoo. Amazon stock and Alphabet were gaining on Thursday as they announced AI deals, shrugging off concerns about the technology sector.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ab6468fd3641dc445c0a2cdc94a009fe64d830e3c6dcb715bfcbad4df26bbcd1",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news6": {
+      "id": "ev_GOOGL_20260604_news6",
+      "kind": "news",
+      "title": "World\u2019s largest sovereign wealth fund backs push for Google oversight on government use of its AI and cloud technology",
+      "detail": "Reported by Yahoo. A coalition of investors managing $1.15 trillion is pressing Alphabet to explain how it monitors government use of its cloud and AI services.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=244e88663673c10bbd205e7df24c2a4c02c89ffd435583eed2feeb81ad9a9a8f",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260604_news7": {
+      "id": "ev_GOOGL_20260604_news7",
+      "kind": "news",
+      "title": "Cathie Wood Makes a Major Move Into Alphabet",
+      "detail": "Reported by Yahoo. Cathie Wood Adds Exposure Across 4 Major ETFs",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=b57b3f96a283722b3ff1d60afa3893b5cf1c4173b41788511fb53bdc49cfc8e5",
+      "occurred_on": "2026-06-04",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_price": {
+      "id": "ev_GOOGL_20260622_price",
+      "kind": "price",
+      "title": "GOOGL fell 4.99% on 2026-06-22",
+      "detail": "Closed at $349.68 from $368.03. Volume was 2.1x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-22",
+      "numbers": {
+        "pct_change": -4.986,
+        "close": 349.68,
+        "prev_close": 368.03,
+        "volume": 52814800,
+        "volume_vs_30d_avg": 2.13,
+        "move_excluding_sector_pct": 6.28
+      }
+    },
+    "ev_GOOGL_20260622_peer_AAPL": {
+      "id": "ev_GOOGL_20260622_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved -0.34% the same day",
+      "detail": "GOOGL moved -4.99% while AAPL moved -0.34%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-22",
+      "numbers": {
+        "peer_pct_change": -0.34,
+        "subject_pct_change": -4.986,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260622_peer_INTC": {
+      "id": "ev_GOOGL_20260622_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +5.19% the same day",
+      "detail": "GOOGL moved -4.99% while INTC moved +5.19%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-22",
+      "numbers": {
+        "peer_pct_change": 5.19,
+        "subject_pct_change": -4.986,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260622_peer_NVDA": {
+      "id": "ev_GOOGL_20260622_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -0.97% the same day",
+      "detail": "GOOGL moved -4.99% while NVDA moved -0.97%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-06-22",
+      "numbers": {
+        "peer_pct_change": -0.97,
+        "subject_pct_change": -4.986,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260622_news0": {
+      "id": "ev_GOOGL_20260622_news0",
+      "kind": "news",
+      "title": "Why Alphabet (GOOGL) Shares Are Getting Obliterated Today",
+      "detail": "Reported by Yahoo. Shares of online advertising giant Alphabet (NASDAQ:GOOGL) fell 5.5% in the afternoon session after a confluence of high-profile AI talent departures, mounting legal and regulatory pressure, and investor anxiety over the scale of its AI spending weighed on sentiment.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=152b6fdc08298058dc52baaf6529a04e32d23e593457ee90c9ae661e092cbf4e",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news1": {
+      "id": "ev_GOOGL_20260622_news1",
+      "kind": "news",
+      "title": "Alphabet (GOOGL) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "detail": "Reported by Yahoo. The latest trading day saw Alphabet (GOOGL) settling at $349.56, representing a -5.02% change from its previous close.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=199812eff218326ca367a5448cac3a049e373afdcbbad434fda0e9a91dc1256b",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news2": {
+      "id": "ev_GOOGL_20260622_news2",
+      "kind": "news",
+      "title": "Here's Why Alphabet Inc. (GOOG) Fell More Than Broader Market",
+      "detail": "Reported by Yahoo. In the closing of the recent trading day, Alphabet Inc. (GOOG) stood at $348.71, denoting a -5.1% move from the preceding trading day.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f7a28383d6fde7dbe90fa374e4f761c134646cb4315f21e2ec0fd44e4c8cb9e6",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news3": {
+      "id": "ev_GOOGL_20260622_news3",
+      "kind": "news",
+      "title": "Google's $75M stake in A24 follows a 50% funding increase in AI content creation startups",
+      "detail": "Reported by Yahoo. A24, the independent entertainment studio powerhouse behind the recent hit \u201cBackrooms,\u201d is partnering with Google\u2019s DeepMind division to develop AI-powered tech for filmmakers. The deal, according to The Wall Street Journal, also includes a $75 million investment from Google in A24. Unlike recent tie-ups between Silicon Valley and Hollywood, which have seen studios invest in tech companies, this time it\u2019s a tech company paying for a stake in a studio. It also comes on the heels of a huge spike i",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=82e331903739c156b28650caae32be74467cd80ddc6a7365691964a8476f7cc6",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news4": {
+      "id": "ev_GOOGL_20260622_news4",
+      "kind": "news",
+      "title": "S&P 500, Nasdaq Drop As SpaceX, Broader Tech Weakness Outweighs US-Iran Hopes \u2014 SPCX, GOOGL, NFLX, COIN, MU In Focus",
+      "detail": "Reported by Yahoo. SpaceX shares tanked 16% to their lowest level since listing, marking its third straight daily decline.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3360ce9880fbfeb2d49c1db2296e0b03d00f3f9dfc9926f375ede9459af46458",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news5": {
+      "id": "ev_GOOGL_20260622_news5",
+      "kind": "news",
+      "title": "Stock Market Today, June 22: Alphabet Falls as AlphaFold Co-Creator\u2019s Exit Raises AI Talent Concerns",
+      "detail": "Reported by Yahoo. Alphabet has the scale to fund AI, with investors looking for Gemini, Google Cloud, and Search to turn that spending into measurable growth as talent concerns intensify.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a58e0bc5a0edf8f1fafc62c555dcf1f814d9af658d8e6b8edc73f8d403589ddc",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news6": {
+      "id": "ev_GOOGL_20260622_news6",
+      "kind": "news",
+      "title": "Stock Market Today, June 22: Alphabet Slips on Key Departure and Defensive Blue Chips Gain",
+      "detail": "Reported by Yahoo. On June 22, 2026, investors rotated into blue chips as easing oil prices and diplomatic progress shaped market sentiment, today.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=be57388daf95d110b3b69409c3d4164c362c3d00d89baaafe500c8936bb5968b",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260622_news7": {
+      "id": "ev_GOOGL_20260622_news7",
+      "kind": "news",
+      "title": "Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",
+      "detail": "Reported by Yahoo. Dow Jones Futures: The tech-heavy Nasdaq composite sold off Monday as SpaceX stock plunged. Amazon, Alphabet and Nvidia logged heavy losses.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1ed29dddf604cdae46d801701ecd45101459d1bb7f8061d058b2a14dd327f982",
+      "occurred_on": "2026-06-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_price": {
+      "id": "ev_GOOGL_20260629_price",
+      "kind": "price",
+      "title": "GOOGL rose 4.82% on 2026-06-29",
+      "detail": "Closed at $353.65 from $337.39. Volume was 1.4x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-06-29",
+      "numbers": {
+        "pct_change": 4.819,
+        "close": 353.65,
+        "prev_close": 337.39,
+        "volume": 34213900,
+        "volume_vs_30d_avg": 1.38,
+        "move_excluding_sector_pct": 3.75
+      }
+    },
+    "ev_GOOGL_20260629_peer_AAPL": {
+      "id": "ev_GOOGL_20260629_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved -0.72% the same day",
+      "detail": "GOOGL moved +4.82% while AAPL moved -0.72%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-06-29",
+      "numbers": {
+        "peer_pct_change": -0.72,
+        "subject_pct_change": 4.819,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260629_peer_INTC": {
+      "id": "ev_GOOGL_20260629_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +2.65% the same day",
+      "detail": "GOOGL moved +4.82% while INTC moved +2.65%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-06-29",
+      "numbers": {
+        "peer_pct_change": 2.65,
+        "subject_pct_change": 4.819,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260629_peer_NVDA": {
+      "id": "ev_GOOGL_20260629_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +1.27% the same day",
+      "detail": "GOOGL moved +4.82% while NVDA moved +1.27%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-06-29",
+      "numbers": {
+        "peer_pct_change": 1.27,
+        "subject_pct_change": 4.819,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260629_news0": {
+      "id": "ev_GOOGL_20260629_news0",
+      "kind": "news",
+      "title": "Google's Dow Entry May Have Captured Headlines, But The Real Story Is Samsung And SK Hynix's 'Capex Builout,' Says Gene Munster",
+      "detail": "Reported by Benzinga. Gene Munster says Samsung and SK Hynix&#39;s $590B chip push shows the AI buildout is still in its early stages.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f11cd728ce74212917098ebcde45d2b0e4fef9b2f1570e6959888c3bf3a272f4",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news1": {
+      "id": "ev_GOOGL_20260629_news1",
+      "kind": "news",
+      "title": "Dow Addition And $85 Billion AI Bet Could Be A Game Changer For Alphabet (GOOGL)",
+      "detail": "Reported by Yahoo. Alphabet recently joined the Dow Jones Industrial Average, replacing Verizon and expanding the index\u2019s exposure to digital advertising, cloud computing, and artificial intelligence through its diversified businesses. This elevation into the blue-chip benchmark has sharpened attention on Alphabet\u2019s heavy AI and cloud investments, including its very large recent US$85.00 billion capital raise to fund data center and compute capacity. We\u2019ll now examine how Alphabet\u2019s entry into the Dow,...",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2e9501c03373dffd8120ca140cdc63e065c0818730647ac5cd7d1210c87e9bc8",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news2": {
+      "id": "ev_GOOGL_20260629_news2",
+      "kind": "news",
+      "title": "S&P 500, Nasdaq End Higher To Record Best Quarter Since 2020, While Alphabet Debut Drives Dow \u2014 VZ, CMCSA, RKLB, SMCI, BATL, GOOGL In Focus",
+      "detail": "Reported by Yahoo. Google parent, Alphabet, made its debut in the Dow Jones Industrial Average.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=979d70dbb69960fd2a6c3176cbba491ebd55794409137ee6626dd46ce0040944",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news3": {
+      "id": "ev_GOOGL_20260629_news3",
+      "kind": "news",
+      "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+      "detail": "Reported by Yahoo. Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=698a01031674f573b57bd4317491cb0978092b9651775a7844d7770b5d931b04",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news4": {
+      "id": "ev_GOOGL_20260629_news4",
+      "kind": "news",
+      "title": "Alphabet shares 'a good value play', analyst says",
+      "detail": "Reported by Yahoo. STORY: \"A lot of people are kind of worried about their spending habits\" regarding AI, Lang said, \"but I think today is a good day. On June 29th, I think the stock is turning around here.\"Alphabet shares climbed on Monday as the Google parent made its debut in the blue-chip Dow Jones Industrial Average, replacing Verizon Communications, and immediately ranking among its most influential members.\"And look, I mean, they came in with really strong earnings the last couple of quarters in April and in January,\" Lang noted. \"And I don't think that that's going to reverse to the downside. And I think",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2761d8f7f52cd4dc725837489abc200d90376fa3fe3d9137c737d8ff7bc2ef8e",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news5": {
+      "id": "ev_GOOGL_20260629_news5",
+      "kind": "news",
+      "title": "Alphabet Stock Investors: Here's the Most Important Metric to Follow",
+      "detail": "Reported by Yahoo. Revenue and profit figures get the attention, but investors need to look beneath the surface.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=ae8f8e4d9eb1d4e115fe86b22fe7b681fe8fb95e25ff6ced2c26f872748d312a",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news6": {
+      "id": "ev_GOOGL_20260629_news6",
+      "kind": "news",
+      "title": "Alphabet joins the Dow, Verizon-BT deal, Comcast plans split into 2 companies",
+      "detail": "Reported by Yahoo. Market Domination Host Josh Lipton tracks several of the day's top trending stock tickers, including Alphabet (GOOG, GOOGL) joining the Dow Jones Industrial Average (^DJI). while Verizon (VZ) exits the Down and announces a new deal with BT Group, and Comcast (CMCSA) planning a split into two public companies.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a8d056f944a8e9d3d07cf54d9a3629e6a5fc00bcccfa855ec98a369eb4178cac",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260629_news7": {
+      "id": "ev_GOOGL_20260629_news7",
+      "kind": "news",
+      "title": "Google Expands AI Push With SandboxAQ Models After $500 Million CHIPS Award",
+      "detail": "Reported by Yahoo. Google Cloud adds SandboxAQ's scientific AI models for drug discovery, materials science and semiconductor research.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c3252da8f28b0ee0aec0a97438a8f16cce49f2a77cbbb11cc5959ccf4d942710",
+      "occurred_on": "2026-06-29",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_price": {
+      "id": "ev_GOOGL_20260723_price",
+      "kind": "price",
+      "title": "GOOGL fell 7.13% on 2026-07-23",
+      "detail": "Closed at $317.69 from $342.09. Volume was 2.8x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "pct_change": -7.133,
+        "close": 317.69,
+        "prev_close": 342.09,
+        "volume": 69419700,
+        "volume_vs_30d_avg": 2.8,
+        "move_excluding_sector_pct": 5.41
+      }
+    },
+    "ev_GOOGL_20260723_peer_AAPL": {
+      "id": "ev_GOOGL_20260723_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved -1.30% the same day",
+      "detail": "GOOGL moved -7.13% while AAPL moved -1.30%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "peer_pct_change": -1.3,
+        "subject_pct_change": -7.133,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260723_peer_INTC": {
+      "id": "ev_GOOGL_20260723_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -2.33% the same day",
+      "detail": "GOOGL moved -7.13% while INTC moved -2.33%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "peer_pct_change": -2.33,
+        "subject_pct_change": -7.133,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260723_peer_NVDA": {
+      "id": "ev_GOOGL_20260723_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -1.56% the same day",
+      "detail": "GOOGL moved -7.13% while NVDA moved -1.56%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "peer_pct_change": -1.56,
+        "subject_pct_change": -7.133,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260723_filing_000165204426000071": {
+      "id": "ev_GOOGL_20260723_filing_000165204426000071",
+      "kind": "filing",
+      "title": "10-Q filed 2026-07-23",
+      "detail": "10-Q",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_filing_000165204426000066": {
+      "id": "ev_GOOGL_20260723_filing_000165204426000066",
+      "kind": "filing",
+      "title": "8-K filed 2026-07-22",
+      "detail": "8-K",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/goog-20260722.htm",
+      "occurred_on": "2026-07-22",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news0": {
+      "id": "ev_GOOGL_20260723_news0",
+      "kind": "news",
+      "title": "Two Mag-7 Giants Hold Stakes In SPCX As Alphabet Discloses $94B Position",
+      "detail": "Reported by Yahoo. Alphabet\u2019s investment implies about 6% stake in SpaceX.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8e36143a98f4b2b2bce02c1786cf797dd3a34f2ab6bf6fb186a16347eb26d6f0",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news1": {
+      "id": "ev_GOOGL_20260723_news1",
+      "kind": "news",
+      "title": "CapEx Fears Eclipse Alphabet\u2019s Strong Q2, but GOOGL Stock Still Looks Attractive",
+      "detail": "Reported by Yahoo. While GOOGL stock could remain volatile as investors digest elevated spending, Alphabet remains well positioned to benefit from the accelerating AI investment cycle.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=23e05a2a3d62e43f44f46544e4f925905b58cecac011c201f069db754a73a8a3",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news2": {
+      "id": "ev_GOOGL_20260723_news2",
+      "kind": "news",
+      "title": "S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil \u2014 CBRS, AMD, GOOGL, TSLA, MSTR In Focus",
+      "detail": "Reported by Yahoo. Brent crude topped $100 a barrel, stoking inflation fears and driving Treasury yields to their highest levels of the year.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=dca4877e50b3fe61544b445014ea030d73653ec94c73bf3ab00442498422b510",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news3": {
+      "id": "ev_GOOGL_20260723_news3",
+      "kind": "news",
+      "title": "Alphabet Just Revealed Its Big Stake in SpaceX",
+      "detail": "Reported by Yahoo. Google parent company Alphabet said it had roughly $94.1 billion worth of SpaceX stock.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=a3e9de048c7049be311ff231e2300370900224006d39dbb47e5e75fad2626bc1",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news4": {
+      "id": "ev_GOOGL_20260723_news4",
+      "kind": "news",
+      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late, SpaceX Starship Launch Due",
+      "detail": "Reported by Yahoo. The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fb4a1bd1f3e072377af6aaa2e870cbfecc069fce83d850ca1058604a8d962b90",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news5": {
+      "id": "ev_GOOGL_20260723_news5",
+      "kind": "news",
+      "title": "Stock Market Today, July 23: Alphabet Slides 7% After Announcing 2026 Capex of Roughly $200 Billion",
+      "detail": "Reported by Yahoo. Today, July 23, 2026, investors punished the search giant after it raised capital spending forecasts again, signaling aggressive AI investment ahead.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0570e64fc9660620b74a99c0f2e7e2f654f2f34c09edde00a4e42a4c1bf18a60",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news6": {
+      "id": "ev_GOOGL_20260723_news6",
+      "kind": "news",
+      "title": "Alphabet's spending prompts investor payoff questions, expert says",
+      "detail": "Reported by Yahoo. STORY: Alphabet's first cash burn on record has jolted investors awaiting more Big Tech results next week as soaring AI spending strains one of the world's most profitable companies, and the pain is only expected to increase.The Google parent burned $5.9 billion in the second quarter, even as the cloud unit that rents out AI computing power notched a record 82% growth. With Alphabet now expected to spend $15 billion more in 2026 and predicting another increase next year, the outlays behind the cash burn will only rise.\"The question surrounding Alphabet has been, just how does the investor get",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=4178bf4aa7cbfbdbe1477d67e4f0c0e3e076a3ce0e3f19b30f5fd9b286997eb4",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260723_news7": {
+      "id": "ev_GOOGL_20260723_news7",
+      "kind": "news",
+      "title": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron",
+      "detail": "Reported by Yahoo. The picture emerging from Q2 earnings is one of broad-based strength. Companies are comfortably beating consensus estimates-even as those forecasts were revised upward leading into the reporting cycle-while the overall pace of earnings growth continues to accelerate noticeably.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1c1a7b74f6947628c6fb6eb62cb71b755d99e9620b842c140af3301c5966f5df",
+      "occurred_on": "2026-07-23",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_price": {
+      "id": "ev_GOOGL_20260731_price",
+      "kind": "price",
+      "title": "GOOGL rose 6.73% on 2026-07-31",
+      "detail": "Closed at $356.13 from $333.66. Volume was 1.9x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "pct_change": 6.734,
+        "close": 356.13,
+        "prev_close": 333.66,
+        "volume": 46498000,
+        "volume_vs_30d_avg": 1.88,
+        "move_excluding_sector_pct": 8.55
+      }
+    },
+    "ev_GOOGL_20260731_peer_AAPL": {
+      "id": "ev_GOOGL_20260731_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved -7.35% the same day",
+      "detail": "GOOGL moved +6.73% while AAPL moved -7.35%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": -7.35,
+        "subject_pct_change": 6.734,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260731_peer_INTC": {
+      "id": "ev_GOOGL_20260731_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -1.02% the same day",
+      "detail": "GOOGL moved +6.73% while INTC moved -1.02%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": -1.02,
+        "subject_pct_change": 6.734,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260731_peer_NVDA": {
+      "id": "ev_GOOGL_20260731_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +2.93% the same day",
+      "detail": "GOOGL moved +6.73% while NVDA moved +2.93%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-07-31",
+      "numbers": {
+        "peer_pct_change": 2.93,
+        "subject_pct_change": 6.734,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260731_news0": {
+      "id": "ev_GOOGL_20260731_news0",
+      "kind": "news",
+      "title": "Alphabet Stock Rallies 3.9% as Amazon Revives AI Confidence",
+      "detail": "Reported by Yahoo. Amazon's accelerating cloud growth improved sentiment toward hyperscalers after investors punished Alphabet for its rising capital expenditure.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=5a2034fefbc3aaef3f5cad9e35559c8118045263fca67d943c2a34f1d0eb6cd5",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news1": {
+      "id": "ev_GOOGL_20260731_news1",
+      "kind": "news",
+      "title": "How Alphabet and Amazon Each Built The \u2018Best\u2019 Nvidia Chip Alternatives",
+      "detail": "Reported by Yahoo. Google and Amazon both claim their custom chips can replace Nvidia, but they built completely opposite silicon strategies to get there. Which approach actually holds up when the free cash flow bills come due?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=e8f0f7b42945adf29c1f154d7f3e09f7952c3ab4884519b990253f859f70ba8f",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news2": {
+      "id": "ev_GOOGL_20260731_news2",
+      "kind": "news",
+      "title": "Alphabet Jumps 6%, Reddit Craters 23% in Social Media Stock Divergence?",
+      "detail": "Reported by Yahoo. Reddit just posted a beat-and-raise quarter yet its stock is cratering while Alphabet surges, and the reason why reveals a fault line running through every social media investment thesis right now.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=dcda7eb9e2b11c5c80e918f9de0fdb2695952077318df84423f6ea076402b988",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news3": {
+      "id": "ev_GOOGL_20260731_news3",
+      "kind": "news",
+      "title": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside",
+      "detail": "Reported by Yahoo. Oracle has cratered nearly 50% while its cloud rivals held steady, yet three Wall Street desks are calling for a price that would more than triple your money from here, and a blockbuster new partnership just gave that thesis a serious jolt.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=0e0f3ee98afc86e40eff051234146ffd0b0f43a8e57c0a7bb68e5f5e9f33c980",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news4": {
+      "id": "ev_GOOGL_20260731_news4",
+      "kind": "news",
+      "title": "The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",
+      "detail": "Reported by Yahoo. While investors chase chipmakers and AI startups, this earnings season quietly revealed a group of companies already converting signed customer commitments into surging cash flow, and the math behind their advantage may surprise you.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=aebe039e906efee058e57349f948fffa451aa08b1fc0ccf82daa92b27045f161",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news5": {
+      "id": "ev_GOOGL_20260731_news5",
+      "kind": "news",
+      "title": "Alphabet: Free Cash Flow Collapse Changes Everything",
+      "detail": "Reported by SeekingAlpha. Alphabet (GOOG) Q2 beats: Search/Cloud growth and +30% operating income, but FCF turns negative as capex surges. Click here to read my latest analysis.",
+      "source": "SeekingAlpha (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3279c2b4c5c55e4c7b3e9519e99a77dfd0ddc38b7d85b96c710f80851d0611f9",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news6": {
+      "id": "ev_GOOGL_20260731_news6",
+      "kind": "news",
+      "title": "Google Cloud Has Become Alphabet\u2019s (GOOG) Primary Valuation Driver",
+      "detail": "Reported by Yahoo. Investment management company Vulcan Value Partners recently released its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. Vulcan Value Partners prioritizes long-term returns and lower risk over short-term performance. In the quarter, the Large Cap Composite (Net) returned 9.5%, the Small Cap Composite (Net) returned 13.3%, the Focus Composite (Net) returned 10.4%, the [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=18cf5041bf65de975d8c3d8c12885ca0d242bc68095d9b6d57429e21be928bed",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260731_news7": {
+      "id": "ev_GOOGL_20260731_news7",
+      "kind": "news",
+      "title": "RDDT Stock Is In The Limelight Today After Massive Pre-Market Fall \u2014 GOOGL Friction Raises AI Licensing Risks, Says Wells Fargo",
+      "detail": "Reported by Yahoo. The selloff in Reddit shares came as investors looked past the earnings beat and focused on slowing U.S. user growth and management's commentary on its relationship with Google.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=18fbdff129f8966caf528c95dd662dae51c09bdda35993d6269e65de7f691d05",
+      "occurred_on": "2026-07-31",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_price": {
+      "id": "ev_GOOGL_20260803_price",
+      "kind": "price",
+      "title": "GOOGL rose 4.88% on 2026-08-03",
+      "detail": "Closed at $373.51 from $356.13. Volume was 1.6x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-08-03",
+      "numbers": {
+        "pct_change": 4.88,
+        "close": 373.51,
+        "prev_close": 356.13,
+        "volume": 38669700,
+        "volume_vs_30d_avg": 1.56,
+        "move_excluding_sector_pct": 4.2
+      }
+    },
+    "ev_GOOGL_20260803_peer_AAPL": {
+      "id": "ev_GOOGL_20260803_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved -1.78% the same day",
+      "detail": "GOOGL moved +4.88% while AAPL moved -1.78%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-08-03",
+      "numbers": {
+        "peer_pct_change": -1.78,
+        "subject_pct_change": 4.88,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260803_peer_INTC": {
+      "id": "ev_GOOGL_20260803_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +0.89% the same day",
+      "detail": "GOOGL moved +4.88% while INTC moved +0.89%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-08-03",
+      "numbers": {
+        "peer_pct_change": 0.89,
+        "subject_pct_change": 4.88,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260803_peer_NVDA": {
+      "id": "ev_GOOGL_20260803_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +2.93% the same day",
+      "detail": "GOOGL moved +4.88% while NVDA moved +2.93%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-08-03",
+      "numbers": {
+        "peer_pct_change": 2.93,
+        "subject_pct_change": 4.88,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260803_news0": {
+      "id": "ev_GOOGL_20260803_news0",
+      "kind": "news",
+      "title": "META, GOOGL Stocks In Focus \u2014 White House Plans Meeting With Tech Giants On Tuesday Over AI Safety Tests, Says Report",
+      "detail": "Reported by Yahoo. Apart from Google and Meta, OpenAI and Anthropic were also reportedly invited to discuss voluntary AI safety testing with White House officials.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=05a0db6aea9fd1f56ec6fe838621a7b562476b6ea286d4e65e7fe9c5b3d53cd8",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news1": {
+      "id": "ev_GOOGL_20260803_news1",
+      "kind": "news",
+      "title": "Teads Files Lawsuit Against Google Seeking Financial Damages Following Federal Court Antitrust Ruling",
+      "detail": "Reported by Yahoo. NEW YORK, Aug. 03, 2026 (GLOBE NEWSWIRE) -- Teads Holding Co. (Nasdaq: TEAD), the omnichannel outcomes platform, today announced that it has filed a lawsuit in the U.S. District Court for the Southern District of New York against Google LLC and Alphabet Inc. (together, \"Google\") seeking financial damages and other legal remedies. The lawsuit follows the ruling by the U.S. District Court for the Eastern District of Virginia, which found that Google LLC had engaged in unlawful anticompetitive prac",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=e51fadddadad4d8a245565d0a3cd1b61f4e27e94b24c0b2141555a1145c21eb1",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news2": {
+      "id": "ev_GOOGL_20260803_news2",
+      "kind": "news",
+      "title": "Alphabet's Earnings Skyrocketed in Q2. Here's Why They Could End Up in the Red Next Quarter",
+      "detail": "Reported by Yahoo. Alphabet's earnings were up nearly 300% last quarter, largely due to investments.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=9f35c5b907f97a7761d2cb8eb437fe24131ea2e0b22da3bb4cc2848c8e098386",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news3": {
+      "id": "ev_GOOGL_20260803_news3",
+      "kind": "news",
+      "title": "Google Exec Teases Bigger Plan Behind AI Spending",
+      "detail": "Reported by Yahoo. The potential breakthrough comes with a dangerous revenue gap",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=2d9b7208d03917bb8ffca633edfb1dfc7285c3b2f1748e3e27c877170badd947",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news4": {
+      "id": "ev_GOOGL_20260803_news4",
+      "kind": "news",
+      "title": "Alphabet Stock Jumps 5.3% as Investors Rethink Massive AI Spending",
+      "detail": "Reported by Yahoo. Amazon's cloud acceleration strengthened confidence that Alphabet's own infrastructure investments could generate measurable revenue growth.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=3bd331b4068f89e93935ec3d6d3f7953c65f7487fb86a5d76d60ef9a1e8f9392",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news5": {
+      "id": "ev_GOOGL_20260803_news5",
+      "kind": "news",
+      "title": "Why Alphabet Stock Popped Today",
+      "detail": "Reported by Yahoo. Alphabet might remain free cash flow positive in 2026 -- but what about 2027?",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fbe3ed87ed8ade2fddf40420da15a3735454c6475d2ceae04ef9de4e1b74f0c4",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news6": {
+      "id": "ev_GOOGL_20260803_news6",
+      "kind": "news",
+      "title": "GOOGL Stock Gains Over 5%: Google Locks Major Long-Term Solar Power Deal With RWE \u2014 Retail Sees An AI Infrastructure Play",
+      "detail": "Reported by Yahoo. Google will source the full output of RWE\u2019s Oklahoma solar project under a 15-year agreement, with operations slated to begin in 2028.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=be7a67c98d42bb97025297185dd7890aba494e9fb2bf93b98d657191b76ccac1",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260803_news7": {
+      "id": "ev_GOOGL_20260803_news7",
+      "kind": "news",
+      "title": "Microsoft Races Ahead Of Google In The Cloud",
+      "detail": "Reported by Yahoo. The cloud war between Microsoft, Google, and Amazon is reshaping how AI gets built and deployed, and the gap between the three giants may surprise you. Hundreds of billions of dollars hinge on which platform corporations trust with their future.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=914c6ddd3dc066058da96a3981145eaca43cc95fb5f2e72b7f10d158accac6c9",
+      "occurred_on": "2026-08-03",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_price": {
+      "id": "ev_GOOGL_20260805_price",
+      "kind": "price",
+      "title": "GOOGL fell 4.03% on 2026-08-05",
+      "detail": "Closed at $362.43 from $377.65. Volume was 1.9x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "pct_change": -4.03,
+        "close": 362.43,
+        "prev_close": 377.65,
+        "volume": 46926300,
+        "volume_vs_30d_avg": 1.89,
+        "move_excluding_sector_pct": 5.42
+      }
+    },
+    "ev_GOOGL_20260805_peer_AAPL": {
+      "id": "ev_GOOGL_20260805_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved +0.52% the same day",
+      "detail": "GOOGL moved -4.03% while AAPL moved +0.52%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": 0.52,
+        "subject_pct_change": -4.03,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260805_peer_INTC": {
+      "id": "ev_GOOGL_20260805_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved +0.20% the same day",
+      "detail": "GOOGL moved -4.03% while INTC moved +0.20%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": 0.2,
+        "subject_pct_change": -4.03,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260805_peer_NVDA": {
+      "id": "ev_GOOGL_20260805_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved +3.44% the same day",
+      "detail": "GOOGL moved -4.03% while NVDA moved +3.44%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-08-05",
+      "numbers": {
+        "peer_pct_change": 3.44,
+        "subject_pct_change": -4.03,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260805_news0": {
+      "id": "ev_GOOGL_20260805_news0",
+      "kind": "news",
+      "title": "US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock \u2014 GOOGL, UBER, META, FLUT, AMZN In Focus",
+      "detail": "Reported by Yahoo. 911.5 million shares held by SpaceX employees and early investors become eligible for sale on Thursday.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d323cfadc27b0c79ecea54a762c5e0f5987b0fbc36d16a493c645ff577956321",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news1": {
+      "id": "ev_GOOGL_20260805_news1",
+      "kind": "news",
+      "title": "Google reshuffles AI leadership as top scientist leaves to launch startup",
+      "detail": "Reported by CNBC. CNBC\u2019s MacKenzie Sigalos reports on Jeff Dean\u2019s departure, Demis Hassabis stepping back from day-to-day management, and why the changes are adding to concerns about Google\u2019s loss of top AI talent.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=c83c4b351092383bb6d7655c523f9ff147571a96e4ab95649a70f2fed21c67eb",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news2": {
+      "id": "ev_GOOGL_20260805_news2",
+      "kind": "news",
+      "title": "Google-parent Alphabet shakes up AI division",
+      "detail": "Reported by Yahoo. Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.\u00a0Hassabis will take on two new titles, Alphabet announced on Wednesday: chair of DeepMind and chief scientist of Alphabet.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f7c2754427b3c9a0616f52fc347ec4d350d608802beae7063ec9589a50124b20",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news3": {
+      "id": "ev_GOOGL_20260805_news3",
+      "kind": "news",
+      "title": "Alphabet shares fall after major shakeup at Google\u2019s AI unit",
+      "detail": "Reported by CNBC. CNBC\u2019s MacKenzie Sigalos reports on leadership changes inside Alphabet\u2019s AI lab, including Jeff Dean\u2019s departure, Demis Hassabis stepping back from day-to-day management, and growing pressure on Google\u2019s talent ranks.",
+      "source": "CNBC (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=74babf9b0f3096ab73db65672e80de41eb49c6f9b09c2fc4bb0a7143a67a9648",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news4": {
+      "id": "ev_GOOGL_20260805_news4",
+      "kind": "news",
+      "title": "Amazon and Alphabet Just Crushed Expectations. Which Is the Better Buy Now?",
+      "detail": "Reported by Yahoo. Amazon and Alphabet are remarkably comparable.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=d1d64125f1a73dbe21c634c2df636be59acd168e9899d09e25edd57c5aa3479c",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news5": {
+      "id": "ev_GOOGL_20260805_news5",
+      "kind": "news",
+      "title": "AI Trailblazers Nvidia, Palantir, Alphabet, and Meta Are Shaking Wall Street to Its Core With This $3.4 Billion Warning",
+      "detail": "Reported by Yahoo. The people who know these AI pioneers best are sending a worrisome message.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=36f36226d4d7300e5be9c0851dc939386f3d64e913f98d529956256b8fab1dd6",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news6": {
+      "id": "ev_GOOGL_20260805_news6",
+      "kind": "news",
+      "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+      "detail": "Reported by Yahoo. The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=f546d76ca0972300cdacdeef05978febf17dd27de394c36934129764360b28f7",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260805_news7": {
+      "id": "ev_GOOGL_20260805_news7",
+      "kind": "news",
+      "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+      "detail": "Reported by Yahoo. If you hold shares, you're already carrying exposure to a potential swing that could redefine the stock's value over the coming year.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=958a56e55bcf167d88870236ffbc50ea29b2df0de4e6fe292166b4ca4d3050e7",
+      "occurred_on": "2026-08-05",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_price": {
+      "id": "ev_GOOGL_20260914_price",
+      "kind": "price",
+      "title": "GOOGL rose 3.22% on 2026-09-14",
+      "detail": "Closed at $349.39 from $338.50. Volume was 1.4x the 30-day average.",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/GOOGL/history",
+      "occurred_on": "2026-09-14",
+      "numbers": {
+        "pct_change": 3.217,
+        "close": 349.39,
+        "prev_close": 338.5,
+        "volume": 35905400,
+        "volume_vs_30d_avg": 1.45,
+        "move_excluding_sector_pct": 6.12
+      }
+    },
+    "ev_GOOGL_20260914_peer_AAPL": {
+      "id": "ev_GOOGL_20260914_peer_AAPL",
+      "kind": "peer_move",
+      "title": "AAPL (supplier) moved +0.24% the same day",
+      "detail": "GOOGL moved +3.22% while AAPL moved +0.24%. AAPL is GOOGL's supplier (search services licensing arrangements), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/AAPL/history",
+      "occurred_on": "2026-09-14",
+      "numbers": {
+        "peer_pct_change": 0.24,
+        "subject_pct_change": 3.217,
+        "relationship": "supplier"
+      }
+    },
+    "ev_GOOGL_20260914_peer_INTC": {
+      "id": "ev_GOOGL_20260914_peer_INTC",
+      "kind": "peer_move",
+      "title": "INTC (competitor) moved -5.59% the same day",
+      "detail": "GOOGL moved +3.22% while INTC moved -5.59%. INTC is GOOGL's competitor (custom silicon for data center and AI workloads), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/INTC/history",
+      "occurred_on": "2026-09-14",
+      "numbers": {
+        "peer_pct_change": -5.59,
+        "subject_pct_change": 3.217,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260914_peer_NVDA": {
+      "id": "ev_GOOGL_20260914_peer_NVDA",
+      "kind": "peer_move",
+      "title": "NVDA (competitor) moved -3.36% the same day",
+      "detail": "GOOGL moved +3.22% while NVDA moved -3.36%. NVDA is GOOGL's competitor (cloud services and AI computing hardware and software), per the knowledge graph (source: 10-K).",
+      "source": "Yahoo Finance (via yfinance)",
+      "url": "https://finance.yahoo.com/quote/NVDA/history",
+      "occurred_on": "2026-09-14",
+      "numbers": {
+        "peer_pct_change": -3.36,
+        "subject_pct_change": 3.217,
+        "relationship": "competitor"
+      }
+    },
+    "ev_GOOGL_20260914_news0": {
+      "id": "ev_GOOGL_20260914_news0",
+      "kind": "news",
+      "title": "Meta, Google, OpenAI, Snap in Focus as EU Reportedly Moves to Keep Under-15s off Social Media and ChatGPT",
+      "detail": "Reported by Benzinga. The EU plans tougher child-safety rules that would limit under-15s\u2019 access to social media, ChatGPT and online games.",
+      "source": "Benzinga (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=7f25d4f8fa8d41fb33d8aa737801f95a794cfe9ea647b35a9727eae32007f103",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news1": {
+      "id": "ev_GOOGL_20260914_news1",
+      "kind": "news",
+      "title": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google\u2019s AI Chief Agree.",
+      "detail": "Reported by Yahoo. A rare moment of unity among AI's fiercest rivals.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=8f9d0c4d3b67f44740f229033040842d0c45fe158ddb989abe9c39e90cb4d972",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news2": {
+      "id": "ev_GOOGL_20260914_news2",
+      "kind": "news",
+      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+      "detail": "Reported by Yahoo. AI spending is now large enough to distort the bond market around it. Reuters reported on September 10 that Alphabet, Amazon, Meta, Microsoft and Oracle issued roughly $220 billion of bonds over the prior year as they funded data-center expansion. Similar credits are no longer always trading at similar spreads as repeated giant deals flood [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=90ec7de50bce06e131bad79726bd4df850afa47acc3da8ba426d9ece1d110b45",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news3": {
+      "id": "ev_GOOGL_20260914_news3",
+      "kind": "news",
+      "title": "Google, OpenAI, Anthropic Weigh High-Stakes AI Pact",
+      "detail": "Reported by Yahoo. The industry may be trying to write rules first",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=1e6bc733554ff5d7cda4473bbe7648bc30776194cbca81856e62c30fcd17a650",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news4": {
+      "id": "ev_GOOGL_20260914_news4",
+      "kind": "news",
+      "title": "Alphabet Gains as AI Slowdown Fears Split the Computing Trade",
+      "detail": "Reported by Yahoo. Training new models and serving existing ones create different demand risks for Google's infrastructure business.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fed09f217a4a7cfe9c84d4102b3e4d08a6cc3f654d1e13e6521fa1803b09d223",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news5": {
+      "id": "ev_GOOGL_20260914_news5",
+      "kind": "news",
+      "title": "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
+      "detail": "Reported by Yahoo. Shares of Netflix (NASDAQ:NFLX) are climbing Monday afternoon after the streaming giant helped launch a new policy coalition focused on how digital platforms compete for live entertainment and sports rights. Netflix stock is up 4% to $80.78, outpacing its sector benchmark by a comfortable margin. The move stands out because Netflix stock had entered the [\u2026]",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=fade9e0faef0b0639f6398ea9e50dfffd2e862e25a6145ef9901dd9a9e1071a9",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news6": {
+      "id": "ev_GOOGL_20260914_news6",
+      "kind": "news",
+      "title": "Whoever Spends Smarter Wins the Microsoft-Alphabet Cloud Fight. Here Is Who Is Ahead.",
+      "detail": "Reported by Yahoo. Microsoft and Alphabet both posted monster cloud quarters and both are spending at a pace that would have seemed reckless two years ago, but only one of them is funding the buildout without going to the debt markets, and that gap may define the trade for 2027.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=deeeed8a2af58f60c595c3d92caa55f1f020967d3872e74c40703b5fb60a3824",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_20260914_news7": {
+      "id": "ev_GOOGL_20260914_news7",
+      "kind": "news",
+      "title": "Google: Measurement Shouldn't Be A Record Of Where Budget Went",
+      "detail": "Reported by Yahoo. Marketing and business data should be used to drive future growth, not just report on past spending, according to Google.",
+      "source": "Yahoo (via Finnhub company news)",
+      "url": "https://finnhub.io/api/news?id=7523e4b71f77258017b834374ef86a903b69a8160f95ec28499350da65b3ee58",
+      "occurred_on": "2026-09-14",
+      "numbers": {}
+    },
+    "ev_GOOGL_fund_revenue": {
+      "id": "ev_GOOGL_fund_revenue",
+      "kind": "fundamental",
+      "title": "Revenue: 90,234,000,000 (2025-03-31)",
+      "detail": "Reported on form 10-Q, +17.7% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/",
+      "occurred_on": "2025-04-25",
+      "numbers": {
+        "value": 90234000000,
+        "period_end": "2025-03-31",
+        "xbrl_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "yoy_pct_change": 17.66
+      }
+    },
+    "ev_GOOGL_fund_net_income": {
+      "id": "ev_GOOGL_fund_net_income",
+      "kind": "fundamental",
+      "title": "Net Income: 112,193,000,000 (2026-06-30)",
+      "detail": "Reported on form 10-Q, +224.8% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "value": 112193000000,
+        "period_end": "2026-06-30",
+        "xbrl_tag": "NetIncomeLoss",
+        "yoy_pct_change": 224.82
+      }
+    },
+    "ev_GOOGL_fund_operating_income": {
+      "id": "ev_GOOGL_fund_operating_income",
+      "kind": "fundamental",
+      "title": "Operating Income: 40,770,000,000 (2026-06-30)",
+      "detail": "Reported on form 10-Q, +33.2% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "value": 40770000000,
+        "period_end": "2026-06-30",
+        "xbrl_tag": "OperatingIncomeLoss",
+        "yoy_pct_change": 33.21
+      }
+    },
+    "ev_GOOGL_fund_rnd_expense": {
+      "id": "ev_GOOGL_fund_rnd_expense",
+      "kind": "fundamental",
+      "title": "Rnd Expense: 18,219,000,000 (2026-06-30)",
+      "detail": "Reported on form 10-Q, +34.4% year over year.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/",
+      "occurred_on": "2026-07-23",
+      "numbers": {
+        "value": 18219000000,
+        "period_end": "2026-06-30",
+        "xbrl_tag": "ResearchAndDevelopmentExpense",
+        "yoy_pct_change": 34.4
+      }
+    }
+  },
+  "arc": "Throughout the spring and summer of 2026, Alphabet traded in wide, volatile swings dictated almost entirely by the escalating scale and cost of its artificial intelligence ambitions. Exceptional operational beats\u2014such as Q1 cloud acceleration and Q2 cloud revenue expanding 82%\u2014consistently validated end-market demand, yet each operational milestone was met by severe investor anxiety over capital expenditures. Shocks including an unexpected $80 billion equity capital raise and a revised 2026 capex forecast of roughly $200 billion sparked sharp selloffs as Alphabet experienced unprecedented quarterly cash burn. Compounding these capital concerns were high-profile talent departures and leadership changes inside Google DeepMind, offset periodically by structural tailwinds like its high-profile inclusion in the Dow Jones Industrial Average. For investors, the period demonstrated that while Alphabet's core cloud and search engines are monetizing AI infrastructure rapidly, equity valuation remains acutely sensitive to dilution, cash burn, and the timeline for multi-billion-dollar investments to convert into free cash flow.",
+  "arc_citation_ids": [
+    "ev_GOOGL_20260430_news1",
+    "ev_GOOGL_20260602_news0",
+    "ev_GOOGL_20260622_news5",
+    "ev_GOOGL_20260629_news1",
+    "ev_GOOGL_20260723_news5",
+    "ev_GOOGL_20260723_news6",
+    "ev_GOOGL_20260805_news1"
+  ],
+  "warnings": []
+}
